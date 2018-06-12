@@ -13,6 +13,10 @@ papers that is interesting and worth reading
 * Robust Solving of Optical Motion Capture Data by Denoising [[link]](http://montreal.ubisoft.com/en/robust-solving-of-optical-motion-capture-data-by-denoising/)
 * MonoPerfCap: Human Performance Capture from Monocular Video [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
 
+## SIGGRAPH 2017
+* Unmixing-Based Soft Color Segmentation for Image Manipulation [[link]](http://people.inf.ethz.ch/aksoyy/scs/)
+* Interactive High-Quality Green-Screen Keying via Color Unmixing [[link]](http://people.inf.ethz.ch/aksoyy/keying/)
+
 ## Image / Video
 * Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)
 * Deep Image Matting [[link]](https://arxiv.org/pdf/1703.03872.pdf)[[code]](https://github.com/Joker316701882/Deep-Image-Matting)

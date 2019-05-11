@@ -1,5 +1,4 @@
-# Fun Papers
-papers that is interesting and worth reading
+# Fun Papers in Graphics/Vision/Hci
 
 ## SIGGRAPH 
 ### SIGGRAPH 2019

@@ -1,4 +1,5 @@
-# Fun Papers in Graphics/Vision/Hci
+# Fun Papers
+in Graphics Vision HCI
 
 ## SIGGRAPH 
 ### SIGGRAPH 2019

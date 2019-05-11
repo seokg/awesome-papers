@@ -4,8 +4,8 @@ papers that is interesting and worth reading
 ## SIGGRAPH 2019
 * Single Image Portrait Relighting [[link]]
 * Local Light Field Fusion: Practical View Synthesis 
-with Prescriptive Sampling Guidelines [[link]]http://people.eecs.berkeley.edu/~bmild/llff/ [[code]](https://github.com/Fyusion/LLFF)
-* Multi-view Relighting using a Geometry-Aware Network [[link]]https://repo-sam.inria.fr/fungraph/deep-relighting/)
+with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~bmild/llff/) [[code]](https://github.com/Fyusion/LLFF)
+* Multi-view Relighting using a Geometry-Aware Network [[link]](https://repo-sam.inria.fr/fungraph/deep-relighting/)
 * Learning Character-Agnostic Motion for Motion Retargeting in 2D [[link]](https://motionretargeting2d.github.io/)[[code]](https://github.com/ChrisWu1997/2D-Motion-Retargeting)
 * Synthetic Defocus and Look-Ahead Autofocus for Casual Videograph [[link]]
 * Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)

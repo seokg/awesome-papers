@@ -28,7 +28,11 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * Unmixing-Based Soft Color Segmentation for Image Manipulation [[link]](http://people.inf.ethz.ch/aksoyy/scs/)
 * Interactive High-Quality Green-Screen Keying via Color Unmixing [[link]](http://people.inf.ethz.ch/aksoyy/keying/)
 
+---
 
+## GRAPHICS
+* Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)
+* Stylizing Animation By Example[[link]](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf)
 
 ## VISION
 * `EECV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
@@ -37,6 +41,4 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 ## HCI
 
 
-## GRAPHICS
-* Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)
-* Stylizing Animation By Example[[link]](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf)
+

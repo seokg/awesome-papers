@@ -30,8 +30,8 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 
 
 ## VISION
-* EECV2018 Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
-* CVPR2017 Deep Image Matting [[link]](https://arxiv.org/pdf/1703.03872.pdf)[[code]](https://github.com/Joker316701882/Deep-Image-Matting)[[code2]](https://github.com/foamliu/Deep-Image-Matting)
+* `EECV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
+* `CVPR2017` Deep Image Matting [[link]](https://arxiv.org/pdf/1703.03872.pdf)[[code]](https://github.com/Joker316701882/Deep-Image-Matting)[[code2]](https://github.com/foamliu/Deep-Image-Matting)
 
 ## ETC
 * Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)

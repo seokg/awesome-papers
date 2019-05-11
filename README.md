@@ -1,7 +1,8 @@
 # Fun Papers
 papers that is interesting and worth reading
 
-## SIGGRAPH 2019
+## SIGGRAPH 
+### SIGGRAPH 2019
 * Single Image Portrait Relighting [[link]]
 * Local Light Field Fusion: Practical View Synthesis 
 with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~bmild/llff/) [[code]](https://github.com/Fyusion/LLFF)
@@ -11,7 +12,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
 * Physics-based Full-body Soccer Motion Control for Dribbling and Shooting [[link]](https://vml.kaist.ac.kr/main/international/individual/156)
 
-## SIGGRAPH 2018
+### SIGGRAPH 2018
 * Non-stationary Texture Synthesis by Adversarial Expansion [[link]](http://vcc.szu.edu.cn/research/2018/TexSyn)[[code]](https://github.com/jessemelpolio/non-stationary_texture_syn)
 * Semantic Soft Segmentation [[link]](http://people.inf.ethz.ch/aksoyy/sss/)
 * Stereo Magnification: Learning View Synthesis using Multiplane Images [[link]](https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/)
@@ -23,7 +24,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * Robust Solving of Optical Motion Capture Data by Denoising [[link]](http://montreal.ubisoft.com/en/robust-solving-of-optical-motion-capture-data-by-denoising/)
 * MonoPerfCap: Human Performance Capture from Monocular Video [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
 
-## SIGGRAPH 2017
+### SIGGRAPH 2017
 * Unmixing-Based Soft Color Segmentation for Image Manipulation [[link]](http://people.inf.ethz.ch/aksoyy/scs/)
 * Interactive High-Quality Green-Screen Keying via Color Unmixing [[link]](http://people.inf.ethz.ch/aksoyy/keying/)
 
@@ -33,7 +34,9 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `EECV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
 * `CVPR2017` Deep Image Matting [[link]](https://arxiv.org/pdf/1703.03872.pdf)[[code]](https://github.com/Joker316701882/Deep-Image-Matting)[[code2]](https://github.com/foamliu/Deep-Image-Matting)
 
-## ETC
-* Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)
+## HCI
 
+
+## GRAPHICS
+* Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)
 * Stylizing Animation By Example[[link]](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf)

@@ -11,6 +11,10 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * Synthetic Defocus and Look-Ahead Autofocus for Casual Videograph [[link]]
 * Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
 * Physics-based Full-body Soccer Motion Control for Dribbling and Shooting [[link]](https://vml.kaist.ac.kr/main/international/individual/156)
+* Neural Rendering and Reenactment of Human Actor Videos [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/)
+* Joint Stabilization and Direction of 360° Videos
+[[link]](https://dl.acm.org/citation.cfm?doid=3313807.3211889)
+* Deferred Neural Rendering: Image Synthesis using Neural Textures [[link]](https://niessnerlab.org/projects/thies2019neural.html)
 
 ### SIGGRAPH 2018
 * Non-stationary Texture Synthesis by Adversarial Expansion [[link]](http://vcc.szu.edu.cn/research/2018/TexSyn)[[code]](https://github.com/jessemelpolio/non-stationary_texture_syn)

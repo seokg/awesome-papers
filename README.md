@@ -8,7 +8,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPH 2019` Multi-view Relighting using a Geometry-Aware Network [[link]](https://repo-sam.inria.fr/fungraph/deep-relighting/)
 * `SIGGRAPH 2019` Learning Character-Agnostic Motion for Motion Retargeting in 2D [[link]](https://motionretargeting2d.github.io/)[[code]](https://github.com/ChrisWu1997/2D-Motion-Retargeting)
 * `SIGGRAPH 2019` Synthetic Defocus and Look-Ahead Autofocus for Casual Videograph [[link]]
-* `SIGGRAPH 2019``SIGGRAPH 2019` Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
+* `SIGGRAPH 2019` Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
 * `SIGGRAPH 2019` Physics-based Full-body Soccer Motion Control for Dribbling and Shooting [[link]](https://vml.kaist.ac.kr/main/international/individual/156)
 * `SIGGRAPH 2019` Neural Rendering and Reenactment of Human Actor Videos [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/)
 * `SIGGRAPH 2019` Joint Stabilization and Direction of 360° Videos

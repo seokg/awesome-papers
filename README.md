@@ -48,6 +48,9 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)
 * `CVPR2017` Deep Image Matting [[link]](https://arxiv.org/pdf/1703.03872.pdf)[[code]](https://github.com/Joker316701882/Deep-Image-Matting)[[code2]](https://github.com/foamliu/Deep-Image-Matting)
 * FaceShapeGene: A Disentangled Shape Representation for Flexible Face Image Editing
+
+### style transfer
+* `ICCV2017` Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[link]](https://arxiv.org/abs/1703.06868)[[code]](https://github.com/xunhuang1995/AdaIN-style)
 ### inverse rendering
 * Lifting AutoEncoders: Unsupervised Learning of a Fully-Disentangled 3D Morphable Model using Deep Non-Rigid Structure from Motion
 ---

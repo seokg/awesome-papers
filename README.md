@@ -55,6 +55,8 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 ## VISION
 * `EECV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
 * `CVPR2016` Spatiotemporal Bundle Adjustment
+* HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)
+
 ## HCI
 
 

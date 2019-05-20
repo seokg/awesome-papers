@@ -2,7 +2,7 @@
 in Graphics Vision HCI
 
 ## SIGGRAPH 
-* `SIGGRAPH 2019` Single Image Portrait Relighting [[link]]
+* `SIGGRAPH 2019` Single Image Portrait Relighting [[link]](https://arxiv.org/pdf/1905.00824.pdf)
 * `SIGGRAPH 2019` Local Light Field Fusion: Practical View Synthesis 
 with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~bmild/llff/) [[code]](https://github.com/Fyusion/LLFF)
 * `SIGGRAPH 2019` Multi-view Relighting using a Geometry-Aware Network [[link]](https://repo-sam.inria.fr/fungraph/deep-relighting/)
@@ -69,4 +69,4 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 ## HCI
 
 
-
+*  `CHI2016` Airways: Optimization-Based Planning of Quadrotor Trajectories according to High-Level User Goals [[link]](https://ait.ethz.ch/projects/2016/airways/downloads/paper1570.pdf)[[video]](https://www.youtube.com/watch?v=6krfPE0ADdw)

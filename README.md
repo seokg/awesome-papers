@@ -65,6 +65,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 ## VISION
 
 * `CVPR2016` Spatiotemporal Bundle Adjustment
+* `Arixiv2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 
 ## HCI
 

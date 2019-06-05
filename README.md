@@ -63,7 +63,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `EECV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
 * `Arxiv2019` NVS Machines: Learning Novel View Synthesis with Fine-grained View Control [[link]](https://arxiv.org/pdf/1901.01880.pdf)
 * HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)
-
+* `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)
 ---
 
 ## VISION

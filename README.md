@@ -7,15 +7,15 @@ in Graphics Vision HCI
 with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~bmild/llff/) [[code]](https://github.com/Fyusion/LLFF)
 * `SIGGRAPH2019` Multi-view Relighting using a Geometry-Aware Network [[link]](https://repo-sam.inria.fr/fungraph/deep-relighting/)
 * `SIGGRAPH2019` Learning Character-Agnostic Motion for Motion Retargeting in 2D [[link]](https://motionretargeting2d.github.io/)[[code]](https://github.com/ChrisWu1997/2D-Motion-Retargeting)
-* `SIGGRAPH2019` Synthetic Defocus and Look-Ahead Autofocus for Casual Videograph [[link]]
+* `SIGGRAPH2019` Synthetic Defocus and Look-Ahead Autofocus for Casual Videograph [[link]](https://ceciliavision.github.io/vid-auto-focus/)
 * `SIGGRAPH2019` Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
 * `SIGGRAPH2019` Physics-based Full-body Soccer Motion Control for Dribbling and Shooting [[link]](https://vml.kaist.ac.kr/main/international/individual/156)
 * `SIGGRAPH 2019` Neural Rendering and Reenactment of Human Actor Videos [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/)
 * `SIGGRAPH2019` Joint Stabilization and Direction of 360° Videos
 [[link]](https://dl.acm.org/citation.cfm?doid=3313807.3211889)
 * `SIGGRAPH2019` Deferred Neural Rendering: Image Synthesis using Neural Textures [[link]](https://niessnerlab.org/projects/thies2019neural.html)
-
-
+* `SIGGRAPH2019` Deep View Synthesis from Sparse Photometric Images [[link]](http://cseweb.ucsd.edu/~ravir/zexiangview.pdf)
+* `SIGGRAPH2019` Stylizing Video by Example [[link]]
 * `SIGGRAPH2018` Non-stationary Texture Synthesis by Adversarial Expansion [[link]](http://vcc.szu.edu.cn/research/2018/TexSyn)[[code]](https://github.com/jessemelpolio/non-stationary_texture_syn)
 * `SIGGRAPH2018` Semantic Soft Segmentation [[link]](http://people.inf.ethz.ch/aksoyy/sss/)
 * `SIGGRAPH2018` Stereo Magnification: Learning View Synthesis using Multiplane Images [[link]](https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/)

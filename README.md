@@ -75,3 +75,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 
 
 *  `CHI2016` Airways: Optimization-Based Planning of Quadrotor Trajectories according to High-Level User Goals [[link]](https://ait.ethz.ch/projects/2016/airways/downloads/paper1570.pdf)[[video]](https://www.youtube.com/watch?v=6krfPE0ADdw)
+
+
+## Notes from conferences
+* Practical Least-Squares for Computer Graphics [[link]](http://graphics.stanford.edu/~jplewis/lscourse/ls.pdf)

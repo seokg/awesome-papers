@@ -2,6 +2,7 @@
 in Graphics Vision HCI
 
 ## SIGGRAPH 
+* `SIGGRAPH2019` Text-based Editing of Talking-head Video[[link]](https://www.ohadf.com/projects/text-based-editing/)
 * `SIGGRAPH2019` Single Image Portrait Relighting [[link]](https://arxiv.org/pdf/1905.00824.pdf)
 * `SIGGRAPH2019` Local Light Field Fusion: Practical View Synthesis 
 with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~bmild/llff/) [[code]](https://github.com/Fyusion/LLFF)

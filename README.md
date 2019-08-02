@@ -24,7 +24,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPH2019` Deferred Neural Rendering: Image Synthesis using Neural Textures [[link]](https://niessnerlab.org/projects/thies2019neural.html)
 * `SIGGRAPH2019` Deep View Synthesis from Sparse Photometric Images [[link]](http://cseweb.ucsd.edu/~ravir/zexiangview.pdf)
 * `SIGGRAPH2019` Stylizing Video by Example [[link]] (https://dcgi.fel.cvut.cz/home/sykorad/ebsynth.html)
----
+--
 * `SIGGRAPH2018` Non-stationary Texture Synthesis by Adversarial Expansion [[link]](http://vcc.szu.edu.cn/research/2018/TexSyn)[[code]](https://github.com/jessemelpolio/non-stationary_texture_syn)
 * `SIGGRAPH2018` Semantic Soft Segmentation [[link]](http://people.inf.ethz.ch/aksoyy/sss/)
 * `SIGGRAPH2018` Stereo Magnification: Learning View Synthesis using Multiplane Images [[link]](https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/)
@@ -36,7 +36,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPH2018` Robust Solving of Optical Motion Capture Data by Denoising [[link]](http://montreal.ubisoft.com/en/robust-solving-of-optical-motion-capture-data-by-denoising/)
 * `SIGGRAPH2018` MonoPerfCap: Human Performance Capture from Monocular Video [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
 
----
+--
 * `SIGGRAPH2017` Unmixing-Based Soft Color Segmentation for Image Manipulation [[link]](http://people.inf.ethz.ch/aksoyy/scs/)
 * `SIGGRAPH2017` Interactive High-Quality Green-Screen Keying via Color Unmixing [[link]](http://people.inf.ethz.ch/aksoyy/keying/)
 

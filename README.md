@@ -23,7 +23,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 [[link]](https://dl.acm.org/citation.cfm?doid=3313807.3211889)
 * `SIGGRAPH2019` Deferred Neural Rendering: Image Synthesis using Neural Textures [[link]](https://niessnerlab.org/projects/thies2019neural.html)
 * `SIGGRAPH2019` Deep View Synthesis from Sparse Photometric Images [[link]](http://cseweb.ucsd.edu/~ravir/zexiangview.pdf)
-* `SIGGRAPH2019` Stylizing Video by Example [[link]] (https://dcgi.fel.cvut.cz/home/sykorad/ebsynth.html)
+* `SIGGRAPH2019` Stylizing Video by Example [[link]](https://dcgi.fel.cvut.cz/home/sykorad/ebsynth.html)
 ---
 * `SIGGRAPH2018` Non-stationary Texture Synthesis by Adversarial Expansion [[link]](http://vcc.szu.edu.cn/research/2018/TexSyn)[[code]](https://github.com/jessemelpolio/non-stationary_texture_syn)
 * `SIGGRAPH2018` Semantic Soft Segmentation [[link]](http://people.inf.ethz.ch/aksoyy/sss/)

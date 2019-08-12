@@ -39,9 +39,10 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 ---
 * `SIGGRAPH2017` Unmixing-Based Soft Color Segmentation for Image Manipulation [[link]](http://people.inf.ethz.ch/aksoyy/scs/)
 * `SIGGRAPH2017` Interactive High-Quality Green-Screen Keying via Color Unmixing [[link]](http://people.inf.ethz.ch/aksoyy/keying/)
-
+* `SIGGRAPH2016` Perspective-aware Manipulation of Portrait Photos [[link]](https://gfx.cs.princeton.edu/pubs/Fried_2016_PMO/index.php)
 * `SIGGRAPH2014` 3D Object Manipulation in a Single Photograph using Stock 3D Models[[link]](http://www.cs.cmu.edu/~om3d/)[[code]](http://www.cs.cmu.edu/~om3d/)
-
+* `SIGGRAPH2010` Video Tapestries with Continuous Temporal Zoom [[link]](https://gfx.cs.princeton.edu/pubs/Barnes_2010_VTW/index.php)
+* `SIGGRAPH2006` Schematic Storyboarding for Video Visualization and Editing [[link]](https://grail.cs.washington.edu/projects/storyboards/)
 ---
 
 ## GRAPHICS
@@ -69,21 +70,27 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * Lifting AutoEncoders: Unsupervised Learning of a Fully-Disentangled 3D Morphable Model using Deep Non-Rigid Structure from Motion
 
 ### image based rendering
-* `EECV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
+* `CVPR2019`  Neural Rerendering in the Wild [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meshry_Neural_Rerendering_in_the_Wild_CVPR_2019_paper.pdf)[[]]
 * `Arxiv2019` NVS Machines: Learning Novel View Synthesis with Fine-grained View Control [[link]](https://arxiv.org/pdf/1901.01880.pdf)
 * HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)
+* `EECV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
+
 ---
 
 ## VISION
 
-* `CVPR2016` Spatiotemporal Bundle Adjustment
 * `Arixiv2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 * `CVPR2019` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)
+* `CVPR2016` Spatiotemporal Bundle Adjustment
+* `CVPR2015` Finding Distractors In Images [[link]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Fried_Finding_Distractors_In_2015_CVPR_paper.pdf)
+
 ## HCI
 
 
 *  `CHI2016` Airways: Optimization-Based Planning of Quadrotor Trajectories according to High-Level User Goals [[link]](https://ait.ethz.ch/projects/2016/airways/downloads/paper1570.pdf)[[video]](https://www.youtube.com/watch?v=6krfPE0ADdw)
+* `UIST2010` Cosaliency: where people look when comparing images [[link]](http://graphics.stanford.edu/papers/cosaliency/)
+
 
 
 ## Notes from conferences

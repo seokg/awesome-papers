@@ -76,6 +76,15 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)
 * `EECV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
 
+
+---
+## START REPORT [[link]](https://sites.google.com/site/drminchen/cgf-info/cgf-stars)
+* A Survey on Data-Driven Video Completion
+* State of the Art Report on Video-Based Graphics andVideo Visualization
+* A Comparative Review of Tone-Mapping Algorithms for High Dynamic Range Video
+* Intrinsic Decompositions for Image Editing
+* The State of the Art in Integrating Machine Learning into Visual Analytics
+* A Comprehensive Survey on Sampling-Based Image Matting
 ---
 
 ## VISION

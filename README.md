@@ -56,7 +56,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 ### inpainting
 * `CVPR2019` Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
 * `CVPR2019` Deep Flow-Guided Video Inpainting [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
-* `CVPR2019` Deep Video Inpainting [[code]](https://github.com/mcahny/Deep-Video-Inpainting
+* `CVPR2019` Deep Video Inpainting [[code]](https://github.com/mcahny/Deep-Video-Inpainting)
 * `CVPR2019` Foreground-Aware Image Inpainting
 * `CVPR2019` PEPSI : Fast Image Inpainting With Parallel Decoding Network
 * `arixiv2019` PEPSI++: Fast and Lightweight Network for Image Inpainting

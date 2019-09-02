@@ -54,6 +54,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * DynamoNet: Dynamic Action and Motion Network
 
 ### inpainting
+* `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension
 * `ICCV2019` Attention on Attention for Image Captioning
 * `CVPR2019` Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
 * `CVPR2019` Deep Flow-Guided Video Inpainting [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)

@@ -19,8 +19,6 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPH2019` Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
 * `SIGGRAPH2019` Physics-based Full-body Soccer Motion Control for Dribbling and Shooting [[link]](https://vml.kaist.ac.kr/main/international/individual/156)
 * `SIGGRAPH2019` Neural Rendering and Reenactment of Human Actor Videos [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/)
-* `SIGGRAPH2019` Joint Stabilization and Direction of 360° Videos
-[[link]](https://dl.acm.org/citation.cfm?doid=3313807.3211889)
 * `SIGGRAPH2019` Deferred Neural Rendering: Image Synthesis using Neural Textures [[link]](https://niessnerlab.org/projects/thies2019neural.html)
 * `SIGGRAPH2019` Deep View Synthesis from Sparse Photometric Images [[link]](http://cseweb.ucsd.edu/~ravir/zexiangview.pdf)
 * `SIGGRAPH2019` Stylizing Video by Example [[link]](https://dcgi.fel.cvut.cz/home/sykorad/ebsynth.html)

@@ -70,12 +70,12 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 
 
 ### image manipulation and editing
-* SinGAN: Learning a Generative Model from a Single Natural Image
+* SinGAN: Learning a Generative Model from a Single Natural Image [[code]](https://github.com/tamarott/SinGAN)[[code2]](https://github.com/FriedRonaldo/SinGAN)
 * LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup
 * Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)
 * `CVPR2017` Deep Image Matting [[link]](https://arxiv.org/pdf/1703.03872.pdf)[[code]](https://github.com/Joker316701882/Deep-Image-Matting)[[code2]](https://github.com/foamliu/Deep-Image-Matting)
 * FaceShapeGene: A Disentangled Shape Representation for Flexible Face Image Editing
-
+* `ICCV2019` Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation [[link]](http://www.robots.ox.ac.uk/~tvg/publications/2019/ICCV_ISF_camera_ready.pdf)
 ### generative model
 * `CVPR2019` Semantic Image Synthesis with Spatially-Adaptive Normalization [[link]](https://arxiv.org/abs/1903.07291)[[code]](https://github.com/NVlabs/SPADE) [[code2]](https://github.com/taki0112/SPADE-Tensorflow)
 

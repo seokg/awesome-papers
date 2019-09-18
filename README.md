@@ -78,7 +78,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `ICCV2019` Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation [[link]](http://www.robots.ox.ac.uk/~tvg/publications/2019/ICCV_ISF_camera_ready.pdf)
 ### generative model
 * `CVPR2019` Semantic Image Synthesis with Spatially-Adaptive Normalization [[link]](https://arxiv.org/abs/1903.07291)[[code]](https://github.com/NVlabs/SPADE) [[code2]](https://github.com/taki0112/SPADE-Tensorflow)
-
+* `ICCV2019` Specifying Object Attributes and Relations in Interactive Scene Generation [[code]](https://github.com/ashual/scene_generation)
 ### style transfer
 * `ICCV2017` Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[link]](https://arxiv.org/abs/1703.06868)[[code]](https://github.com/xunhuang1995/AdaIN-style)
 

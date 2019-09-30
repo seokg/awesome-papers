@@ -70,6 +70,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 
 
 ### image manipulation and editing
+* SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters [[link]](https://arxiv.org/abs/1805.09313)
 * FSGAN: Subject Agnostic Face Swapping and Reenactment [[link]](https://nirkin.com/fsgan/)
 * SinGAN: Learning a Generative Model from a Single Natural Image [[code]](https://github.com/tamarott/SinGAN)[[code2]](https://github.com/FriedRonaldo/SinGAN)
 * LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup

@@ -1,5 +1,5 @@
 # Fun Papers
-in Graphics Vision HCI
+papers from graphics, vision, and hci
 
 ## SIGGRAPH 
 * `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prio [[link]](http://ganpaint.io/)

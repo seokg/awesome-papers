@@ -49,6 +49,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPH2014` 3D Object Manipulation in a Single Photograph using Stock 3D Models[[link]](http://www.cs.cmu.edu/~om3d/)[[code]](http://www.cs.cmu.edu/~om3d/)
 * `SIGGRAPH2010` Video Tapestries with Continuous Temporal Zoom [[link]](https://gfx.cs.princeton.edu/pubs/Barnes_2010_VTW/index.php)
 * `SIGGRAPH2006` Schematic Storyboarding for Video Visualization and Editing [[link]](https://grail.cs.washington.edu/projects/storyboards/)
+* `SIGGRAPH2005` Interactive Video Cutout [[link]](http://juew.org/projects/VideoCutout/VideoCutout.htm)
 ---
 
 ## GRAPHICS

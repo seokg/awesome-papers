@@ -4,9 +4,9 @@ papers from graphics, vision, and hci
 ## SIGGRAPH 
 * `SIGGRAPHASIA2019` Animating Landscape [[link]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)
 * `SIGGRAPHASIA2019` 3D Ken Burns Effect from a Single Image [[link]](http://sniklaus.com/papers/kenburns)
-* `SIGGRAPHASIA2019` DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html)[[code]](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
+* `SIGGRAPHASIA2019` DeepRemaster [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html)[[code]](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
 * `SIGGRAPHASIA2019` Write-A-Video: Computational Video Montage from Themed Text [[link]](http://www.faculty.idc.ac.il/arik/site/writeVideo.asp)
-* `SIGGRAPHASIA2019`Language-based Colorization of Scene Sketches
+* `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches
  [[link]](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf)[[code]](https://github.com/SketchyScene/SketchySceneColorization)
 ---
 * `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prio [[link]](http://ganpaint.io/)

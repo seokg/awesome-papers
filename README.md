@@ -2,6 +2,13 @@
 papers from graphics, vision, and hci
 
 ## SIGGRAPH 
+* `SIGGRAPHASIA2019` Animating Landscape [[link]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)
+* `SIGGRAPHASIA2019` 3D Ken Burns Effect from a Single Image [[link]](http://sniklaus.com/papers/kenburns)
+* `SIGGRAPHASIA2019` DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html)[[code]](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
+* `SIGGRAPHASIA2019` Write-A-Video: Computational Video Montage from Themed Text [[link]](http://www.faculty.idc.ac.il/arik/site/writeVideo.asp)
+* `SIGGRAPHASIA2019`Language-based Colorization of Scene Sketches
+ [[link]](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf)[[code]](https://github.com/SketchyScene/SketchySceneColorization)
+---
 * `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prio [[link]](http://ganpaint.io/)
 * `SIGGRAPH2019` TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures  [[code]](https://github.com/afruehstueck/tileGAN)
 * `SIGGRAPH2019` Progressive Color Transfer with Dense Semantic Correspondences [[link]](https://arxiv.org/pdf/1710.00756.pdf)
@@ -114,7 +121,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 
 ## HCI
 
-
+* `CHI2019` POSE-GUIDED LEVEL DESIGN [[link]](http://blogs.umb.edu/yongqizhang001/pose-guided-level-design/)
 *  `CHI2016` Airways: Optimization-Based Planning of Quadrotor Trajectories according to High-Level User Goals [[link]](https://ait.ethz.ch/projects/2016/airways/downloads/paper1570.pdf)[[video]](https://www.youtube.com/watch?v=6krfPE0ADdw)
 * `UIST2010` Cosaliency: where people look when comparing images [[link]](http://graphics.stanford.edu/papers/cosaliency/)
 

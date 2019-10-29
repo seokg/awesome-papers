@@ -115,6 +115,33 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 ---
 
 ## VISION
+* `ICCV2019` SinGAN: Learning a Generative Model from a Single Natural Image [[code]](https://github.com/tamarott/SinGAN)
+* `ICCV2019` Specifying Object Attributes and Relations in Interactive Scene Generation [[code]](https://github.com/ashual/scene_generation)
+* `ICCV2019` FaceForensics++: Learning to Detect Manipulated Facial Images [[code]](https://github.com/ondyari/FaceForensics)
+* `ICCV2019` StructureFlow: Image Inpainting via Structure-Aware Appearance Flow [[code]](https://github.com/RenYurui/StructureFlow)
+* `ICCV2019` Generative Adversarial Training for Weakly Supervised Cloud Matting [[link]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.pdf)
+* `ICCV2019` Unsupervised Video Interpolation Using Cycle Consistency [[link]]()
+* `ICCV2019` Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation [[link]]()
+* `ICCV2019` Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation	[[link]]()
+* `ICCV2019` Image Aesthetic Assessment Based on Pairwise Comparison A Unified Approach to Score Regression, Binary Classification, and Personalization [[link]]()
+* `ICCV2019` Exploring Randomly Wired Neural Networks for Image Recognition[[link]]()
+* `ICCV2019` Searching for MobileNetV3 [[link]]()
+* `ICCV2019` Deep Non-Rigid Structure From Motion	[[link]]()
+* `ICCV2019` SC-FEGAN: Face Editing Generative Adversarial Network With User’s Sketch and Color	[[link]]()
+* `ICCV2019` MultiSeg: Semantically Meaningful, Scale-Diverse Segmentations from Minimal User Input [[link]]()
+* `ICCV2019` Learning to Reconstruct 3D Human Pose and Shape via Model-Fitting in the Loop [[link]]()
+* `ICCV2019` PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitizatio[[link]]()
+* `ICCV2019` Learning to Jointly Generate and Separate Reflections [[link]]()
+* `ICCV2019` Mask-ShadowGAN: Learning to Remove Shadows From Unpaired Data [[link]]()
+* `ICCV2019` Learning Deep Priors for Image Dehazing [[link]]()
+* `ICCV2019` An Internal Learning Approach to Video Inpainting [[link]]()
+* `ICCV2019` Deep CG2Real: Synthetic-to-Real Translation via Image Disentanglement	[[link]]()
+* `ICCV2019` Image Generation From Small Datasets via Batch Statistics Adaptation [[link]]()
+* `ICCV2019` Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis [[link]]()
+* `ICCV2019` Lifelong GAN: Continual Learning for Conditional Image Generation [[link]]()
+* `ICCV2019`  [[link]]()
+
+
 
 * `Arixiv2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 * `CVPR2019` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)

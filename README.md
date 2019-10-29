@@ -115,6 +115,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 ---
 
 ## VISION
+
 * `ICCV2019` SinGAN: Learning a Generative Model from a Single Natural Image [[code]](https://github.com/tamarott/SinGAN)
 * `ICCV2019` Specifying Object Attributes and Relations in Interactive Scene Generation [[code]](https://github.com/ashual/scene_generation)
 * `ICCV2019` FaceForensics++: Learning to Detect Manipulated Facial Images [[code]](https://github.com/ondyari/FaceForensics)
@@ -140,8 +141,6 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `ICCV2019` Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis [[link]]()
 * `ICCV2019` Lifelong GAN: Continual Learning for Conditional Image Generation [[link]]()
 * `ICCV2019`  [[link]]()
-
-
 
 * `Arixiv2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 * `CVPR2019` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)

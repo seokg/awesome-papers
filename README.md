@@ -2,6 +2,7 @@
 papers from graphics, vision, and hci
 
 ## SIGGRAPH 
+* `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
 * `SIGGRAPHASIA2019` Animating Landscape [[link]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)
 * `SIGGRAPHASIA2019` 3D Ken Burns Effect from a Single Image [[link]](http://sniklaus.com/papers/kenburns)
 * `SIGGRAPHASIA2019` DeepRemaster [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html)[[code]](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
@@ -86,10 +87,10 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)
 * `CVPR2017` Deep Image Matting [[link]](https://arxiv.org/pdf/1703.03872.pdf)[[code]](https://github.com/Joker316701882/Deep-Image-Matting)[[code2]](https://github.com/foamliu/Deep-Image-Matting)
 * FaceShapeGene: A Disentangled Shape Representation for Flexible Face Image Editing
-* `ICCV2019` Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation [[link]](http://www.robots.ox.ac.uk/~tvg/publications/2019/ICCV_ISF_camera_ready.pdf)
+* `ICCV2019`Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation [[link]](http://www.robots.ox.ac.uk/~tvg/publications/2019/ICCV_ISF_camera_ready.pdf)
 ### generative model
 * `CVPR2019` Semantic Image Synthesis with Spatially-Adaptive Normalization [[link]](https://arxiv.org/abs/1903.07291)[[code]](https://github.com/NVlabs/SPADE) [[code2]](https://github.com/taki0112/SPADE-Tensorflow)
-* `ICCV2019` Specifying Object Attributes and Relations in Interactive Scene Generation [[code]](https://github.com/ashual/scene_generation)
+* `ICCV2019`Specifying Object Attributes and Relations in Interactive Scene Generation [[code]](https://github.com/ashual/scene_generation)
 ### style transfer
 * `ICCV2017` Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[link]](https://arxiv.org/abs/1703.06868)[[code]](https://github.com/xunhuang1995/AdaIN-style)
 
@@ -140,7 +141,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `ICCV2019` Image Generation From Small Datasets via Batch Statistics Adaptation [[link]]()
 * `ICCV2019` Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis [[link]]()
 * `ICCV2019` Lifelong GAN: Continual Learning for Conditional Image Generation [[link]]()
-* `ICCV2019`  [[link]]()
+* `ICCV2019` [[link]]()
 
 * `Arixiv2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 * `CVPR2019` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)
@@ -150,7 +151,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 ## HCI
 
 * `CHI2019` POSE-GUIDED LEVEL DESIGN [[link]](http://blogs.umb.edu/yongqizhang001/pose-guided-level-design/)
-*  `CHI2016` Airways: Optimization-Based Planning of Quadrotor Trajectories according to High-Level User Goals [[link]](https://ait.ethz.ch/projects/2016/airways/downloads/paper1570.pdf)[[video]](https://www.youtube.com/watch?v=6krfPE0ADdw)
+* `CHI2016` Airways: Optimization-Based Planning of Quadrotor Trajectories according to High-Level User Goals [[link]](https://ait.ethz.ch/projects/2016/airways/downloads/paper1570.pdf)[[video]](https://www.youtube.com/watch?v=6krfPE0ADdw)
 * `UIST2010` Cosaliency: where people look when comparing images [[link]](http://graphics.stanford.edu/papers/cosaliency/)
 
 

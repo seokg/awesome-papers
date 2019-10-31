@@ -167,25 +167,45 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `ICCV2019` Indices Matter: Learning to Index for Deep Image Matting[[link]]()
 * `ICCV2019` Context-Aware Image Matting for Simultaneous Foreground and Alpha Estimation[[link]]()
 * `ICCV2019` Deep Restoration of Vintage Photographs From Scanned Halftone Prints [[link]]()
-* `ICCV2019` [[link]]()
-
-
-
 * `ICCV2019` Convolutional Sequence Generation for Skeleton-Based Action Synthesis [[link]]()
 * `ICCV2019` Onion-Peel Networks for Deep Video Completion [[link]]()
 * `ICCV2019` Copy-and-Paste Networks for Deep Video Inpainting [[link]]()
 * `ICCV2019` Content and Style Disentanglement for Artistic Style Transfer [[link]]()
-31
-54
-90
-94
-113
-119
-122
-127
-132
-143
-150~153
+* `ICCV2019` HoloGAN: Unsupervised Learning of 3D Representations From Natural Images [[link]]()
+* `ICCV2019` View-LSTM: Novel-View Video Synthesis Through View Decomposition [[link]]()
+* `ICCV2019` 	AdaptIS: Adaptive Instance Selection Network [[link]]()
+* `ICCV2019` Deep Parametric Indoor Lighting Estimation [[link]]()
+* `ICCV2019` FSGAN: Subject Agnostic Face Swapping and Reenactment [[link]]()
+* `ICCV2019` Deep Single-Image Portrait Relighting [[link]]()
+* `ICCV2019` Structured Prediction Helps 3D Human Motion Modelling [[link]]()
+* `ICCV2019` Predicting 3D Human Dynamics From Video [[link]]()
+* `ICCV2019` Gaze360: Physically Unconstrained Gaze Estimation in the Wild [[link]]()
+* `ICCV2019` Progressive Reconstruction of Visual Structure for Image Inpainting [[link]]()
+* `ICCV2019` A Closed-Form Solution to Universal Style Transfer [[link]]()
+* `ICCV2019` Multimodal Style Transfer via Graph Cuts [[link]]()
+* `ICCV2019` Everybody Dance Now [[link]]()
+* `ICCV2019` Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis [[link]]()
+* `ICCV2019` Fast Video Object Segmentation via Dynamic Targeting Network [[link]]()
+* `ICCV2019` GAN-Based Projector for Faster Recovery With Convergence Guarantees in Linear Inverse Problems [[link]]()
+* `ICCV2019` Multi-Garment Net: Learning to Dress 3D People From Images [[link]]()
+* `ICCV2019` Object-Driven Multi-Layer Scene Decomposition From a Single Image [[link]]()
+* `ICCV2019` Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture From Images “In the Wild” [[link]]()
+* `ICCV2019` Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild [[link]]()
+* `ICCV2019` Human Mesh Recovery From Monocular Images via a Skeleton-Disentangled Representation [[link]]()
+* `ICCV2019` Video Instance Segmentation [[link]]()
+* `ICCV2019` Fashion++: Minimal Edits for Outfit Improvement [[link]]()
+* `ICCV2019` AMASS: Archive of Motion Capture As Surface Shapes [[link]]() 
+* `ICCV2019` Learning Two-View Correspondences and Geometry Using Order-Aware Network [[link]]()
+* `ICCV2019` Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? [[link]]()
+* `ICCV2019` Controllable Artistic Text Style Transfer via Shape-Matching GAN [[link]]()
+* `ICCV2019` Learning Implicit Generative Models by Matching Perceptual Features [[link]]()
+* `ICCV2019` Free-Form Image Inpainting With Gated Convolution [[link]]()
+* `ICCV2019` FiNet: Compatible and Diverse Fashion Image Inpainting [[link]]()
+* `ICCV2019` InGAN: Capturing and Retargeting the “DNA” of a Natural Image [[link]]()
+* `ICCV2019` Seeing What a GAN Cannot Generate [[link]]()
+* `ICCV2019` COCO-GAN: Generation by Parts via Conditional Coordinating [[link]]()
+* `ICCV2019` [[link]]()
+* `ICCV2019` [[link]]()
 
 * `Arixiv2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 * `CVPR2019` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)

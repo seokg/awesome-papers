@@ -32,7 +32,7 @@ Papers of image and video inpainting
 
 * `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]]()
 * `ICCV2019` Very Long Natural Scenery Image Prediction by Outpainting [[link]]()
-
+* `SIGGRAPH2019` Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
 
 # Related Topics
  - [Internal_Learning](./etc/internal_learning/)

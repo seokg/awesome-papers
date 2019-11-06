@@ -6,24 +6,6 @@
 * Vid2Game: Controllable Characters Extracted from Real-World Videos
 * DynamoNet: Dynamic Action and Motion Network
 
-## inpainting
-* `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension
-* `ICCV2019` Attention on Attention for Image Captioning
-* `CVPR2019` Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
-* `CVPR2019` Deep Flow-Guided Video Inpainting [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
-* `CVPR2019` Deep Video Inpainting [[code]](https://github.com/mcahny/Deep-Video-Inpainting)
-* `CVPR2019` Foreground-Aware Image Inpainting
-* `CVPR2019` PEPSI : Fast Image Inpainting With Parallel Decoding Network
-* `arixiv2019` PEPSI++: Fast and Lightweight Network for Image Inpainting
-* `CVPR2019` Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation
-* `CVPR2019` Wide-Context Semantic Image Extrapolation [[code]](https://github.com/shepnerd/outpainting_srn)
-* `NeurIPS2018` Image Inpainting via Generative Multi-column Convolutional Neural Networks [[code]](https://github.com/shepnerd/inpainting_gmcnn)
-* `CVPR2018` Generative Image Inpainting with Contextual Attention [[code]](https://github.com/JiahuiYu/generative_inpainting)
-* `ECCV2018` Image Inpainting for Irregular Holes Using Partial Convolutions [[code]](https://github.com/NVIDIA/partialconv) [[code2]](https://github.com/MathiasGruber/PConv-Keras)
-* `Arixiv2018` Free-Form Image Inpainting with Gated Convolution [[link]](http://jiahuiyu.com/deepfill2/)[[code]](https://github.com/JiahuiYu/generative_inpainting)
-* `SIGGRAPH2017` Globally and Locally Consistent Image Completion [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/en/)[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
-
-
 ## image manipulation and editing
 * SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters [[link]](https://arxiv.org/abs/1805.09313)
 * FSGAN: Subject Agnostic Face Swapping and Reenactment [[link]](https://nirkin.com/fsgan/)

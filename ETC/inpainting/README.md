@@ -35,4 +35,4 @@ Papers of image and video inpainting
 
 
 # Related Topics
- - [Internal_Learning](./etc/internal learning/)
+ - [Internal_Learning](./etc/internal_learning/)

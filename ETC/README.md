@@ -1,0 +1,54 @@
+# ETC
+
+* Stylizing Animation By Example[[link]](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf)
+
+## image2video
+* Vid2Game: Controllable Characters Extracted from Real-World Videos
+* DynamoNet: Dynamic Action and Motion Network
+
+## inpainting
+* `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension
+* `ICCV2019` Attention on Attention for Image Captioning
+* `CVPR2019` Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
+* `CVPR2019` Deep Flow-Guided Video Inpainting [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
+* `CVPR2019` Deep Video Inpainting [[code]](https://github.com/mcahny/Deep-Video-Inpainting)
+* `CVPR2019` Foreground-Aware Image Inpainting
+* `CVPR2019` PEPSI : Fast Image Inpainting With Parallel Decoding Network
+* `arixiv2019` PEPSI++: Fast and Lightweight Network for Image Inpainting
+* `CVPR2019` Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation
+* `CVPR2019` Wide-Context Semantic Image Extrapolation [[code]](https://github.com/shepnerd/outpainting_srn)
+* `NeurIPS2018` Image Inpainting via Generative Multi-column Convolutional Neural Networks [[code]](https://github.com/shepnerd/inpainting_gmcnn)
+* `CVPR2018` Generative Image Inpainting with Contextual Attention [[code]](https://github.com/JiahuiYu/generative_inpainting)
+* `ECCV2018` Image Inpainting for Irregular Holes Using Partial Convolutions [[code]](https://github.com/NVIDIA/partialconv) [[code2]](https://github.com/MathiasGruber/PConv-Keras)
+* `Arixiv2018` Free-Form Image Inpainting with Gated Convolution [[link]](http://jiahuiyu.com/deepfill2/)[[code]](https://github.com/JiahuiYu/generative_inpainting)
+* `SIGGRAPH2017` Globally and Locally Consistent Image Completion [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/en/)[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
+
+
+## image manipulation and editing
+* SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters [[link]](https://arxiv.org/abs/1805.09313)
+* FSGAN: Subject Agnostic Face Swapping and Reenactment [[link]](https://nirkin.com/fsgan/)
+* SinGAN: Learning a Generative Model from a Single Natural Image [[code]](https://github.com/tamarott/SinGAN)[[code2]](https://github.com/FriedRonaldo/SinGAN)
+* LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup
+* Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)
+* `CVPR2017` Deep Image Matting [[link]](https://arxiv.org/pdf/1703.03872.pdf)[[code]](https://github.com/Joker316701882/Deep-Image-Matting)[[code2]](https://github.com/foamliu/Deep-Image-Matting)
+* FaceShapeGene: A Disentangled Shape Representation for Flexible Face Image Editing
+* `ICCV2019`Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation [[link]](http://www.robots.ox.ac.uk/~tvg/publications/2019/ICCV_ISF_camera_ready.pdf)
+## generative model
+* `CVPR2019` Semantic Image Synthesis with Spatially-Adaptive Normalization [[link]](https://arxiv.org/abs/1903.07291)[[code]](https://github.com/NVlabs/SPADE) [[code2]](https://github.com/taki0112/SPADE-Tensorflow)
+* `ICCV2019`Specifying Object Attributes and Relations in Interactive Scene Generation [[code]](https://github.com/ashual/scene_generation)
+## style transfer
+* `ICCV2017` Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[link]](https://arxiv.org/abs/1703.06868)[[code]](https://github.com/xunhuang1995/AdaIN-style)
+
+## inverse rendering
+* Lifting AutoEncoders: Unsupervised Learning of a Fully-Disentangled 3D Morphable Model using Deep Non-Rigid Structure from Motion
+
+## image based rendering
+* `CVPR2019`  Neural Rerendering in the Wild [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meshry_Neural_Rerendering_in_the_Wild_CVPR_2019_paper.pdf)[[]]
+* `Arxiv2019` NVS Machines: Learning Novel View Synthesis with Fine-grained View Control [[link]](https://arxiv.org/pdf/1901.01880.pdf)
+* HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)
+* `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)
+* `EECV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
+
+
+## Notes from conferences
+* Practical Least-Squares for Computer Graphics [[link]](http://graphics.stanford.edu/~jplewis/lscourse/ls.pdf)

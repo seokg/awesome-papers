@@ -210,27 +210,21 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `ICCV2019` Learning Perspective Undistortion of Portraits [[link]]()
 * `ICCV2019` Transformable Bottleneck Networks [[link]]()
 * `ICCV2019` xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera [[link]]()
-
 * `ICCV2019` DeepHuman: 3D Human Reconstruction From a Single Image [[link]]()
 * `ICCV2019` Learnable Triangulation of Human Pose [[link]]()
 * `ICCV2019` A Learned Representation for Scalable Vector Graphics [[link]]()
 * `ICCV2019` C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion [[link]]()
-
 * `ICCV2019` DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare [[link]]()
 * `ICCV2019` Learning to Paint With Model-Based Deep Reinforcement Learning [[link]]()
 * `ICCV2019` Neural Re-Simulation for Generating Bounces in Single Images [[link]]()
 * `ICCV2019` Deep Appearance Maps [[link]]()
-
 * `ICCV2019` Image Inpainting With Learnable Bidirectional Attention Maps [[link]]()
 * `ICCV2019` OmniMVS: End-to-End Learning for Omnidirectional Stereo Matching [[link]]()
 * `ICCV2019` Guided Image-to-Image Translation With Bi-Directional Feature Transformation [[link]]()
-* `ICCV2019` [[link]]()
-
 * `ICCV2019` Free-Form Video Inpainting With 3D Gated Convolution and Temporal PatchGAN [[link]]()
 * `ICCV2019` Neural Inverse Rendering of an Indoor Scene From a Single Image [[link]]()
 * `ICCV2019` OperatorNet: Recovering 3D Shapes From Difference Operators [[link]]()
 * `ICCV2019` Face Video Deblurring Using 3D Facial Priors [[link]]()
-
 * `ICCV2019` Photo-Realistic Facial Details Synthesis From Single Image [[link]]()
 * `ICCV2019` PuppetGAN: Cross-Domain Image Manipulation by Demonstration [[link]]()
 * `ICCV2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models [[link]]()
@@ -240,20 +234,28 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `ICCV2019` Ego-Pose Estimation and Forecasting As Real-Time PD Control	 [[link]]()
 * `ICCV2019` Physics-Based Rendering for Improving Robustness to Rain [[link]]()
 * `ICCV2019` ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal [[link]]()
-* `ICCV2019` [[link]]()
-* `ICCV2019` [[link]]()
-* `ICCV2019` [[link]]()
-* `ICCV2019` [[link]]()
-* `ICCV2019` [[link]]()
-* `ICCV2019` [[link]]()
-* `ICCV2019` [[link]]()
-* `ICCV2019` [[link]]()
-* `ICCV2019` [[link]]()
+* `ICCV2019` Underexposed Photo Enhancement using Deep Illumination Estimation [[link]]()
 * `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]]()
 * `ICCV2019` Few-Shot Unsupervised Image-to-Image Translation [[link]]()
 * `ICCV2019` Very Long Natural Scenery Image Prediction by Outpainting [[link]]()
+* `ICCV2019` [[link]]()
+
 
 * `CVPR2019` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)
+* `CVPR2019` Total Scene Capture: Neural Rerendering in the Wild [[link]](https://moustafameshry.github.io/neural_rerendering_in_the_wild/) [[code]](https://github.com/google/neural_rerendering_in_the_wild)
+* `CVPR2019` Fast Spatially-Varying Indoor Lighting Estimation [[link]](https://lvsn.github.io/fastindoorlight/)
+* `CVPR2019` Neural Illumination: Lighting Prediction for Indoor Environments [[link]](https://illumination.cs.princeton.edu/)
+* `CVPR2019` Deep Sky Modeling for Single Image Outdoor Lighting Estimation [[link]](https://lvsn.github.io/deepskymodel/)
+* `CVPR2019` Semantic Image Synthesis with Spatially-Adaptive Normalization [[link]](https://nvlabs.github.io/SPADE/) [[code]](https://github.com/NVlabs/SPADE)
+* `CVPR2019` DeepView: View synthesis with learned gradient descent [[link]](https://augmentedperception.github.io/deepview/) [[code]]()
+* `CVPR2019` Animating Arbitrary Objects  via Deep Motion Transfer [[link]](http://www.stulyakov.com/papers/monkey-net.html) [[code]](https://github.com/AliaksandrSiarohin/monkey-net)
+* `CVPR2019` Textured Neural Avatars [[link]](https://saic-violet.github.io/texturedavatar/) [[code]]()
+* `CVPR2019` IM-Net for High Resolution Video Frame Interpolation [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Peleg_IM-Net_for_High_Resolution_Video_Frame_Interpolation_CVPR_2019_paper.pdf) [[code]]()
+* `CVPR2019` "Double-DIP": Unsupervised Image Decomposition via Coupled Deep-Image-Priors [[link]](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/) [[code]](https://github.com/yossigandelsman/DoubleDIP)
+* `CVPR2019` [[link]]() [[code]]()
+
+
+
 * `CVPR2016` Spatiotemporal Bundle Adjustment
 * `CVPR2015` Finding Distractors In Images [[link]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Fried_Finding_Distractors_In_2015_CVPR_paper.pdf)
 

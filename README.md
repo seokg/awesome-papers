@@ -8,5 +8,5 @@ A list of papers on graphics, computer vision, and HCI
  - [HCI](./hci/)
 
 ## Subtopics
- - [Inpainting](./subtopics/inpaiting/)
+ - [Inpainting](./subtopics/inpainting/)
  - [Internal Learning](./subtopics/internal_learning/)

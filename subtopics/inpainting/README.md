@@ -35,4 +35,4 @@ Papers of image and video inpainting
 * `SIGGRAPH2019` Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
 
 # Related Topics
- - [Internal_Learning](./etc/internal_learning/)
+ - [Internal_Learning](./subtopics/internal_learning/)

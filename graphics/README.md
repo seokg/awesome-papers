@@ -45,6 +45,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 
 
 ## SIGGRAPH ASIA
+* `SIGGRAPHASIA2019` Document Rectification and Illumination Correction using a Patch-based CNN [[link]](https://xiaoyu258.github.io/projects/docproj/)[[code]](https://github.com/xiaoyu258/DocProj)
 * `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
 * `SIGGRAPHASIA2019` Animating Landscape [[link]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)
 * `SIGGRAPHASIA2019` 3D Ken Burns Effect from a Single Image [[link]](http://sniklaus.com/papers/kenburns)

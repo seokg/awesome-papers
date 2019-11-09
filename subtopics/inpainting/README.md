@@ -9,7 +9,7 @@ Papers of image and video inpainting
 * `CVPR2019` Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
 * `CVPR2019` Foreground-Aware Image Inpainting
 * `CVPR2019` PEPSI : Fast Image Inpainting With Parallel Decoding Network
-* `arixiv2019` PEPSI++: Fast and Lightweight Network for Image Inpainting
+* `arxiv2019` PEPSI++: Fast and Lightweight Network for Image Inpainting
 * `CVPR2019` Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation
 * `CVPR2019` Wide-Context Semantic Image Extrapolation [[code]](https://github.com/shepnerd/outpainting_srn)
 * `NeurIPS2018` Image Inpainting via Generative Multi-column Convolutional Neural Networks [[code]](https://github.com/shepnerd/inpainting_gmcnn)
@@ -19,7 +19,7 @@ Papers of image and video inpainting
 * `SIGGRAPH2017` Globally and Locally Consistent Image Completion [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/en/)[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
 
 ## Video
-* `arixiv2019` Align-and-Attend Network for Globally and Locally Coherent Video Inpainting
+* `arxiv2019` Align-and-Attend Network for Globally and Locally Coherent Video Inpainting
 * `ICCV2019` An Internal Learning Approach to Video Inpainting [[link]](https://cs.stanford.edu/~haotianz/publications/video_inpainting/)
 * `ICCV2019` Copy-and-Paste Networks for Deep Video Inpainting [[code]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)
 * `ICCV2019` Onion-Peel Networks for Deep Video Completion [[code]](https://github.com/seoungwugoh/opn-demo)
@@ -31,7 +31,7 @@ Papers of image and video inpainting
 
 
 ## Outpainting
-
+* `arxiv2019` Multimodal Image Outpainting With Regularized Normalized Diversification [[]]
 * `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]]()
 * `ICCV2019` Very Long Natural Scenery Image Prediction by Outpainting [[link]]()
 * `SIGGRAPH2019` Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)

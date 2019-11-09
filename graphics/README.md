@@ -2,7 +2,8 @@
 Papers from graphics conferences such as SIGGRAPH, EUROGRAPHICS, and PACIFICGRAPHICS
 
 ## SIGGRAPH 
-* `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prio [[link]](http://ganpaint.io/)
+* `SIGGRAPH2019` Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies [[link]](https://www.cs.princeton.edu/~fheide/proxyopt)
+* `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prior [[link]](http://ganpaint.io/)
 * `SIGGRAPH2019` TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures  [[code]](https://github.com/afruehstueck/tileGAN)
 * `SIGGRAPH2019` Progressive Color Transfer with Dense Semantic Correspondences [[link]](https://arxiv.org/pdf/1710.00756.pdf)
 * `SIGGRAPH2019` The Face of Art: Landmark Detection and Geometric Style in Portraits [[link]](http://www.faculty.idc.ac.il/arik/site/foa/face-of-art.asp)

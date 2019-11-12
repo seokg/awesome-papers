@@ -1,6 +1,9 @@
 # Grahics Papers
 Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Graphics
 
+
+
+
 ## SIGGRAPH 
 * `SIGGRAPH2019` Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies [[link]](https://www.cs.princeton.edu/~fheide/proxyopt)
 * `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prior [[link]](http://ganpaint.io/)

@@ -1,5 +1,5 @@
 # Grahics Papers
-Papers from graphics conferences such as SIGGRAPH, EUROGRAPHICS, and PACIFICGRAPHICS
+Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Graphics
 
 ## SIGGRAPH 
 * `SIGGRAPH2019` Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies [[link]](https://www.cs.princeton.edu/~fheide/proxyopt)
@@ -46,11 +46,26 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 
 
 ## SIGGRAPH ASIA
+* `SIGGRAPHASIA2019` Handheld Mobile Photography in Very Low Light [[link]](https://github.com/google/night-sight)
+* `SIGGRAPHASIA2019` Learning Efficient Illumination Multiplexing for Joint Capture of Reflectance and Shape [[link]](http://cad.zju.edu.cn/home/hwu/publications/jointcap/project.html)
+* `SIGGRAPHASIA2019` Blind Image Super-Resolution with Spatially Variant Degradations [[link]](https://igl.ethz.ch/projects/variational-blind-sr/) [[code]](https://github.com/sunreef/BlindSR)
 * `SIGGRAPHASIA2019` Document Rectification and Illumination Correction using a Patch-based CNN [[link]](https://xiaoyu258.github.io/projects/docproj/)[[code]](https://github.com/xiaoyu258/DocProj)
-* `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
-* `SIGGRAPHASIA2019` Animating Landscape [[link]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)
-* `SIGGRAPHASIA2019` 3D Ken Burns Effect from a Single Image [[link]](http://sniklaus.com/papers/kenburns)
+* `SIGGRAPHASIA2019` Animating Landscape [[link]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)[[code]](https://github.com/endo-yuki-t/Animating-Landscape)
 * `SIGGRAPHASIA2019` DeepRemaster [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html)[[code]](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
+
+
+* `SIGGRAPHASIA2019` Colorblind-Shareable Videos by Synthesizing Temporal-Coherent
+Polynomial Coefficients [[link]](https://menghanxia.github.io/)
+* `SIGGRAPHASIA2019` Neural Style-Preserving Visual Dubbing [[link]](https://gvv.mpi-inf.mpg.de/projects/StyleDub/)
+* `SIGGRAPHASIA2019` Deep Face Normalization [[link]](http://luminohope.org/publications.php)
+* `SIGGRAPHASIA2019` Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning [[link]](https://hologerry.github.io/AGIS-Net/)[[code]](https://github.com/hologerry/AGIS-Net)
+* `SIGGRAPHASIA2019` DReCon: Data-Driven Responsive Control of Physics-Based Characters [[link]]()
+* `SIGGRAPHASIA2019` Neural State Machine for Goal-Directed Character Control [[link]]()
+* `SIGGRAPHASIA2019` Dep Iterative Frame Interpolation for Full-frame Video Stabilization[[link]](https://arxiv.org/abs/1909.02641)
+* `SIGGRAPHASIA2019` OpenSketch: A Richly-Annotated Dataset of Product Design Sketches [[link]](https://ns.inria.fr/d3/OpenSketch/)[[code]](https://gitlab.inria.fr/openskecth)
+* `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches [[code]](https://github.com/SketchyScene/SketchySceneColorization)
+* `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
+* `SIGGRAPHASIA2019` 3D Ken Burns Effect from a Single Image [[link]](http://sniklaus.com/papers/kenburns)
 * `SIGGRAPHASIA2019` Write-A-Video: Computational Video Montage from Themed Text [[link]](http://www.faculty.idc.ac.il/arik/site/writeVideo.asp)
 * `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches
  [[link]](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf)[[code]](https://github.com/SketchyScene/SketchySceneColorization)

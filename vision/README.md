@@ -15,10 +15,9 @@ Papers from vision conferences such as CVPR, ECCV, and ICCV
 * `CVPR2019` "Double-DIP": Unsupervised Image Decomposition via Coupled Deep-Image-Priors [[link]](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/) [[code]](https://github.com/yossigandelsman/DoubleDIP)
 * `CVPR2018` Single Image Reflection Removal with Perceptual Losses [[link]](https://people.eecs.berkeley.edu/~cecilia77/project-pages/reflection.html) [[code]](https://github.com/ceciliavision/perceptual-reflection-removal)
 * `CVPR2019` [[link]]() [[code]]()
-
-
 * `CVPR2016` Spatiotemporal Bundle Adjustment
 * `CVPR2015` Finding Distractors In Images [[link]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Fried_Finding_Distractors_In_2015_CVPR_paper.pdf)
+
 ## ICCV 
 * `ICCV2019` SinGAN: Learning a Generative Model from a Single Natural Image [[code]](https://github.com/tamarott/SinGAN)
 * `ICCV2019` Specifying Object Attributes and Relations in Interactive Scene Generation [[code]](https://github.com/ashual/scene_generation)

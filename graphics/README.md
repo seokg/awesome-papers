@@ -26,7 +26,6 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPH2019` Deferred Neural Rendering: Image Synthesis using Neural Textures [[link]](https://niessnerlab.org/projects/thies2019neural.html)
 * `SIGGRAPH2019` Deep View Synthesis from Sparse Photometric Images [[link]](http://cseweb.ucsd.edu/~ravir/zexiangview.pdf)
 * `SIGGRAPH2019` Stylizing Video by Example [[link]](https://dcgi.fel.cvut.cz/home/sykorad/ebsynth.html)
-
 * `SIGGRAPH2018` Non-stationary Texture Synthesis by Adversarial Expansion [[link]](http://vcc.szu.edu.cn/research/2018/TexSyn)[[code]](https://github.com/jessemelpolio/non-stationary_texture_syn)
 * `SIGGRAPH2018` Semantic Soft Segmentation [[link]](http://people.inf.ethz.ch/aksoyy/sss/)
 * `SIGGRAPH2018` Stereo Magnification: Learning View Synthesis using Multiplane Images [[link]](https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/)
@@ -55,8 +54,6 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPHASIA2019` Document Rectification and Illumination Correction using a Patch-based CNN [[link]](https://xiaoyu258.github.io/projects/docproj/)[[code]](https://github.com/xiaoyu258/DocProj)
 * `SIGGRAPHASIA2019` Animating Landscape [[link]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/)[[code]](https://github.com/endo-yuki-t/Animating-Landscape)
 * `SIGGRAPHASIA2019` DeepRemaster [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html)[[code]](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
-
-
 * `SIGGRAPHASIA2019` Colorblind-Shareable Videos by Synthesizing Temporal-Coherent Polynomial Coefficients [[link]](https://menghanxia.github.io/)
 * `SIGGRAPHASIA2019` Neural Style-Preserving Visual Dubbing [[link]](https://gvv.mpi-inf.mpg.de/projects/StyleDub/)
 * `SIGGRAPHASIA2019` Deep Face Normalization [[link]](http://luminohope.org/publications.php)

@@ -1,5 +1,6 @@
 # Neural Rendering
 * `EG-STAR2020`  
+* `NeurIPS2019` Geometry-Aware Neural Rendering [[link]](https://arxiv.org/abs/1911.04554)
 * `ICCV2019` HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)[[code]](https://github.com/thunguyenphuoc/HoloGAN)
 * `ICCV2019` Monocular Neural Image Based Rendering with Continuous View Control [[link]](https://arxiv.org/pdf/1901.01880.pdf)
 * `SIGGRAPH2019` Deferred Neural Rendering: Image Synthesis using Neural Textures[[link]](https://www.niessnerlab.org/projects/thies2019neural.html)

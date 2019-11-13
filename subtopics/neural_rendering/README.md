@@ -2,7 +2,7 @@
 * `EG-STAR2020`  
 * `ICCV2019` HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)[[code]](https://github.com/thunguyenphuoc/HoloGAN)
 * `ICCV2019` Monocular Neural Image Based Rendering with Continuous View Control [[link]](https://arxiv.org/pdf/1901.01880.pdf)
-* `SIGGRAPH2019` Deferred Neural Rendering: Image Synthesis using Neural Textures[[link]] (https://www.niessnerlab.org/projects/thies2019neural.html)
+* `SIGGRAPH2019` Deferred Neural Rendering: Image Synthesis using Neural Textures[[link]](https://www.niessnerlab.org/projects/thies2019neural.html)
 * `CVPR2019` Neural Rerendering in the Wild [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meshry_Neural_Rerendering_in_the_Wild_CVPR_2019_paper.pdf)[[code]](https://github.com/google/neural_rerendering_in_the_wild)
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)
 * `CVPR2019` DeepVoxels: Learning Persistent 3D Feature Embeddings [[link]](https://www.niessnerlab.org/projects/sitzmann2019deepvoxels.html)

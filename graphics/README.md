@@ -57,8 +57,7 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPHASIA2019` DeepRemaster [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html)[[code]](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
 
 
-* `SIGGRAPHASIA2019` Colorblind-Shareable Videos by Synthesizing Temporal-Coherent
-Polynomial Coefficients [[link]](https://menghanxia.github.io/)
+* `SIGGRAPHASIA2019` Colorblind-Shareable Videos by Synthesizing Temporal-Coherent Polynomial Coefficients [[link]](https://menghanxia.github.io/)
 * `SIGGRAPHASIA2019` Neural Style-Preserving Visual Dubbing [[link]](https://gvv.mpi-inf.mpg.de/projects/StyleDub/)
 * `SIGGRAPHASIA2019` Deep Face Normalization [[link]](http://luminohope.org/publications.php)
 * `SIGGRAPHASIA2019` Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning [[link]](https://hologerry.github.io/AGIS-Net/)[[code]](https://github.com/hologerry/AGIS-Net)
@@ -76,31 +75,31 @@ Polynomial Coefficients [[link]](https://menghanxia.github.io/)
 
 
 ## Pacific Graphics
-* `PG2019` Generi Interactive Pixel-Level Image Editing [[link]]
-* `PG2019` Imitating Popular Photos to Select Views for an Indoor Scene [[link]]
-* `PG2019` Learning to Trace: Expressive Line Drawing Generation from Photographs [[link]]
-* `PG2019` Learning Explicit Smoothing Kernels for Joint Image Filtering [[link]]
-* `PG2019` Dual Illumination Estimation for Robust Exposure Correction [[link]]
-* `PG2019` Specular Highlight Removal for Real-World Images [[link]]
-* `PG2019` Naturalness-Preserving Image Tone Enhancement Using Generative Adversarial Networks [[link]]
-* `PG2019` Shadow Inpainting and Removal Using Generative ADversarial Netowrks with Slice Convolutions [[link]]
-* `PG2019` Two-Phase Hair Image Synthesis by Self-Enhancing Generative Model [[link]]
-* `PG2019` Unsupervised Desnse Light Field Reconstruction with Occlusion Awareness [[link]]
-* `PG2019` Learning to Paint using Self-Supervised LEarning [[link]]
-* `PG2019` Style Mixser: Semantic-Aware Multi-Style Mixing Network [[link]]
-* `PG2019` A Color-Pair Based Approach For Accurate Color Harmony Estimation [[link]]
-* `PG2019` Deep Video-Based Performance Synthesis from Sparse Multi-View Capture [[link]]
-* `PG2019` Appearance Flow Completion for Novel View Synthesis [[link]]
-* `PG2019` Learning to Predict Image-Based Rendering Artifacts with Respect to a Hidden Reference Image[[link]]
-* `PG2019` Image Composition of Partially Occluded Objects [[link]]
-* `PG2019` A PatchMatch-Based Approach for Matte PRopagation in Videos [[link]]
-* `PG2019` ShutterApp: Spatio-Temporal Exposure Control for Videos [[link]]
+* `PG2019` Generic Interactive Pixel-Level Image Editing [[link]]()
+* `PG2019` Imitating Popular Photos to Select Views for an Indoor Scene [[link]]()
+* `PG2019` Learning to Trace: Expressive Line Drawing Generation from Photographs [[link]]()
+* `PG2019` Learning Explicit Smoothing Kernels for Joint Image Filtering [[link]]()
+* `PG2019` Dual Illumination Estimation for Robust Exposure Correction [[link]]()
+* `PG2019` Specular Highlight Removal for Real-World Images [[link]]()
+* `PG2019` Naturalness-Preserving Image Tone Enhancement Using Generative Adversarial Networks [[link]]()
+* `PG2019` Shadow Inpainting and Removal Using Generative ADversarial Netowrks with Slice Convolutions [[link]]()
+* `PG2019` Two-Phase Hair Image Synthesis by Self-Enhancing Generative Model [[link]]()
+* `PG2019` Unsupervised Desnse Light Field Reconstruction with Occlusion Awareness [[link]]()
+* `PG2019` Learning to Paint using Self-Supervised LEarning [[link]]()
+* `PG2019` Style Mixser: Semantic-Aware Multi-Style Mixing Network [[link]]()
+* `PG2019` A Color-Pair Based Approach For Accurate Color Harmony Estimation [[link]]()
+* `PG2019` Deep Video-Based Performance Synthesis from Sparse Multi-View Capture [[link]]()
+* `PG2019` Appearance Flow Completion for Novel View Synthesis [[link]]()
+* `PG2019` Learning to Predict Image-Based Rendering Artifacts with Respect to a Hidden Reference Image[[link]]()
+* `PG2019` Image Composition of Partially Occluded Objects [[link]]()
+* `PG2019` A PatchMatch-Based Approach for Matte PRopagation in Videos [[link]]()
+* `PG2019` ShutterApp: Spatio-Temporal Exposure Control for Videos [[link]]()
 
 
 
 
 
-## START REPORT [[link]](https://sites.google.com/site/drminchen/cgf-info/cgf-stars)
+## START REPORT [[link]]()(https://sites.google.com/site/drminchen/cgf-info/cgf-stars)
 * A Survey on Data-Driven Video Completion
 * State of the Art Report on Video-Based Graphics andVideo Visualization
 * A Comparative Review of Tone-Mapping Algorithms for High Dynamic Range Video

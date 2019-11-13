@@ -17,6 +17,8 @@ Papers of image and video inpainting
 * `ECCV2018` Image Inpainting for Irregular Holes Using Partial Convolutions [[code]](https://github.com/NVIDIA/partialconv) [[code2]](https://github.com/MathiasGruber/PConv-Keras)
 * `Arixiv2018` Free-Form Image Inpainting with Gated Convolution [[link]](http://jiahuiyu.com/deepfill2/)[[code]](https://github.com/JiahuiYu/generative_inpainting)
 * `SIGGRAPH2017` Globally and Locally Consistent Image Completion [[link]](http://iizuka.cs.tsukuba.ac.jp/projects/completion/en/)[[code]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
+* `SIGGRAPH2014` Image Completion using Planar Structure Guidance [[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)
+* `SIGGRAPH2009` PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing [[link]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
 
 ## Video
 * `arxiv2019` Align-and-Attend Network for Globally and Locally Coherent Video Inpainting
@@ -27,6 +29,7 @@ Papers of image and video inpainting
 * `CVPR2019` Deep Flow-Guided Video Inpainting [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
 * `CVPR2019` Deep Video Inpainting [[code]](https://github.com/mcahny/Deep-Video-Inpainting)
 * `WACV2018` Video Inpainting for Arbitrary Foreground Object Removal
+* `SIGGRAPHASIA2016` Temporally Coherent Completion of Dynamic Video,
 *  `TVCG2012` High-Quality Real-Time Video Inpaintingwith PixMix [[link]](https://ieeexplore.ieee.org/document/6714519)[[code]](https://github.com/Mugichoko445/PixMix-Inpainting)
 
 
@@ -38,6 +41,7 @@ Papers of image and video inpainting
 
 
 ## ETC
+* `SIGGRAPHASIA2012` Quality Prediction for Image Completion [[link]](http://johanneskopf.de/publications/completion/)
 * `Adobe` [Content Aware Fil](https://research.adobe.com/project/content-aware-fill/)
 * [Awesome Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
 

@@ -1,5 +1,4 @@
 # Neural Rendering
-
 * `EG-STAR2020`  
 * `ICCV2019` HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)[[code]](https://github.com/thunguyenphuoc/HoloGAN)
 * `ICCV2019` Monocular Neural Image Based Rendering with Continuous View Control [[link]](https://arxiv.org/pdf/1901.01880.pdf)

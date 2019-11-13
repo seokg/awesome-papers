@@ -1,7 +1,5 @@
 # Deep Internal Learning Papers
 Papers of Deep Internal Learning
-
-
 * `CVPR2018` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)
 * `CVPR2018` "Zero-Shot" Super-Resolution using Deep Internal Learning[[link]](http://www.wisdom.weizmann.ac.il/~vision/zssr/)[[code]](https://github.com/assafshocher/ZSSR)
 * `SIGGRAPH2018` Non-stationary texture synthesis using adversarial expansions [[link]](http://vcc.szu.edu.cn/index-2.html)[[code]](https://github.com/jessemelpolio/non-stationary_texture_syn)

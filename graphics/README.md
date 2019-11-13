@@ -36,7 +36,6 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPH2018` ToonSynth: Example-Based Synthesis of Hand-Colored Cartoon Animations [[link]](http://dcgi.fel.cvut.cz/home/sykorad/toonsynth.html)
 * `SIGGRAPH2018` Robust Solving of Optical Motion Capture Data by Denoising [[link]](http://montreal.ubisoft.com/en/robust-solving-of-optical-motion-capture-data-by-denoising/)
 * `SIGGRAPH2018` MonoPerfCap: Human Performance Capture from Monocular Video [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
-
 * `SIGGRAPH2017` Computational Video Editing for Dialogue-Driven Scenes [[link]](http://graphics.stanford.edu/papers/roughcut/)
 * `SIGGRAPH2017` Unmixing-Based Soft Color Segmentation for Image Manipulation [[link]](http://people.inf.ethz.ch/aksoyy/scs/)
 * `SIGGRAPH2017` Interactive High-Quality Green-Screen Keying via Color Unmixing [[link]](http://people.inf.ethz.ch/aksoyy/keying/)

@@ -6,6 +6,12 @@
 * Vid2Game: Controllable Characters Extracted from Real-World Videos
 * DynamoNet: Dynamic Action and Motion Network
 
+
+## object selection
+* `ECCV2018` Interactive Boundary Prediction for Object Selection [[http://openaccess.thecvf.com/content_ECCV_2018/papers/Hoang_Le_Interactive_Boundary_Prediction_ECCV_2018_paper.pdf]]
+* `arxiv2017` Deep GrabCut for Object Selection [[link]](https://arxiv.org/pdf/1707.00243.pdf)[[code]](https://github.com/jfzhang95/DeepGrabCut-PyTorch)
+* `CVPR2016` Deep Interactive Object Selection [[link]](https://sites.google.com/view/deepselection
+)
 ## image manipulation and editing
 * SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters [[link]](https://arxiv.org/abs/1805.09313)
 * FSGAN: Subject Agnostic Face Swapping and Reenactment [[link]](https://nirkin.com/fsgan/)

@@ -21,6 +21,7 @@ Papers of image and video inpainting
 * `SIGGRAPH2009` PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing [[link]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
 
 ## Video
+* `TVCG2019` Inpainting of Wide-baseline Multiple Viewpoint Video [[link]](http://personal.ee.surrey.ac.uk/Personal/J.Collomosse/pubs/Gilbert-TVCG-2019.pdf)
 * `arxiv2019` Align-and-Attend Network for Globally and Locally Coherent Video Inpainting
 * `ICCV2019` An Internal Learning Approach to Video Inpainting [[link]](https://cs.stanford.edu/~haotianz/publications/video_inpainting/)
 * `ICCV2019` Copy-and-Paste Networks for Deep Video Inpainting [[code]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)

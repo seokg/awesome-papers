@@ -35,10 +35,12 @@ Papers of image and video inpainting
 
 
 ## Outpainting
+* `SATB2019` Structure-Aware Image Expansion with Global Attention [[link]]()
 * `arxiv2019` Multimodal Image Outpainting With Regularized Normalized Diversification [[]]
 * `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]]()
 * `ICCV2019` Very Long Natural Scenery Image Prediction by Outpainting [[link]]()
 * `SIGGRAPH2019` Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
+* `CVPR2019` Wide-Context Semantic Image Extrapolation [[link]](http://jiaya.me/papers/imgextrapolation_cvpr19.pdf)[[code]](https://github.com/shepnerd/outpainting_srn)
 
 
 ## ETC

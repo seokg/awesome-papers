@@ -92,10 +92,12 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `PG2019` ShutterApp: Spatio-Temporal Exposure Control for Videos [[link]]()
 
 
+## SIGGRAPH Technical Brief
+* `SATB2019` A Decomposition Method of Object Transfiguration [[link]]()
+* `SATB2019` Structure-Aware Image Expansion with Global Attention [[link]]()
 
 
-
-## START REPORT [[link]]()(https://sites.google.com/site/drminchen/cgf-info/cgf-stars)
+## START REPORT [[link]](https://sites.google.com/site/drminchen/cgf-info/cgf-stars)
 * A Survey on Data-Driven Video Completion
 * State of the Art Report on Video-Based Graphics andVideo Visualization
 * A Comparative Review of Tone-Mapping Algorithms for High Dynamic Range Video

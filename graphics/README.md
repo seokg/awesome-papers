@@ -57,9 +57,11 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPHASIA2019` Neural Style-Preserving Visual Dubbing [[link]](https://gvv.mpi-inf.mpg.de/projects/StyleDub/)
 * `SIGGRAPHASIA2019` Deep Face Normalization [[link]](http://luminohope.org/publications.php)
 * `SIGGRAPHASIA2019` Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning [[link]](https://hologerry.github.io/AGIS-Net/)[[code]](https://github.com/hologerry/AGIS-Net)
-* `SIGGRAPHASIA2019` DReCon: Data-Driven Responsive Control of Physics-Based Characters [[link]]()
-* `SIGGRAPHASIA2019` Neural State Machine for Goal-Directed Character Control [[link]]()
-* `SIGGRAPHASIA2019` Dep Iterative Frame Interpolation for Full-frame Video Stabilization[[link]](https://arxiv.org/abs/1909.02641)
+* `SIGGRAPHASIA2019` A Novel Framework For Inverse Procedural Texture Modeling [[link]](https://graphics.cs.yale.edu/publications/novel-framework-inverse-procedural-texture-modeling)
+* `SIGGRAPHASIA2019` Write-A-Video: Computational Video Montage from Themed Text [[link]](http://miaowang.me/write-a-video/)
+* `SIGGRAPHASIA2019` DReCon: Data-Driven Responsive Control of Physics-Based Characters [[link]](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/)
+* `SIGGRAPHASIA2019` Neural State Machine for Goal-Directed Character Control [[code]](https://github.com/sebastianstarke/AI4Animation)
+* `SIGGRAPHASIA2019` Deep Iterative Frame Interpolation for Full-frame Video Stabilization[[link]](https://arxiv.org/abs/1909.02641)
 * `SIGGRAPHASIA2019` OpenSketch: A Richly-Annotated Dataset of Product Design Sketches [[link]](https://ns.inria.fr/d3/OpenSketch/)[[code]](https://gitlab.inria.fr/openskecth)
 * `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches [[code]](https://github.com/SketchyScene/SketchySceneColorization)
 * `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
@@ -67,7 +69,9 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPHASIA2019` Write-A-Video: Computational Video Montage from Themed Text [[link]](http://www.faculty.idc.ac.il/arik/site/writeVideo.asp)
 * `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches
  [[link]](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf)[[code]](https://github.com/SketchyScene/SketchySceneColorization)
-
+* `SIGGRAPHASIA2019` A Novel Framework For Inverse Procedural Texture Modeling [[link]](https://graphics.cs.yale.edu/sites/default/files/inverse_procedural_texture_modeling_low-res_0.pdf)
+* `SIGGRAPHASIA2019` LOGAN: Unpaired Shape Transform in Latent Overcomplete Space [[link]](https://arxiv.org/abs/1903.10170)[[code]](https://calendar.google.com/calendar/r)
+* `SIGGRAPHASIA2019` Multi-Style Generative Adversarial Terrain Amplification [[code]](https://github.com/electronicarts/siggraph-asia-2019-gata)
 
 
 ## Pacific Graphics
@@ -93,7 +97,12 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 
 
 ## SIGGRAPH Technical Brief
-* `SATB2019` A Decomposition Method of Object Transfiguration [[link]]()
+* `SATB2019` PaintersView: Automatic Suggestion of Optimal Viewpoints for 3D Texture Painting [[link]](https://yamaguchi1024.github.io/paintersview-doc/)
+* `SATB2019` The Potential of Light Fields in Media Productions [[link]]()
+* `SATB2019` Unpaired Sketch-to-Line Translation via Synthesis of Sketches [[link]]()
+* `SATB2019` Interactive editing of performance-based facial animation [[link]](https://dl.acm.org/citation.cfm?id=3365147)
+* `SATB2019` Piku Piku Interpolation [[link]](https://dl.acm.org/citation.cfm?id=3365156)
+* `SATB2019` A Decomposition Method of Object Transfiguration [[link]](https://dl.acm.org/citation.cfm?id=3365151)
 * `SATB2019` Structure-Aware Image Expansion with Global Attention [[link]]()
 
 

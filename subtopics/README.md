@@ -8,7 +8,7 @@
 
 
 ## object selection
-* `ECCV2018` Interactive Boundary Prediction for Object Selection [[http://openaccess.thecvf.com/content_ECCV_2018/papers/Hoang_Le_Interactive_Boundary_Prediction_ECCV_2018_paper.pdf]]
+* `ECCV2018` Interactive Boundary Prediction for Object Selection [[link]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hoang_Le_Interactive_Boundary_Prediction_ECCV_2018_paper.pdf)
 * `BMVC2017` Deep GrabCut for Object Selection [[link]](https://arxiv.org/pdf/1707.00243.pdf)[[code]](https://github.com/jfzhang95/DeepGrabCut-PyTorch)
 * `CVPR2016` Deep Interactive Object Selection [[link]](https://sites.google.com/view/deepselection)
 

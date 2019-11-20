@@ -62,14 +62,10 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPHASIA2019` DReCon: Data-Driven Responsive Control of Physics-Based Characters [[link]](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/)
 * `SIGGRAPHASIA2019` Neural State Machine for Goal-Directed Character Control [[code]](https://github.com/sebastianstarke/AI4Animation)
 * `SIGGRAPHASIA2019` Deep Iterative Frame Interpolation for Full-frame Video Stabilization[[link]](https://arxiv.org/abs/1909.02641)
-* `SIGGRAPHASIA2019` OpenSketch: A Richly-Annotated Dataset of Product Design Sketches [[link]](https://ns.inria.fr/d3/OpenSketch/)[[code]](https://gitlab.inria.fr/openskecth)
+<!-- * `SIGGRAPHASIA2019` OpenSketch: A Richly-Annotated Dataset of Product Design Sketches [[link]](https://ns.inria.fr/d3/OpenSketch/)[[code]](https://gitlab.inria.fr/openskecth) -->
 * `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches [[code]](https://github.com/SketchyScene/SketchySceneColorization)
-* `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
+<!-- * `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) -->
 * `SIGGRAPHASIA2019` 3D Ken Burns Effect from a Single Image [[link]](http://sniklaus.com/papers/kenburns)
-* `SIGGRAPHASIA2019` Write-A-Video: Computational Video Montage from Themed Text [[link]](http://www.faculty.idc.ac.il/arik/site/writeVideo.asp)
-* `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches
- [[link]](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf)[[code]](https://github.com/SketchyScene/SketchySceneColorization)
-* `SIGGRAPHASIA2019` A Novel Framework For Inverse Procedural Texture Modeling [[link]](https://graphics.cs.yale.edu/sites/default/files/inverse_procedural_texture_modeling_low-res_0.pdf)
 * `SIGGRAPHASIA2019` LOGAN: Unpaired Shape Transform in Latent Overcomplete Space [[link]](https://arxiv.org/abs/1903.10170)[[code]](https://calendar.google.com/calendar/r)
 * `SIGGRAPHASIA2019` Multi-Style Generative Adversarial Terrain Amplification [[code]](https://github.com/electronicarts/siggraph-asia-2019-gata)
 * `SIGGRAPHASIA2019` The Relightables: Volumetric Performance Capture of Humans with Realistic Relighting [[link]](https://augmentedperception.github.io/therelightables/)

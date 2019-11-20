@@ -15,8 +15,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 * `SIGGRAPH2019` Joint Stabilization and Direction of 360° Videos [[link]](https://dl.acm.org/citation.cfm?doid=3313807.3211889)
 * `SIGGRAPH2019` Text-based Editing of Talking-head Video[[link]](https://www.ohadf.com/projects/text-based-editing/)
 * `SIGGRAPH2019` Single Image Portrait Relighting [[link]](https://arxiv.org/pdf/1905.00824.pdf)
-* `SIGGRAPH2019` Local Light Field Fusion: Practical View Synthesis 
-with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~bmild/llff/) [[code]](https://github.com/Fyusion/LLFF)
+* `SIGGRAPH2019` Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~bmild/llff/) [[code]](https://github.com/Fyusion/LLFF)
 * `SIGGRAPH2019` Multi-view Relighting using a Geometry-Aware Network [[link]](https://repo-sam.inria.fr/fungraph/deep-relighting/)
 * `SIGGRAPH2019` Learning Character-Agnostic Motion for Motion Retargeting in 2D [[link]](https://motionretargeting2d.github.io/)[[code]](https://github.com/ChrisWu1997/2D-Motion-Retargeting)
 * `SIGGRAPH2019` Synthetic Defocus and Look-Ahead Autofocus for Casual Videograph [[link]](https://ceciliavision.github.io/vid-auto-focus/)

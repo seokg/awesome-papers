@@ -72,7 +72,8 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPHASIA2019` A Novel Framework For Inverse Procedural Texture Modeling [[link]](https://graphics.cs.yale.edu/sites/default/files/inverse_procedural_texture_modeling_low-res_0.pdf)
 * `SIGGRAPHASIA2019` LOGAN: Unpaired Shape Transform in Latent Overcomplete Space [[link]](https://arxiv.org/abs/1903.10170)[[code]](https://calendar.google.com/calendar/r)
 * `SIGGRAPHASIA2019` Multi-Style Generative Adversarial Terrain Amplification [[code]](https://github.com/electronicarts/siggraph-asia-2019-gata)
-
+* `SIGGRAPHASIA2019` The Relightables: Volumetric Performance Capture of Humans with Realistic Relighting [[link]](https://augmentedperception.github.io/therelightables/)
+* `SIGGRAPHASIA2019` An Integrated 6DoF Video Camera and System Design [[link]](https://research.fb.com/publications/an-integrated-6dof-video-camera-and-system-design/)
 
 ## Pacific Graphics
 * `PG2019` Generic Interactive Pixel-Level Image Editing [[link]]()

@@ -6,6 +6,12 @@
 * Vid2Game: Controllable Characters Extracted from Real-World Videos
 * DynamoNet: Dynamic Action and Motion Network
 
+
+## object selection
+* `ECCV2018` Interactive Boundary Prediction for Object Selection [[link]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hoang_Le_Interactive_Boundary_Prediction_ECCV_2018_paper.pdf)
+* `BMVC2017` Deep GrabCut for Object Selection [[link]](https://arxiv.org/pdf/1707.00243.pdf)[[code]](https://github.com/jfzhang95/DeepGrabCut-PyTorch)
+* `CVPR2016` Deep Interactive Object Selection [[link]](https://sites.google.com/view/deepselection)
+
 ## image manipulation and editing
 * SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters [[link]](https://arxiv.org/abs/1805.09313)
 * FSGAN: Subject Agnostic Face Swapping and Reenactment [[link]](https://nirkin.com/fsgan/)
@@ -17,19 +23,12 @@
 ## generative model
 * `CVPR2019` Semantic Image Synthesis with Spatially-Adaptive Normalization [[link]](https://arxiv.org/abs/1903.07291)[[code]](https://github.com/NVlabs/SPADE) [[code2]](https://github.com/taki0112/SPADE-Tensorflow)
 * `ICCV2019`Specifying Object Attributes and Relations in Interactive Scene Generation [[code]](https://github.com/ashual/scene_generation)
+
 ## style transfer
 * `ICCV2017` Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization [[link]](https://arxiv.org/abs/1703.06868)[[code]](https://github.com/xunhuang1995/AdaIN-style)
 
 ## inverse rendering
 * Lifting AutoEncoders: Unsupervised Learning of a Fully-Disentangled 3D Morphable Model using Deep Non-Rigid Structure from Motion
-
-## image based rendering
-* `CVPR2019`  Neural Rerendering in the Wild [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meshry_Neural_Rerendering_in_the_Wild_CVPR_2019_paper.pdf)[[]]
-* `Arxiv2019` NVS Machines: Learning Novel View Synthesis with Fine-grained View Control [[link]](https://arxiv.org/pdf/1901.01880.pdf)
-* HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)
-* `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)
-* `ECCV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
-
 
 ## Notes from conferences
 * Practical Least-Squares for Computer Graphics [[link]](http://graphics.stanford.edu/~jplewis/lscourse/ls.pdf)

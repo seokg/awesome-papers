@@ -15,8 +15,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 * `SIGGRAPH2019` Joint Stabilization and Direction of 360° Videos [[link]](https://dl.acm.org/citation.cfm?doid=3313807.3211889)
 * `SIGGRAPH2019` Text-based Editing of Talking-head Video[[link]](https://www.ohadf.com/projects/text-based-editing/)
 * `SIGGRAPH2019` Single Image Portrait Relighting [[link]](https://arxiv.org/pdf/1905.00824.pdf)
-* `SIGGRAPH2019` Local Light Field Fusion: Practical View Synthesis 
-with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~bmild/llff/) [[code]](https://github.com/Fyusion/LLFF)
+* `SIGGRAPH2019` Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~bmild/llff/) [[code]](https://github.com/Fyusion/LLFF)
 * `SIGGRAPH2019` Multi-view Relighting using a Geometry-Aware Network [[link]](https://repo-sam.inria.fr/fungraph/deep-relighting/)
 * `SIGGRAPH2019` Learning Character-Agnostic Motion for Motion Retargeting in 2D [[link]](https://motionretargeting2d.github.io/)[[code]](https://github.com/ChrisWu1997/2D-Motion-Retargeting)
 * `SIGGRAPH2019` Synthetic Defocus and Look-Ahead Autofocus for Casual Videograph [[link]](https://ceciliavision.github.io/vid-auto-focus/)
@@ -57,18 +56,19 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `SIGGRAPHASIA2019` Neural Style-Preserving Visual Dubbing [[link]](https://gvv.mpi-inf.mpg.de/projects/StyleDub/)
 * `SIGGRAPHASIA2019` Deep Face Normalization [[link]](http://luminohope.org/publications.php)
 * `SIGGRAPHASIA2019` Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning [[link]](https://hologerry.github.io/AGIS-Net/)[[code]](https://github.com/hologerry/AGIS-Net)
-* `SIGGRAPHASIA2019` DReCon: Data-Driven Responsive Control of Physics-Based Characters [[link]]()
-* `SIGGRAPHASIA2019` Neural State Machine for Goal-Directed Character Control [[link]]()
-* `SIGGRAPHASIA2019` Dep Iterative Frame Interpolation for Full-frame Video Stabilization[[link]](https://arxiv.org/abs/1909.02641)
-* `SIGGRAPHASIA2019` OpenSketch: A Richly-Annotated Dataset of Product Design Sketches [[link]](https://ns.inria.fr/d3/OpenSketch/)[[code]](https://gitlab.inria.fr/openskecth)
+* `SIGGRAPHASIA2019` A Novel Framework For Inverse Procedural Texture Modeling [[link]](https://graphics.cs.yale.edu/publications/novel-framework-inverse-procedural-texture-modeling)
+* `SIGGRAPHASIA2019` Write-A-Video: Computational Video Montage from Themed Text [[link]](http://miaowang.me/write-a-video/)
+* `SIGGRAPHASIA2019` DReCon: Data-Driven Responsive Control of Physics-Based Characters [[link]](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/)
+* `SIGGRAPHASIA2019` Neural State Machine for Goal-Directed Character Control [[code]](https://github.com/sebastianstarke/AI4Animation)
+* `SIGGRAPHASIA2019` Deep Iterative Frame Interpolation for Full-frame Video Stabilization[[link]](https://arxiv.org/abs/1909.02641)
+<!-- * `SIGGRAPHASIA2019` OpenSketch: A Richly-Annotated Dataset of Product Design Sketches [[link]](https://ns.inria.fr/d3/OpenSketch/)[[code]](https://gitlab.inria.fr/openskecth) -->
 * `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches [[code]](https://github.com/SketchyScene/SketchySceneColorization)
-* `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
+<!-- * `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) -->
 * `SIGGRAPHASIA2019` 3D Ken Burns Effect from a Single Image [[link]](http://sniklaus.com/papers/kenburns)
-* `SIGGRAPHASIA2019` Write-A-Video: Computational Video Montage from Themed Text [[link]](http://www.faculty.idc.ac.il/arik/site/writeVideo.asp)
-* `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches
- [[link]](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf)[[code]](https://github.com/SketchyScene/SketchySceneColorization)
-
-
+* `SIGGRAPHASIA2019` LOGAN: Unpaired Shape Transform in Latent Overcomplete Space [[link]](https://arxiv.org/abs/1903.10170)[[code]](https://calendar.google.com/calendar/r)
+* `SIGGRAPHASIA2019` Multi-Style Generative Adversarial Terrain Amplification [[code]](https://github.com/electronicarts/siggraph-asia-2019-gata)
+* `SIGGRAPHASIA2019` The Relightables: Volumetric Performance Capture of Humans with Realistic Relighting [[link]](https://augmentedperception.github.io/therelightables/)
+* `SIGGRAPHASIA2019` An Integrated 6DoF Video Camera and System Design [[link]](https://research.fb.com/publications/an-integrated-6dof-video-camera-and-system-design/)
 
 ## Pacific Graphics
 * `PG2019` Generic Interactive Pixel-Level Image Editing [[link]]()
@@ -92,10 +92,17 @@ with Prescriptive Sampling Guidelines [[link]](http://people.eecs.berkeley.edu/~
 * `PG2019` ShutterApp: Spatio-Temporal Exposure Control for Videos [[link]]()
 
 
+## SIGGRAPH Technical Brief
+* `SATB2019` PaintersView: Automatic Suggestion of Optimal Viewpoints for 3D Texture Painting [[link]](https://yamaguchi1024.github.io/paintersview-doc/)
+* `SATB2019` The Potential of Light Fields in Media Productions [[link]]()
+* `SATB2019` Unpaired Sketch-to-Line Translation via Synthesis of Sketches [[link]]()
+* `SATB2019` Interactive editing of performance-based facial animation [[link]](https://dl.acm.org/citation.cfm?id=3365147)
+* `SATB2019` Piku Piku Interpolation [[link]](https://dl.acm.org/citation.cfm?id=3365156)
+* `SATB2019` A Decomposition Method of Object Transfiguration [[link]](https://dl.acm.org/citation.cfm?id=3365151)
+* `SATB2019` Structure-Aware Image Expansion with Global Attention [[link]]()
 
 
-
-## START REPORT [[link]]()(https://sites.google.com/site/drminchen/cgf-info/cgf-stars)
+## START REPORT [[link]](https://sites.google.com/site/drminchen/cgf-info/cgf-stars)
 * A Survey on Data-Driven Video Completion
 * State of the Art Report on Video-Based Graphics andVideo Visualization
 * A Comparative Review of Tone-Mapping Algorithms for High Dynamic Range Video

@@ -21,6 +21,7 @@ Papers of image and video inpainting
 * `SIGGRAPH2009` PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing [[link]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
 
 ## Video
+* `TVCG2019` Inpainting of Wide-baseline Multiple Viewpoint Video [[link]](http://personal.ee.surrey.ac.uk/Personal/J.Collomosse/pubs/Gilbert-TVCG-2019.pdf)
 * `arxiv2019` Align-and-Attend Network for Globally and Locally Coherent Video Inpainting
 * `ICCV2019` An Internal Learning Approach to Video Inpainting [[link]](https://cs.stanford.edu/~haotianz/publications/video_inpainting/)
 * `ICCV2019` Copy-and-Paste Networks for Deep Video Inpainting [[code]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)
@@ -34,10 +35,12 @@ Papers of image and video inpainting
 
 
 ## Outpainting
-* `arxiv2019` Multimodal Image Outpainting With Regularized Normalized Diversification [[]]
-* `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]]()
-* `ICCV2019` Very Long Natural Scenery Image Prediction by Outpainting [[link]]()
+* `arxiv2019` Multimodal Image Outpainting With Regularized Normalized Diversification [[link]](https://arxiv.org/pdf/1910.11481.pdf)
+* `SATB2019` Structure-Aware Image Expansion with Global Attention [[link]](https://dl.acm.org/citation.cfm?id=3365161)
+* `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]](https://sites.google.com/view/boundless-iccv/home)
+* `ICCV2019` Very Long Natural Scenery Image Prediction by Outpainting [[link]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Very_Long_Natural_Scenery_Image_Prediction_by_Outpainting_ICCV_2019_paper.pdf)
 * `SIGGRAPH2019` Video Extrapolation Using Neighboring Frames [[link]](https://vml.kaist.ac.kr/main/international/individual/157)
+* `CVPR2019` Wide-Context Semantic Image Extrapolation [[link]](http://jiaya.me/papers/imgextrapolation_cvpr19.pdf)[[code]](https://github.com/shepnerd/outpainting_srn)
 
 
 ## ETC

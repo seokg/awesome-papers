@@ -7,5 +7,7 @@ Papers from HCI conferences such as CHI and UIST
 
 
 ## UIST
+* `UIST2019` View-Dependent Video Textures for 360° Video [[link]](https://lseancs.github.io/viewdepvrtextures/)
+* `UIST2019`Optimizing Portrait Lighting at Capture-Time Using a 360 Camera as a Light Probe [[link]](http://graphics.stanford.edu/projects/portraitlighting/)
 * `UIST2019` MeCap: Whole-Body Digitization for Low-Cost VR/AR Headsets [[link]](https://karan-ahuja.com/mecap.html)
 * `UIST2010` Cosaliency: where people look when comparing images [[link]](http://graphics.stanford.edu/papers/cosaliency/)

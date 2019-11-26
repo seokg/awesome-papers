@@ -5,6 +5,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 
 
 ## SIGGRAPH 
+* `SIGGRAPH2019` VR Facial Animation via Multiview Image Translation [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 * `SIGGRAPH2019` Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies [[link]](https://www.cs.princeton.edu/~fheide/proxyopt)
 * `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prior [[link]](http://ganpaint.io/)
 * `SIGGRAPH2019` TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures  [[code]](https://github.com/afruehstueck/tileGAN)
@@ -61,14 +62,14 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 * `SIGGRAPHASIA2019` DReCon: Data-Driven Responsive Control of Physics-Based Characters [[link]](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/)
 * `SIGGRAPHASIA2019` Neural State Machine for Goal-Directed Character Control [[code]](https://github.com/sebastianstarke/AI4Animation)
 * `SIGGRAPHASIA2019` Deep Iterative Frame Interpolation for Full-frame Video Stabilization[[link]](https://arxiv.org/abs/1909.02641)
-<!-- * `SIGGRAPHASIA2019` OpenSketch: A Richly-Annotated Dataset of Product Design Sketches [[link]](https://ns.inria.fr/d3/OpenSketch/)[[code]](https://gitlab.inria.fr/openskecth) -->
 * `SIGGRAPHASIA2019` Language-based Colorization of Scene Sketches [[code]](https://github.com/SketchyScene/SketchySceneColorization)
-<!-- * `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) -->
 * `SIGGRAPHASIA2019` 3D Ken Burns Effect from a Single Image [[link]](http://sniklaus.com/papers/kenburns)
 * `SIGGRAPHASIA2019` LOGAN: Unpaired Shape Transform in Latent Overcomplete Space [[link]](https://arxiv.org/abs/1903.10170)[[code]](https://calendar.google.com/calendar/r)
 * `SIGGRAPHASIA2019` Multi-Style Generative Adversarial Terrain Amplification [[code]](https://github.com/electronicarts/siggraph-asia-2019-gata)
 * `SIGGRAPHASIA2019` The Relightables: Volumetric Performance Capture of Humans with Realistic Relighting [[link]](https://augmentedperception.github.io/therelightables/)
 * `SIGGRAPHASIA2019` An Integrated 6DoF Video Camera and System Design [[link]](https://research.fb.com/publications/an-integrated-6dof-video-camera-and-system-design/)
+<!-- * `SIGGRAPHASIA2019` OpenSketch: A Richly-Annotated Dataset of Product Design Sketches [[link]](https://ns.inria.fr/d3/OpenSketch/)[[code]](https://gitlab.inria.fr/openskecth) -->
+<!-- * `SIGGRAPHASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) -->
 
 ## Pacific Graphics
 * `PG2019` Generic Interactive Pixel-Level Image Editing [[link]]()

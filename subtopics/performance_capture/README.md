@@ -3,6 +3,7 @@
 * `NeurIPS2018` Video-to-Video Synthesis [[link]](https://tcwang0509.github.io/vid2vid/)[[code]](https://github.com/NVIDIA/vid2vid)
 
 ## Body Performance
+* `arxiv2019`Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer[[link]](https://arxiv.org/pdf/1911.10672.pdf)
 * `ICCV2019` Everybody Dance Now [[link]](https://carolineec.github.io/everybody_dance_now/)[[code]](https://carolineec.github.io/everybody_dance_now/#code)
 * `SIGGRAPH2019` Learning Character-Agnostic Motion for Motion Retargeting in 2D [[link]](https://motionretargeting2d.github.io/)[[code]](https://github.com/ChrisWu1997/2D-Motion-Retargeting)
 * `SIGGRAPH2019` Neural Animation and Reenactment of Human Actor Videos [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/)

@@ -105,7 +105,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 
 ## START REPORT [[link]](https://sites.google.com/site/drminchen/cgf-info/cgf-stars)
 * A Survey on Data-Driven Video Completion
-* State of the Art Report on Video-Based Graphics andVideo Visualization
+* State of the Art Report on Video-Based Graphics and Video Visualization
 * A Comparative Review of Tone-Mapping Algorithms for High Dynamic Range Video
 * Intrinsic Decompositions for Image Editing
 * The State of the Art in Integrating Machine Learning into Visual Analytics

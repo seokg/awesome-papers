@@ -31,7 +31,8 @@ Papers of image and video inpainting
 * `CVPR2019` Deep Video Inpainting [[code]](https://github.com/mcahny/Deep-Video-Inpainting)
 * `WACV2018` Video Inpainting for Arbitrary Foreground Object Removal
 * `SIGGRAPHASIA2016` Temporally Coherent Completion of Dynamic Video,
-*  `TVCG2012` High-Quality Real-Time Video Inpaintingwith PixMix [[link]](https://ieeexplore.ieee.org/document/6714519)[[code]](https://github.com/Mugichoko445/PixMix-Inpainting)
+* `EGSTAR2014` A Survey on Data-Driven Video Completion
+* `TVCG2012` High-Quality Real-Time Video Inpaintingwith PixMix [[link]](https://ieeexplore.ieee.org/document/6714519)[[code]](https://github.com/Mugichoko445/PixMix-Inpainting)
 
 
 ## Outpainting

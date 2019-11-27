@@ -16,6 +16,7 @@
 * `NeurIPS2018` RenderNet: A deep convolutional network for differentiable rendering from 3D shapes [[link]](https://github.com/thunguyenphuoc/RenderNet)
 
 ## Image-Based Rendering
+* `VR2019` MegaParallax: Casual 360° Panoramas with Motion Parallax [[link]](https://richardt.name/publications/megaparallax/) 
 * `SIGGRAPH2018` Instant 3D Photography [[link]](http://visual.cs.ucl.ac.uk/pubs/instant3d/)
 * `SIGGRAPHASIA2017` Casual 3D Photography [[link]](http://visual.cs.ucl.ac.uk/pubs/casual3d/)
 * `SIGGRAPHASIA2017` Virtual Rephotography: Novel View Prediction Error for 3D Reconstruction [[link]](https://ibmr-benchmark.gcc.informatik.tu-darmstadt.de/)

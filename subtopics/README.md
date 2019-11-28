@@ -32,4 +32,5 @@
 * Lifting AutoEncoders: Unsupervised Learning of a Fully-Disentangled 3D Morphable Model using Deep Non-Rigid Structure from Motion
 
 ## Notes from conferences
+* User-Centric Computational Videography [[link]](http://gvv.mpi-inf.mpg.de/teaching/uccv_course_2015/)
 * Practical Least-Squares for Computer Graphics [[link]](http://graphics.stanford.edu/~jplewis/lscourse/ls.pdf)

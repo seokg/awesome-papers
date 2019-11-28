@@ -1,6 +1,7 @@
 # Character Animation
 Papers of character animation
 
+
 * `C&G2019` Bidirectional recurrent autoencoder for 3D skeleton motion data refinement [[link]]()
 * `ECCV2018` Neural Kinematic Networks for Unsupervised Motion Retargeting [[link]](https://sites.google.com/umich.edu/nik)[[code]](https://github.com/rubenvillegas/cvpr2018nkn)
 * `SIGGRAPH2018` Robust Solving of Optical Motion Capture Data by Denoising [[link]](http://montreal.ubisoft.com/en/robust-solving-of-optical-motion-capture-data-by-denoising/)
@@ -16,6 +17,7 @@ Papers of character animation
 * `SIGGRAPH2017` Phase-Functioned Neural Networks for Character Control [[code]](https://github.com/sebastianstarke/AI4Animation)
 
 ## ETC
+* `Cascadeur` [How to Use Deep Learning in Character Posing](https://blog.siggraph.org/2019/11/how-to-use-deep-learning-in-character-posing.html/)
 * `Adobe` [GoFigureSneak](https://youtu.be/xEdZOifROmk)
 
 

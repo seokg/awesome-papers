@@ -29,6 +29,7 @@ Papers of image and video inpainting
 * `ICCV2019` Free-Form Video Inpainting With 3D Gated Convolution and Temporal PatchGAN [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
 * `CVPR2019` Deep Flow-Guided Video Inpainting [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
 * `CVPR2019` Deep Video Inpainting [[code]](https://github.com/mcahny/Deep-Video-Inpainting)
+* `BMVC2019` Learnable Gated Temporal Shift Module for Deep Video Inpainting [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
 * `WACV2018` Video Inpainting for Arbitrary Foreground Object Removal
 * `SIGGRAPHASIA2016` Temporally Coherent Completion of Dynamic Video,
 * `EGSTAR2014` A Survey on Data-Driven Video Completion

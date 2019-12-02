@@ -75,7 +75,7 @@ Papers from vision conferences such as CVPR, ECCV, and ICCV
 * `ICCV2019` Content and Style Disentanglement for Artistic Style Transfer [[link]]()
 * `ICCV2019` HoloGAN: Unsupervised Learning of 3D Representations From Natural Images [[link]]()
 * `ICCV2019` View-LSTM: Novel-View Video Synthesis Through View Decomposition [[link]]()
-* `ICCV2019` 	AdaptIS: Adaptive Instance Selection Network [[link]]()
+* `ICCV2019` AdaptIS: Adaptive Instance Selection Network [[link]]()
 * `ICCV2019` Deep Parametric Indoor Lighting Estimation [[link]]()
 * `ICCV2019` FSGAN: Subject Agnostic Face Swapping and Reenactment [[link]]()
 * `ICCV2019` Deep Single-Image Portrait Relighting [[link]]()
@@ -118,7 +118,7 @@ Papers from vision conferences such as CVPR, ECCV, and ICCV
 * `ICCV2019` C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion [[link]]()
 * `ICCV2019` DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare [[link]]()
 * `ICCV2019` Learning to Paint With Model-Based Deep Reinforcement Learning [[link]]()
-* `ICCV2019` Neural Re-Simulation for Generating Bounces in Single Images [[link]]()
+* `ICCV2019` Neural Re-Simulation for Generating Bounces in Single Images [[link]](http://geometry.cs.ucl.ac.uk/projects/2019/bounce-neural-resim/)
 * `ICCV2019` Deep Appearance Maps [[link]]()
 * `ICCV2019` Image Inpainting With Learnable Bidirectional Attention Maps [[link]]()
 * `ICCV2019` OmniMVS: End-to-End Learning for Omnidirectional Stereo Matching [[link]]()
@@ -140,5 +140,7 @@ Papers from vision conferences such as CVPR, ECCV, and ICCV
 * `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]]()
 * `ICCV2019` Few-Shot Unsupervised Image-to-Image Translation [[link]]()
 * `ICCV2019` Very Long Natural Scenery Image Prediction by Outpainting [[link]]()
+* `ICCV2019` Dynamic-Net: Tuning the Objective Without Re-Training for Synthesis Tasks [[link]](https://cgm.technion.ac.il/Computer-Graphics-Multimedia/Software/DynamicNet/)[[code]](https://github.com/AlonShoshan10/dynamic_net)
 * `ICCV2019` [[link]]()
+
 

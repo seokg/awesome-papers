@@ -13,6 +13,7 @@
 * `CVPR2016` Deep Interactive Object Selection [[link]](https://sites.google.com/view/deepselection)
 
 ## image manipulation and editing
+* `arxiv2019` Image2StyleGAN++: How to Edit the Embedded Images? [[link]](https://arxiv.org/pdf/1911.11544.pdf)
 * `arxiv2019` Neural Puppet: Generative Layered Cartoon Characters [[link]](https://arxiv.org/pdf/1910.02060.pdf)
 * SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters [[link]](https://arxiv.org/abs/1805.09313)
 * FSGAN: Subject Agnostic Face Swapping and Reenactment [[link]](https://nirkin.com/fsgan/)

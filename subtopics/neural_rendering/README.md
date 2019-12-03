@@ -1,5 +1,6 @@
 # Neural Rendering
-* `EG-STAR2020`  
+* `EG-STAR2020` 
+* `` Neural Point-Based Graphics [[link]](https://arxiv.org/pdf/1906.08240.pdf)
 * `arxiv2019` A Neural Rendering Framework for Free-Viewpoint Relighting [[link]](https://128.84.21.199/pdf/1911.11530.pdf)
 * `NeurIPS2019` Geometry-Aware Neural Rendering [[link]](https://arxiv.org/abs/1911.04554)
 * `ICCV2019` HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)[[code]](https://github.com/thunguyenphuoc/HoloGAN)
@@ -10,17 +11,18 @@
 * `SIGGRAPH2019` VR Facial Animation via Multiview Image Translation [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 * `SIGGRAPH2019` Text-based Editing of Talking-head Video [[link]](https://www.ohadf.com/projects/text-based-editing/)
 * `SIGGRAPH2019` [[link]]()
-
 * `CVPR2019` Neural Rerendering in the Wild [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meshry_Neural_Rerendering_in_the_Wild_CVPR_2019_paper.pdf)[[code]](https://github.com/google/neural_rerendering_in_the_wild)
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)
 * `CVPR2019` DeepVoxels: Learning Persistent 3D Feature Embeddings [[link]](https://www.niessnerlab.org/projects/sitzmann2019deepvoxels.html)
 * `CVPR2018` DeepMVS: Learning Multi-view Stereopsis [[link]](https://phuang17.github.io/DeepMVS/index.html)[[code]](https://github.com/phuang17/DeepMVS)
+* Context-aware Synthesis for Video Frame Interpolation [[link]](https://arxiv.org/pdf/1803.10967.pdf)
 * `ECCV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
 * `SIGGRAPHASIA2018` LookinGood: Enhancing performance capture with real-time neural re-rendering [[link]]
 * `SIGGRAPH2018` Deep Blending for Free-Viewpoint Image-Based Rendering [[link]](https://www-sop.inria.fr/reves/Basilic/2018/HPPFDB18/)
 * `SIGGRAPH2018` Deep video portraits [[link]](https://gvv.mpi-inf.mpg.de/projects/DeepVideoPortraits/)
 * `Arxiv2018`  IGNOR: Image-guided neural object rendering [[link]](https://www.niessnerlab.org/projects/thies2018ignor.html)
 * `NeurIPS2018` RenderNet: A deep convolutional network for differentiable rendering from 3D shapes [[link]](https://github.com/thunguyenphuoc/RenderNet)
+* `CGI2018` Point Based Rendering Enhancement via Deep Learning [[link]](http://faculty.missouri.edu/duanye/CGI_2018-low-res.pdf)
 
 ## Image-Based Rendering
 * `SIGGRAPH2019Course` Capture4VR: From VR Photography to VR Video [[link]](https://richardt.name/publications/capture4vr/)

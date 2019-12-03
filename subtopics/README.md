@@ -1,6 +1,8 @@
 # ETC
 
 * Stylizing Animation By Example[[link]](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf)
+* FACSIMILE:Fast and Accurate Scans From an Image in Less Than a Second[[link]](https://arxiv.org/pdf/1909.00883v1.pdf)
+* Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks [[code]](https://github.com/barisgecer/TBGAN)
 
 ## image2video
 * Vid2Game: Controllable Characters Extracted from Real-World Videos
@@ -13,6 +15,7 @@
 * `CVPR2016` Deep Interactive Object Selection [[link]](https://sites.google.com/view/deepselection)
 
 ## image manipulation and editing
+* `arxiv2019` Interactive Subspace Exploration on Generative Image Modelling [[link]](https://arxiv.org/pdf/1906.09840v2.pdf)
 * `arxiv2019` Image2StyleGAN++: How to Edit the Embedded Images? [[link]](https://arxiv.org/pdf/1911.11544.pdf)
 * `arxiv2019` Neural Puppet: Generative Layered Cartoon Characters [[link]](https://arxiv.org/pdf/1910.02060.pdf)
 * SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters [[link]](https://arxiv.org/abs/1805.09313)

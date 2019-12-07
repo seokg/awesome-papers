@@ -11,6 +11,7 @@
 * `SIGGRAPH2019` VR Facial Animation via Multiview Image Translation [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 * `SIGGRAPH2019` Text-based Editing of Talking-head Video [[link]](https://www.ohadf.com/projects/text-based-editing/)
 * `SIGGRAPH2019` [[link]]()
+* `CVPR2019` DeepView: View Synthesis with Learned Gradient Descent[[link]](https://augmentedperception.github.io/deepview/)
 * `CVPR2019` Neural Rerendering in the Wild [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meshry_Neural_Rerendering_in_the_Wild_CVPR_2019_paper.pdf)[[code]](https://github.com/google/neural_rerendering_in_the_wild)
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)
 * `CVPR2019` DeepVoxels: Learning Persistent 3D Feature Embeddings [[link]](https://www.niessnerlab.org/projects/sitzmann2019deepvoxels.html)

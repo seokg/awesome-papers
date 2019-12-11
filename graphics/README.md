@@ -79,7 +79,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 * `PG2019` Dual Illumination Estimation for Robust Exposure Correction [[link]]()
 * `PG2019` Specular Highlight Removal for Real-World Images [[link]]()
 * `PG2019` Naturalness-Preserving Image Tone Enhancement Using Generative Adversarial Networks [[link]]()
-* `PG2019` Shadow Inpainting and Removal Using Generative ADversarial Netowrks with Slice Convolutions [[link]]()
+* `PG2019` Shadow Inpainting and Removal Using Generative ADversarial Netowrks with Slice Convolutions [[link]](http://www.chengjianglong.com/publications/SCShadow_CGF.pdf)
 * `PG2019` Two-Phase Hair Image Synthesis by Self-Enhancing Generative Model [[link]]()
 * `PG2019` Unsupervised Desnse Light Field Reconstruction with Occlusion Awareness [[link]]()
 * `PG2019` Learning to Paint using Self-Supervised LEarning [[link]]()

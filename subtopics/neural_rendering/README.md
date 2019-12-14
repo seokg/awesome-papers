@@ -1,10 +1,11 @@
 # Neural Rendering
 * `EG-STAR2020` 
-* `` Neural Point-Based Graphics [[link]](https://arxiv.org/pdf/1906.08240.pdf)
+* `arxiv2019` Neural Point-Based Graphics [[link]](https://arxiv.org/pdf/1906.08240.pdf)
 * `arxiv2019` A Neural Rendering Framework for Free-Viewpoint Relighting [[link]](https://128.84.21.199/pdf/1911.11530.pdf)
 * `NeurIPS2019` Geometry-Aware Neural Rendering [[link]](https://arxiv.org/abs/1911.04554)
 * `ICCV2019` HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)[[code]](https://github.com/thunguyenphuoc/HoloGAN)
 * `ICCV2019` Monocular Neural Image Based Rendering with Continuous View Control [[link]](https://arxiv.org/pdf/1901.01880.pdf)
+* `SIGASIA2019` 3D Ken Burns Effect from a Single Image [[link]](https://github.com/sniklaus/3d-ken-burns)
 * `SIGGRAPH2019` Deferred Neural Rendering: Image Synthesis using Neural Textures[[link]](https://www.niessnerlab.org/projects/thies2019neural.html)
 * `SIGGRAPH2019` Neural Volumes: Learning Dynamic Renderable Volumes from Images [[link]](https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/)
 * `SIGGRAPH2019` Neural Rendering and Reenactment of Human Actor Videos [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/)
@@ -32,5 +33,7 @@
 * `SIGGRAPHASIA2017` Casual 3D Photography [[link]](http://visual.cs.ucl.ac.uk/pubs/casual3d/)
 * `SIGGRAPHASIA2017` Virtual Rephotography: Novel View Prediction Error for 3D Reconstruction [[link]](https://ibmr-benchmark.gcc.informatik.tu-darmstadt.de/)
 * `SIGGRAPH2016` Scalable Inside-Out Image-Based Rendering [[link]](http://visual.cs.ucl.ac.uk/pubs/insideout/)
+* `CVPR2015` 3D Time-lapse Reconstruction from Internet Photo [[link]](http://grail.cs.washington.edu/projects/timelapse3d/)
+* `SIGGRAPH2015` Time-lapse Mining from Internet Photos [[link]](https://grail.cs.washington.edu/projects/timelapse/)
 * `SIGGRAPH2014` First-person Hyper-lapse videos [[link]](https://www.microsoft.com/en-us/research/product/computational-photography-applications/microsoft-hyperlapse-pro/?from=http%3A%2F%2Fresearch.microsoft.com%2Fhyperlapse)
 * `SIGGRAPH2012` Image-Based Rendering for Scenes with Reflections [[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Sinha-IBRSR-SG2012b.pdf)

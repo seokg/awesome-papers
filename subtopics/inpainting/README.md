@@ -12,6 +12,7 @@ Papers of image and video inpainting
 * `arxiv2019` PEPSI++: Fast and Lightweight Network for Image Inpainting
 * `CVPR2019` Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation
 * `CVPR2019` Wide-Context Semantic Image Extrapolation [[code]](https://github.com/shepnerd/outpainting_srn)
+* `MM2019` Deep Fusion Network for Image Completion [[code]](https://github.com/hughplay/DFNet)
 * `NeurIPS2018` Image Inpainting via Generative Multi-column Convolutional Neural Networks [[code]](https://github.com/shepnerd/inpainting_gmcnn)
 * `CVPR2018` Generative Image Inpainting with Contextual Attention [[code]](https://github.com/JiahuiYu/generative_inpainting)
 * `ECCV2018` Image Inpainting for Irregular Holes Using Partial Convolutions [[code]](https://github.com/NVIDIA/partialconv) [[code2]](https://github.com/MathiasGruber/PConv-Keras)
@@ -21,15 +22,20 @@ Papers of image and video inpainting
 * `SIGGRAPH2009` PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing [[link]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
 
 ## Video
+* `AAAI2020` AutoRemover: Automatic Object Removal for Autonomous Driving Videos [[link]](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
 * `TVCG2019` Inpainting of Wide-baseline Multiple Viewpoint Video [[link]](http://personal.ee.surrey.ac.uk/Personal/J.Collomosse/pubs/Gilbert-TVCG-2019.pdf)
+* `arxiv2019` Frame-Recurrent Video Inpainting by Robust Optical Flow Inference
 * `arxiv2019` Align-and-Attend Network for Globally and Locally Coherent Video Inpainting
 * `ICCV2019` An Internal Learning Approach to Video Inpainting [[link]](https://cs.stanford.edu/~haotianz/publications/video_inpainting/)
 * `ICCV2019` Copy-and-Paste Networks for Deep Video Inpainting [[code]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)
 * `ICCV2019` Onion-Peel Networks for Deep Video Completion [[code]](https://github.com/seoungwugoh/opn-demo)
 * `ICCV2019` Free-Form Video Inpainting With 3D Gated Convolution and Temporal PatchGAN [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
+* `CVPRW2019` VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal
 * `CVPR2019` Deep Flow-Guided Video Inpainting [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
+* `CVPR2019` Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence
 * `CVPR2019` Deep Video Inpainting [[code]](https://github.com/mcahny/Deep-Video-Inpainting)
 * `BMVC2019` Learnable Gated Temporal Shift Module for Deep Video Inpainting [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
+* `AAAI 2019` Video Inpaint by jointly learning temporal structure and spatial details
 * `WACV2018` Video Inpainting for Arbitrary Foreground Object Removal
 * `SIGGRAPHASIA2016` Temporally Coherent Completion of Dynamic Video,
 * `EGSTAR2014` A Survey on Data-Driven Video Completion
@@ -46,7 +52,7 @@ Papers of image and video inpainting
 
 
 ## ETC
-* `SIGGRAPHASIA2012` Quality Prediction for Image Completion [[link]](http://johanneskopf.de/publications/completion/)
+* `SIGASIS2012` Quality Prediction for Image Completion [[link]](http://johanneskopf.de/publications/completion/)
 * `Adobe` [Content Aware Fil](https://research.adobe.com/project/content-aware-fill/)
 * [Awesome Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
 

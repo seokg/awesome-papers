@@ -144,3 +144,6 @@ Papers from vision conferences such as CVPR, ECCV, and ICCV
 * `ICCV2019` [[link]]()
 
 
+## ECCV
+* `ECCV2018` CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering [[link]](http://www.cs.cornell.edu/projects/cgintrinsics/)[[code]](https://github.com/zhengqili/CGIntrinsics)
+

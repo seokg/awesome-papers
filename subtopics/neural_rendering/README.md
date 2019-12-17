@@ -1,5 +1,6 @@
 # Neural Rendering
-* `EG-STAR2020` 
+* `EG-STAR2020`
+* `arxiv2019` Neural Voxel Renderer [[code]](http://www.krematas.com/nvr/index.html)
 * `arxiv2019` Neural Point-Based Graphics [[link]](https://arxiv.org/pdf/1906.08240.pdf)
 * `arxiv2019` A Neural Rendering Framework for Free-Viewpoint Relighting [[link]](https://128.84.21.199/pdf/1911.11530.pdf)
 * `NeurIPS2019` Geometry-Aware Neural Rendering [[link]](https://arxiv.org/abs/1911.04554)
@@ -11,7 +12,6 @@
 * `SIGGRAPH2019` Neural Rendering and Reenactment of Human Actor Videos [[link]](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/)
 * `SIGGRAPH2019` VR Facial Animation via Multiview Image Translation [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 * `SIGGRAPH2019` Text-based Editing of Talking-head Video [[link]](https://www.ohadf.com/projects/text-based-editing/)
-* `SIGGRAPH2019` [[link]]()
 * `CVPR2019` DeepView: View Synthesis with Learned Gradient Descent[[link]](https://augmentedperception.github.io/deepview/)
 * `CVPR2019` Neural Rerendering in the Wild [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meshry_Neural_Rerendering_in_the_Wild_CVPR_2019_paper.pdf)[[code]](https://github.com/google/neural_rerendering_in_the_wild)
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)

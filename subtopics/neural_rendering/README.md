@@ -1,5 +1,6 @@
 # Neural Rendering
 * `EG-STAR2020`
+* `arixiv` SynSin: End-to-end View Synthesis from a Single Image [[link]](https://arxiv.org/pdf/1912.08804.pdf)
 * `arxiv2019` Neural Voxel Renderer [[code]](http://www.krematas.com/nvr/index.html)
 * `arxiv2019` Neural Point-Based Graphics [[link]](https://arxiv.org/pdf/1906.08240.pdf)
 * `arxiv2019` A Neural Rendering Framework for Free-Viewpoint Relighting [[link]](https://128.84.21.199/pdf/1911.11530.pdf)

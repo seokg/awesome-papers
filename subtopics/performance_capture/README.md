@@ -1,8 +1,6 @@
 # Performance Capture
 * `NeurIPS2019` Few-shot Video-to-Video Synthesis [[link]](https://nvlabs.github.io/few-shot-vid2vid/)[[code]](https://github.com/NVlabs/few-shot-vid2vid)
-* `NeurIPS2019` Few-shot Video-to-Video Synthesis [[link]](https://nvlabs.github.io/few-shot-vid2vid/)[[code]](https://github.com/NVlabs/few-shot-vid2vid) 
-
-* `NeurIPS2018` Dancing to Music [[code]](https://github.com/NVIDIA/Dancing2Music)
+* `NeurIPS2019` Dancing to Music [[code]](https://github.com/NVlabs/Dancing2Music)
 
 ## Body Performance
 * `arxiv2019`Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer[[link]](https://arxiv.org/pdf/1911.10672.pdf)

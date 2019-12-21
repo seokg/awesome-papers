@@ -38,3 +38,4 @@
 * `SIGGRAPH2015` Time-lapse Mining from Internet Photos [[link]](https://grail.cs.washington.edu/projects/timelapse/)
 * `SIGGRAPH2014` First-person Hyper-lapse videos [[link]](https://www.microsoft.com/en-us/research/product/computational-photography-applications/microsoft-hyperlapse-pro/?from=http%3A%2F%2Fresearch.microsoft.com%2Fhyperlapse)
 * `SIGGRAPH2012` Image-Based Rendering for Scenes with Reflections [[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Sinha-IBRSR-SG2012b.pdf)
+* Real-Time Hyperlapse Creation Via Optimal Frame Selection

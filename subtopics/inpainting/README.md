@@ -2,6 +2,7 @@
 Papers of image and video inpainting
 
 ## Image
+* `arxiv2020` Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches [[link]](https://arxiv.org/pdf/2001.02890.pdf)
 * `ICCV2019` Coherent Semantic Attention for Image Inpainting [[link]]()
 * `ICCV2019` Free-Form Image Inpainting With Gated Convolution [[code]](https://github.com/JiahuiYu/generative_inpainting)
 * `ICCV2019` Image Inpainting With Learnable Bidirectional Attention Maps [[code]](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/Research/inpainting-lbam)
@@ -14,6 +15,7 @@ Papers of image and video inpainting
 * `CVPR2019` Wide-Context Semantic Image Extrapolation [[code]](https://github.com/shepnerd/outpainting_srn)
 * `MM2019` Deep Fusion Network for Image Completion [[code]](https://github.com/hughplay/DFNet)
 * `NeurIPS2018` Image Inpainting via Generative Multi-column Convolutional Neural Networks [[code]](https://github.com/shepnerd/inpainting_gmcnn)
+* `SIGGRAPH2018` FaceShop: Deep Sketch-based Face Image Editing [[link]](https://home.inf.unibe.ch/~porteni/projects/faceshop/)
 * `CVPR2018` Generative Image Inpainting with Contextual Attention [[code]](https://github.com/JiahuiYu/generative_inpainting)
 * `ECCV2018` Image Inpainting for Irregular Holes Using Partial Convolutions [[code]](https://github.com/NVIDIA/partialconv) [[code2]](https://github.com/MathiasGruber/PConv-Keras)
 * `Arixiv2018` Free-Form Image Inpainting with Gated Convolution [[link]](http://jiahuiyu.com/deepfill2/)[[code]](https://github.com/JiahuiYu/generative_inpainting)

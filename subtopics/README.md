@@ -1,5 +1,6 @@
 # ETC
-
+* FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping [[link]](https://arxiv.org/pdf/1912.13457v1.pdf)
+* Painting Many Pasts: Synthesizing Time Lapse Videos of Paintings [[link]](https://arxiv.org/pdf/2001.01026v1.pdf)
 * Stylizing Animation By Example[[link]](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf)
 * FACSIMILE:Fast and Accurate Scans From an Image in Less Than a Second[[link]](https://arxiv.org/pdf/1909.00883v1.pdf)
 * Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks [[code]](https://github.com/barisgecer/TBGAN)
@@ -15,6 +16,7 @@
 * `CVPR2016` Deep Interactive Object Selection [[link]](https://sites.google.com/view/deepselection)
 
 ## image manipulation and editing
+* `arxiv2020` Generating Object Stamps [[link]](https://arxiv.org/pdf/2001.02595v2.pdf)
 * `arxiv2019` Interactive Subspace Exploration on Generative Image Modelling [[link]](https://arxiv.org/pdf/1906.09840v2.pdf)
 * `arxiv2019` Image2StyleGAN++: How to Edit the Embedded Images? [[link]](https://arxiv.org/pdf/1911.11544.pdf)
 * `arxiv2019` Neural Puppet: Generative Layered Cartoon Characters [[link]](https://arxiv.org/pdf/1910.02060.pdf)

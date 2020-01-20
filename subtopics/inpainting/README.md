@@ -45,6 +45,7 @@ Papers of image and video inpainting
 
 
 ## Outpainting
+* `arxiv2020` 180-degree Outpainting from a Single Image [[link]](https://arxiv.org/pdf/2001.04568v1.pdf)
 * `arxiv2019` Multimodal Image Outpainting With Regularized Normalized Diversification [[link]](https://arxiv.org/pdf/1910.11481.pdf)
 * `SATB2019` Structure-Aware Image Expansion with Global Attention [[link]](https://dl.acm.org/citation.cfm?id=3365161)
 * `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]](https://sites.google.com/view/boundless-iccv/home)

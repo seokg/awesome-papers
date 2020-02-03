@@ -7,3 +7,4 @@ Papers of Deep Internal Learning
 * `ICCV2019` SinGAN: Learning a Generative Model from a Single Natural Image [[code]](https://github.com/tamarott/SinGAN)
 * `ICCV2019` InGAN: Capturing and Retargeting the “DNA” of a Natural Image [[link]](http://www.wisdom.weizmann.ac.il/~vision/ingan/)[[code]](https://github.com/assafshocher/InGAN)
 * `ICCV2019` An Internal Learning Approach to Video Inpainting [[link]](https://cs.stanford.edu/~haotianz/publications/video_inpainting/)
+* `arxiv2020` Neural Architecture Search for Deep Image Prior [[link]](https://arxiv.org/pdf/2001.04776v1.pdf)

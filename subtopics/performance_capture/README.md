@@ -11,9 +11,10 @@
 * `EG2019` Deep Video-Based Performance Cloning [[link]](https://arxiv.org/abs/1808.06847)
 
 ## Head Performance
+* `arxiv2020` Everybody’s Talkin’: Let Me Talk as You Want [[link]](https://wywu.github.io/projects/EBT/EBT.html)
 * `AAAI2020` MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets [[link]](https://hyperconnect.github.io/MarioNETte/)
 * `ICCV2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models [[link]](https://arxiv.org/abs/1905.08233v1)[[code]](https://github.com/grey-eye/talking-heads)[[code]](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models)
-* `SIGGRAPHASIA2019` Neural Style-Preserving Visual Dubbing [[http://gvv.mpi-inf.mpg.de/projects/StyleDub/]]
+* `SIGGRAPHASIA2019` Neural Style-Preserving Visual Dubbing [[lini]](http://gvv.mpi-inf.mpg.de/projects/StyleDub/)
 * `ICCV2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models [[link]](https://arxiv.org/pdf/1905.08233v2.pdf) [[code]](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models)
 * `SIGGRAPH2018` Deep video portraits [[link]](https://gvv.mpi-inf.mpg.de/projects/DeepVideoPortraits/)
 * `SIGGRAPHASIA2017` Bringing Portraits to Life [[link]](http://cs.tau.ac.il/~averbuch1/portraitslife/index.htm)

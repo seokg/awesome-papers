@@ -11,6 +11,7 @@
 * `EG2019` Deep Video-Based Performance Cloning [[link]](https://arxiv.org/abs/1808.06847)
 
 ## Head Performance
+* Audio-driven Talking Face Video Generation with Natural Head Pose [[link]](https://arxiv.org/pdf/2002.10137v1.pdf)
 * `arxiv2020` Everybody’s Talkin’: Let Me Talk as You Want [[link]](https://wywu.github.io/projects/EBT/EBT.html)
 * `AAAI2020` MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets [[link]](https://hyperconnect.github.io/MarioNETte/)
 * `ICCV2019` Few-Shot Adversarial Learning of Realistic Neural Talking Head Models [[link]](https://arxiv.org/abs/1905.08233v1)[[code]](https://github.com/grey-eye/talking-heads)[[code]](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models)

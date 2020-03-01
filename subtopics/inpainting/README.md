@@ -61,4 +61,5 @@ Papers of image and video inpainting
 
 
 # Related Topics
+* Deep Slow Motion Video Reconstruction with Hybrid Imaging System [[link]](https://arxiv.org/pdf/2002.12106v1.pdf)
  - [Internal_Learning](./subtopics/internal_learning/)

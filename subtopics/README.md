@@ -1,4 +1,6 @@
 # ETC
+* Learning Physics-guided Face Relighting under Directional Light 
+* Learning to Shade Hand-drawn Sketches [[link]](https://arxiv.org/pdf/2002.11812.pdf)
 * FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping [[link]](https://arxiv.org/pdf/1912.13457v1.pdf)
 * Painting Many Pasts: Synthesizing Time Lapse Videos of Paintings [[link]](https://arxiv.org/pdf/2001.01026v1.pdf)
 * Stylizing Animation By Example[[link]](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf)

@@ -1,5 +1,6 @@
 # Neural Rendering
 * `EG-STAR2020`
+* `arxiv2020` BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images [[link]](https://www.monkeyoverflow.com/#/blockgan/)
 * `arxiv2020` Neural Human Video Rendering:Joint Learning of Dynamic Textures and Rendering-to-Video Translation [[link]](https://arxiv.org/pdf/2001.04947v1.pdf)
 * `arxiv` SynSin: End-to-end View Synthesis from a Single Image [[link]](https://arxiv.org/pdf/1912.08804.pdf)
 * `arxiv2019` Neural Voxel Renderer [[code]](http://www.krematas.com/nvr/index.html)

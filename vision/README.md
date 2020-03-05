@@ -1,7 +1,8 @@
 # Vision Papers
 Papers from vision conferences such as CVPR, ECCV, and ICCV
 
-## CVPR 
+## CVPR
+* `CVPR2020` Learning to Shadow Hand-drawn Sketches [[link]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
 * `CVPR2019` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)
 * `CVPR2019` Total Scene Capture: Neural Rerendering in the Wild [[link]](https://moustafameshry.github.io/neural_rerendering_in_the_wild/) [[code]](https://github.com/google/neural_rerendering_in_the_wild)
 * `CVPR2019` Fast Spatially-Varying Indoor Lighting Estimation [[link]](https://lvsn.github.io/fastindoorlight/)

@@ -2,6 +2,7 @@
 Papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
+* `CVPR2020` Deep Image Spatial Transformation for Person Image Generation
 * `CVPR2020` Learning to Shadow Hand-drawn Sketches [[link]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
 * `CVPR2019` WarpGAN: Automatic Caricature Generation [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_WarpGAN_Automatic_Caricature_Generation_CVPR_2019_paper.pdf)[[code]](https://github.com/seasonSH/WarpGAN)
 * `CVPR2019` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)

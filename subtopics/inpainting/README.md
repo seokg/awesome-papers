@@ -24,6 +24,7 @@ Papers of image and video inpainting
 * `SIGGRAPH2009` PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing [[link]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
 
 ## Video
+* `I3D2019` RGBD Temporal Resampling for Real-Time Occlusion Removal [[link]](https://www.cs.purdue.edu/homes/wu223/rgbd.html)
 * `AAAI2020` AutoRemover: Automatic Object Removal for Autonomous Driving Videos [[link]](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
 * `TVCG2019` Inpainting of Wide-baseline Multiple Viewpoint Video [[link]](http://personal.ee.surrey.ac.uk/Personal/J.Collomosse/pubs/Gilbert-TVCG-2019.pdf)
 * `arxiv2019` Frame-Recurrent Video Inpainting by Robust Optical Flow Inference

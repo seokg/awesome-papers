@@ -68,6 +68,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 * `SIGASIA2019` Multi-Style Generative Adversarial Terrain Amplification [[code]](https://github.com/electronicarts/siggraph-asia-2019-gata)
 * `SIGASIA2019` The Relightables: Volumetric Performance Capture of Humans with Realistic Relighting [[link]](https://augmentedperception.github.io/therelightables/)
 * `SIGASIA2019` An Integrated 6DoF Video Camera and System Design [[link]](https://research.fb.com/publications/an-integrated-6dof-video-camera-and-system-design/)
+* `SIGASIA2013` WYSIWYG Computational Photography via Viewfinder Editing [[link]](http://graphics.stanford.edu/papers/wysiwyg)
 <!-- * `SIGASIA2019` OpenSketch: A Richly-Annotated Dataset of Product Design Sketches [[link]](https://ns.inria.fr/d3/OpenSketch/)[[code]](https://gitlab.inria.fr/openskecth) -->
 <!-- * `SIGASIA2019` Mitsuba 2: A Retargetable Forward and Inverse Renderer [[link]](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) -->
 

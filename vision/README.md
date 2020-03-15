@@ -2,6 +2,7 @@
 Papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
+* `CVPR2020` Softmax Splatting for Video Frame Interpolation [[code]](https://github.com/sniklaus/softmax-splatting)
 * `CVPR2020` Learning Physics-guided Face Relighting under Directional Light [[link]]()
 * `CVPR2020` Reinforced Feature Points:Optimizing Feature Detection and Description for a High-Level Task [[link]](https://arxiv.org/pdf/1912.00623.pdf)
 * `CVPR2020` Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths

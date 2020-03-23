@@ -2,12 +2,19 @@
 Papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
+* `CVPR2020` CNN-generated images are surprisingly easy to spot...for now  [[code]](https://github.com/PeterWang512/CNNDetection)
+* `CVPR2020` Adversarial Texture Optimization from RGB-D Scans [[code]](https://github.com/hjwdzh/AdversarialTexture)
+* `CVPR2020` Code for Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images [[code]](https://github.com/Hangz-nju-cuhk/Rotate-and-Render)
+* `CVPR2020` GAN Compression: Efficient Architectures for Interactive Conditional GANs [[link]](https://github.com/mit-han-lab/gan-compression)
+* `CVPR2020` NeRF: Neural Radiance Fields [[code]](https://github.com/bmild/nerf)
+* `CVPR2020` SwapText: Image Based Texts Transfer in Scenes [[link]](https://arxiv.org/pdf/2003.08152.pdf)
 * `CVPR2020` Softmax Splatting for Video Frame Interpolation [[code]](https://github.com/sniklaus/softmax-splatting)
 * `CVPR2020` Learning Physics-guided Face Relighting under Directional Light [[link]]()
 * `CVPR2020` Reinforced Feature Points:Optimizing Feature Detection and Description for a High-Level Task [[link]](https://arxiv.org/pdf/1912.00623.pdf)
 * `CVPR2020` Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths
 * `CVPR2020` Deep Image Spatial Transformation for Person Image Generation
 * `CVPR2020` Learning to Shadow Hand-drawn Sketches [[link]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
+* `CVPR2019` Spatial Fusion GAN for Image Synthesis [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf)
 * `CVPR2019` Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking [[link]](https://www-users.cs.umn.edu/~jsyoon/3dface/)
 * `CVPR2019` WarpGAN: Automatic Caricature Generation [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_WarpGAN_Automatic_Caricature_Generation_CVPR_2019_paper.pdf)[[code]](https://github.com/seasonSH/WarpGAN)
 * `CVPR2019` Deep Image Prior[[link]](https://dmitryulyanov.github.io/deep_image_prior)[[code]](https://github.com/DmitryUlyanov/deep-image-prior)

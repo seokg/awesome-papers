@@ -2,6 +2,8 @@
 Papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
+* `CVPR2020` 
+High-Resolution Daytime Translation Without Domain Labels [[code]](https://github.com/saic-mdal/HiDT)
 * `CVPR2020` CNN-generated images are surprisingly easy to spot...for now  [[code]](https://github.com/PeterWang512/CNNDetection)
 * `CVPR2020` Adversarial Texture Optimization from RGB-D Scans [[code]](https://github.com/hjwdzh/AdversarialTexture)
 * `CVPR2020` Code for Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images [[code]](https://github.com/Hangz-nju-cuhk/Rotate-and-Render)

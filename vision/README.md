@@ -162,6 +162,7 @@ High-Resolution Daytime Translation Without Domain Labels [[code]](https://githu
 
 
 ## ECCV
+* `arxiv2020` Learning the Loss Functions in a Discriminative Space for Video Restoration
 * `ECCV2018` GANimorph: Improving Shape Deformation in Unsupervised Image to Image Translation [[link]](http://arxiv.org/abs/1808.04325)[[code]](https://github.com/brownvc/ganimorph/)
 * `ECCV2018` CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering [[link]](http://www.cs.cornell.edu/projects/cgintrinsics/)[[code]](https://github.com/zhengqili/CGIntrinsics)
 

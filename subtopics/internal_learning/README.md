@@ -1,5 +1,6 @@
 # Deep Internal Learning Papers
 Papers of Deep Internal Learning
+* `arxiv2020` Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation [[code]](https://github.com/XingangPan/deep-generative-prior)
 * `arxiv2020` Improved Techniques for Training Single-Image GANs [[linik]](https://www.tobiashinz.com/2020/03/24/improved-techniques-for-training-single-image-gans.html)[[code]](https://github.com/tohinz/ConSinGAN)
 * `arxiv2020` Neural Architecture Search for Deep Image Prior [[link]](https://arxiv.org/pdf/2001.04776v1.pdf)
 * `ICCV2019` SinGAN: Learning a Generative Model from a Single Natural Image [[code]](https://github.com/tamarott/SinGAN)

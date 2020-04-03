@@ -2,7 +2,11 @@
 Papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
-* `CVPR2020` 
+* `CVPR2020` Image Processing Using Multi-Code GAN Prior [[code]](https://github.com/genforce/mganprior) 
+* `CVPR2020`Background Matting: The World is Your Green Screen [[code]](https://github.com/senguptaumd/Background-Matting)
+* `CVPR2020` PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization [[code]](https://github.com/shunsukesaito/PIFuHD)
+* `CVPR2020` Lightweight Photometric Stereo for Facial Details Recovery [[code]](https://github.com/Juyong/FacePSNet)
+* `CVPR2020` DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction [[code]](https://github.com/laughtervv/DISN)
 High-Resolution Daytime Translation Without Domain Labels [[code]](https://github.com/saic-mdal/HiDT)
 * `CVPR2020` CNN-generated images are surprisingly easy to spot...for now  [[code]](https://github.com/PeterWang512/CNNDetection)
 * `CVPR2020` Adversarial Texture Optimization from RGB-D Scans [[code]](https://github.com/hjwdzh/AdversarialTexture)

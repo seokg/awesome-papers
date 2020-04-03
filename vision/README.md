@@ -2,6 +2,7 @@
 Papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
+* `CVPR2020` Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline [[code]](https://github.com/alex04072000/SingleHDR)
 * `CVPR2020` Image Processing Using Multi-Code GAN Prior [[code]](https://github.com/genforce/mganprior) 
 * `CVPR2020`Background Matting: The World is Your Green Screen [[code]](https://github.com/senguptaumd/Background-Matting)
 * `CVPR2020` PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization [[code]](https://github.com/shunsukesaito/PIFuHD)

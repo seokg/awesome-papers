@@ -1,4 +1,4 @@
-# PAPERS
+# Awesome papers
 
 A list of papers on graphics, computer vision, and HCI
 

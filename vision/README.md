@@ -1,7 +1,10 @@
 # Vision Papers
-Papers from vision conferences such as CVPR, ECCV, and ICCV
+A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
+* `CVPR2020` Neural Voxel Renderer [[link]](http://www.krematas.com/nvr/index.html)
+* `CVPR2020` Differentiable Volumetric Rendering [[code]](https://github.com/autonomousvision/differentiable_volumetric_rendering)
+* `CVPR2020` Neural Point-based Grpahics [[link]](https://saic-violet.github.io/npbg/)[[code]](https://github.com/alievk/npbg)
 * `CVPR2020` Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline [[code]](https://github.com/alex04072000/SingleHDR)
 * `CVPR2020` Image Processing Using Multi-Code GAN Prior [[code]](https://github.com/genforce/mganprior) 
 * `CVPR2020`Background Matting: The World is Your Green Screen [[code]](https://github.com/senguptaumd/Background-Matting)
@@ -36,7 +39,8 @@ High-Resolution Daytime Translation Without Domain Labels [[code]](https://githu
 * `CVPR2019` IM-Net for High Resolution Video Frame Interpolation [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Peleg_IM-Net_for_High_Resolution_Video_Frame_Interpolation_CVPR_2019_paper.pdf) [[code]]()
 * `CVPR2019` "Double-DIP": Unsupervised Image Decomposition via Coupled Deep-Image-Priors [[link]](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/) [[code]](https://github.com/yossigandelsman/DoubleDIP)
 * `CVPR2018` Single Image Reflection Removal with Perceptual Losses [[link]](https://people.eecs.berkeley.edu/~cecilia77/project-pages/reflection.html) [[code]](https://github.com/ceciliavision/perceptual-reflection-removal)
-* `CVPR2019` [[link]]() [[code]]()
+* `CVPR2018` Deep Marhcing Cubes [[code]](https://github.com/yiyiliao/deep_marching_cubes)
+* `CVPR2018` Neural 3D Mesh Renderer [[link]](http://hiroharu-kato.com/projects_en/neural_renderer.html)[[code]](https://github.com/hiroharu-kato/neural_renderer)
 * `CVPR2016` Spatiotemporal Bundle Adjustment
 * `CVPR2015` Finding Distractors In Images [[link]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Fried_Finding_Distractors_In_2015_CVPR_paper.pdf)
 

@@ -21,9 +21,9 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `CVPR2020` NeRF: Neural Radiance Fields [[code]](https://github.com/bmild/nerf)
 * `CVPR2020` SwapText: Image Based Texts Transfer in Scenes [[link]](https://arxiv.org/pdf/2003.08152.pdf)
 * `CVPR2020` Softmax Splatting for Video Frame Interpolation [[code]](https://github.com/sniklaus/softmax-splatting)
-* `CVPR2020` Learning Physics-guided Face Relighting under Directional Light [[link]]()
+* `CVPR2020` Learning Physics-guided Face Relighting under Directional Light [[link]](http://ps.is.tue.mpg.de/research_projects/face-relighting)
 * `CVPR2020` Reinforced Feature Points:Optimizing Feature Detection and Description for a High-Level Task [[link]](https://arxiv.org/pdf/1912.00623.pdf)
-* `CVPR2020` Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths
+* `CVPR2020` Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths [[link]](https://www-users.cs.umn.edu/~jsyoon/dynamic_synth/)
 * `CVPR2020` Deep Image Spatial Transformation for Person Image Generation
 * `CVPR2020` Learning to Shadow Hand-drawn Sketches [[link]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[code]](https://github.com/google-research/google-research/tree/master/mpi_extrapolation)

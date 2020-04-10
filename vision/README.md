@@ -26,6 +26,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `CVPR2020` Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths
 * `CVPR2020` Deep Image Spatial Transformation for Person Image Generation
 * `CVPR2020` Learning to Shadow Hand-drawn Sketches [[link]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
+* `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[code]](https://github.com/google-research/google-research/tree/master/mpi_extrapolation)
 * `CVPR2019` Spatial Fusion GAN for Image Synthesis [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf)
 * `CVPR2019` Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking [[link]](https://www-users.cs.umn.edu/~jsyoon/3dface/)
 * `CVPR2019` WarpGAN: Automatic Caricature Generation [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_WarpGAN_Automatic_Caricature_Generation_CVPR_2019_paper.pdf)[[code]](https://github.com/seasonSH/WarpGAN)

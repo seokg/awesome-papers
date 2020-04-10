@@ -2,7 +2,8 @@
 A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
-* `CVPR2020`  Self-Supervised Scene De-occlusion [[code]](https://github.com/XiaohangZhan/deocclusion/)
+* `CVPR2020` 3D Photography using Context-aware Layered Depth Inpainting [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting)
+* `CVPR2020` Self-Supervised Scene De-occlusion [[code]](https://github.com/XiaohangZhan/deocclusion/)
 * `CVPR2020` Neural Voxel Renderer [[link]](http://www.krematas.com/nvr/index.html)
 * `CVPR2020` Differentiable Volumetric Rendering [[code]](https://github.com/autonomousvision/differentiable_volumetric_rendering)
 * `CVPR2020` Neural Point-based Grpahics [[link]](https://saic-violet.github.io/npbg/)[[code]](https://github.com/alievk/npbg)

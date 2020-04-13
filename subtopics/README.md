@@ -13,11 +13,6 @@
 * DynamoNet: Dynamic Action and Motion Network
 
 
-## object selection
-* `ECCV2018` Interactive Boundary Prediction for Object Selection [[link]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hoang_Le_Interactive_Boundary_Prediction_ECCV_2018_paper.pdf)
-* `BMVC2017` Deep GrabCut for Object Selection [[link]](https://arxiv.org/pdf/1707.00243.pdf)[[code]](https://github.com/jfzhang95/DeepGrabCut-PyTorch)
-* `CVPR2016` Deep Interactive Object Selection [[link]](https://sites.google.com/view/deepselection)
-
 ## image manipulation and editing
 * `arxiv2020` Generating Object Stamps [[link]](https://arxiv.org/pdf/2001.02595v2.pdf)
 * `arxiv2019` Interactive Subspace Exploration on Generative Image Modelling [[link]](https://arxiv.org/pdf/1906.09840v2.pdf)

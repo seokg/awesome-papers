@@ -2,6 +2,7 @@
 Papers from HCI conferences such as CHI and UIST
 
 ## CHI
+* `CHI2020` Enhancing Mobile Voice Assistants with WorldGaze [[link]](http://sven-mayer.com/publications/)
 * `CHI2019` SmartEye: Assisting Instant Photo Taking via Integrating User Preference with Deep View Proposal Network [[link]](https://www3.cs.stonybrook.edu/~cvl/content/papers/2019/Ma_CHFCS19.pdf)
 * `CHI2019` POSE-GUIDED LEVEL DESIGN [[link]](http://blogs.umb.edu/yongqizhang001/pose-guided-level-design/)
 * `CHI2016` Airways: Optimization-Based Planning of Quadrotor Trajectories according to High-Level User Goals [[link]](https://ait.ethz.ch/projects/2016/airways/downloads/paper1570.pdf)[[video]](https://www.youtube.com/watch?v=6krfPE0ADdw)

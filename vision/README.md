@@ -2,6 +2,10 @@
 A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
+* `CVPR2020` Self-Supervised Viewpoint Learning from Image Collections [[code]](https://github.com/NVlabs/SSV)
+* `CVPR2020` Deep Iterative Collaboration for Face Super-Resolution [[code]](https://github.com/Maclory/Deep-Iterative-Collaboration)
+* `CVPR2020` AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation [[code]](https://github.com/HyeongminLEE/AdaCoF-pytorch)
+* `CVPR2020` DeepLPF: Deep Local Parametric Filters for Image Enhancement [[code]](https://github.com/sjmoran/deep_local_parametric_filters)
 * `CVPR2020` 3D Photography using Context-aware Layered Depth Inpainting [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting)
 * `CVPR2020` Self-Supervised Scene De-occlusion [[code]](https://github.com/XiaohangZhan/deocclusion/)
 * `CVPR2020` Neural Voxel Renderer [[link]](http://www.krematas.com/nvr/index.html)

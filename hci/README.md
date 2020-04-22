@@ -2,6 +2,7 @@
 Papers from HCI conferences such as CHI and UIST
 
 ## CHI
+* `CHI2020` ScreenTrack: Using a Visual History of a Computer Screen to Retrieve Documents and Web Pages [[link]](https://arxiv.org/abs/2001.10898)
 * `CHI2020` Enhancing Mobile Voice Assistants with WorldGaze [[link]](http://sven-mayer.com/publications/)
 * `CHI2019` SmartEye: Assisting Instant Photo Taking via Integrating User Preference with Deep View Proposal Network [[link]](https://www3.cs.stonybrook.edu/~cvl/content/papers/2019/Ma_CHFCS19.pdf)
 * `CHI2019` POSE-GUIDED LEVEL DESIGN [[link]](http://blogs.umb.edu/yongqizhang001/pose-guided-level-design/)

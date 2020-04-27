@@ -3,7 +3,8 @@
 * `NeurIPS2019` Dancing to Music [[code]](https://github.com/NVlabs/Dancing2Music)
 
 ## Body Performance
-* `arxiv202` TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting [[link]](https://arxiv.org/pdf/2003.14401.pdf)[[code]]()
+* `arxiv2020` Human Motion Transfer from Poses in the Wild [[link]](https://arxiv.org/pdf/2004.03142v1.pdf)
+* `arxiv2020` TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting [[link]](https://arxiv.org/pdf/2003.14401.pdf)[[code]]()
 * `WACV2020` Do As I Do: Transferring Human Motion and Appearance between Monocular Videos with Spatial and Temporal Constraints [[link]]( https://arxiv.org/pdf/2001.02606v1.pdf)
 * `arxiv2019`Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer[[link]](https://arxiv.org/pdf/1911.10672.pdf)
 * `ICCV2019` Everybody Dance Now [[link]](https://carolineec.github.io/everybody_dance_now/)[[code]](https://carolineec.github.io/everybody_dance_now/#code)

@@ -5,6 +5,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 
 
 ## SIGGRAPH 
+* `SIGGRAPH2020` RigNet: Neural Rigging for Articulated Characters [[link]](https://people.cs.umass.edu/~zhanxu/projects/RigNet/)
 * `SIGGRAPH2019` VR Facial Animation via Multiview Image Translation [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 * `SIGGRAPH2019` Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies [[link]](https://www.cs.princeton.edu/~fheide/proxyopt)
 * `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prior [[link]](http://ganpaint.io/)

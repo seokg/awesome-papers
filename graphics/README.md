@@ -2,9 +2,9 @@
 Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Graphics
 
 
-
-
-## SIGGRAPH 
+## SIGGRAPH
+* `SIGGRAPH2020` XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera [[link]](http://gvv.mpi-inf.mpg.de/projects/XNect/)
+* `SIGGRAPH2020` Consistent Video Depth Estimation [[link]](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 * `SIGGRAPH2020` RigNet: Neural Rigging for Articulated Characters [[link]](https://people.cs.umass.edu/~zhanxu/projects/RigNet/)
 * `SIGGRAPH2019` VR Facial Animation via Multiview Image Translation [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 * `SIGGRAPH2019` Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies [[link]](https://www.cs.princeton.edu/~fheide/proxyopt)

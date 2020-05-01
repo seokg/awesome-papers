@@ -178,6 +178,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ECCV
+* `arxiv2020` Structural-analogy from a Single Image Pair [[code]](https://github.com/rmokady/structural-analogy)
 * `arxiv2020` RANSAC-Flow: generic two-stageimage alignment [[code]](https://github.com/XiSHEN0220/RANSAC-Flow)
 * `arxiv2020` Learning the Loss Functions in a Discriminative Space for Video Restoration
 * `ECCV2018` GANimorph: Improving Shape Deformation in Unsupervised Image to Image Translation [[link]](http://arxiv.org/abs/1808.04325)[[code]](https://github.com/brownvc/ganimorph/)

@@ -3,6 +3,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 
 
 ## SIGGRAPH
+* `SIGGRAPH2020` Manipulating Attributes of Natural Scenes via Hallucination [[link]](https://hucvl.github.io/attribute_hallucination/)[[code]](https://github.com/hucvl/attribute_hallucination)
 * `SIGGRAPH2020` XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera [[link]](http://gvv.mpi-inf.mpg.de/projects/XNect/)
 * `SIGGRAPH2020` Consistent Video Depth Estimation [[link]](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 * `SIGGRAPH2020` RigNet: Neural Rigging for Articulated Characters [[link]](https://people.cs.umass.edu/~zhanxu/projects/RigNet/)

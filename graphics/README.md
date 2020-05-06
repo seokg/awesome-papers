@@ -3,6 +3,8 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 
 
 ## SIGGRAPH
+* `SIGGRAPH2020` Skeleton-Aware Networks for Deep Motion Retargeting [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
+* `SIGGRAPH2020` Unpaired Motion Style Transfer from Video to Animation [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
 * `SIGGRAPH2020` CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion [[link]](https://inventec-ai-center.github.io/projects/CARL/index.html)
 * `SIGGRAPH2020` Human-in-the-Loop Differential Subspace Search in High-Dimensional Latent Space [[link]](http://www.cg.it.aoyama.ac.jp/yonghao/sig20/abstsig20.html)
 * `SIGGRAPH2020` MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing [[link]](https://mlchai.com/files/tan2020michigan.pdf)

@@ -2,6 +2,7 @@
 * `NeurIPS2019` Few-shot Video-to-Video Synthesis [[link]](https://nvlabs.github.io/few-shot-vid2vid/)[[code]](https://github.com/NVlabs/few-shot-vid2vid)
 
 ## Body Performance
+* `arxiv2020`  Human Motion Transfer with 3D Constraints and Detail Enhancement [[link]](https://arxiv.org/abs/2003.13510)
 * `arxiv2020` Human Motion Transfer from Poses in the Wild [[link]](https://arxiv.org/pdf/2004.03142v1.pdf)
 * `arxiv2020` TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting [[link]](https://arxiv.org/pdf/2003.14401.pdf)[[code]]()
 * `WACV2020` Do As I Do: Transferring Human Motion and Appearance between Monocular Videos with Spatial and Temporal Constraints [[link]]( https://arxiv.org/pdf/2001.02606v1.pdf)

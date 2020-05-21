@@ -2,6 +2,7 @@
 A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
+* `CVPR2020` Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [[link]](https://128.84.21.199/abs/2005.09704)[[code]](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
 * `CVPR2020` StyleRig: Rigging StyleGAN for 3D Control over Portrait Images [[link]](https://gvv.mpi-inf.mpg.de/projects/StyleRig/)
 * `CVPR2020` Self-Supervised Viewpoint Learning from Image Collections [[code]](https://github.com/NVlabs/SSV)
 * `CVPR2020` Deep Iterative Collaboration for Face Super-Resolution [[code]](https://github.com/Maclory/Deep-Iterative-Collaboration)

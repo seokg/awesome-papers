@@ -2,6 +2,7 @@
 Papers of image and video inpainting
 
 ## Image
+* `CVPR2020` Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [[link]](https://128.84.21.199/abs/2005.09704)[[code]](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
 * `arxiv2020` Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches [[link]](https://arxiv.org/pdf/2001.02890.pdf)
 * `ICCV2019` Coherent Semantic Attention for Image Inpainting [[link]]()
 * `ICCV2019` Free-Form Image Inpainting With Gated Convolution [[code]](https://github.com/JiahuiYu/generative_inpainting)

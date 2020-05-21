@@ -2,6 +2,7 @@
 A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 ## CVPR
+* `CVPR2020` StyleRig: Rigging StyleGAN for 3D Control over Portrait Images [[link]](https://gvv.mpi-inf.mpg.de/projects/StyleRig/)
 * `CVPR2020` Self-Supervised Viewpoint Learning from Image Collections [[code]](https://github.com/NVlabs/SSV)
 * `CVPR2020` Deep Iterative Collaboration for Face Super-Resolution [[code]](https://github.com/Maclory/Deep-Iterative-Collaboration)
 * `CVPR2020` AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation [[code]](https://github.com/HyeongminLEE/AdaCoF-pytorch)
@@ -30,6 +31,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `CVPR2020` Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths [[link]](https://www-users.cs.umn.edu/~jsyoon/dynamic_synth/)
 * `CVPR2020` Deep Image Spatial Transformation for Person Image Generation
 * `CVPR2020` Learning to Shadow Hand-drawn Sketches [[link]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
+* `CVPR2019` Texture Mixer: A Network for Controllable Synthesis and Interpolation of Texture [[code]](https://github.com/ningyu1991/TextureMixer)
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[code]](https://github.com/google-research/google-research/tree/master/mpi_extrapolation)
 * `CVPR2019` Spatial Fusion GAN for Image Synthesis [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf)
 * `CVPR2019` Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking [[link]](https://www-users.cs.umn.edu/~jsyoon/3dface/)
@@ -178,6 +180,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ECCV
+* `arxiv2020` Structural-analogy from a Single Image Pair [[code]](https://github.com/rmokady/structural-analogy)
 * `arxiv2020` RANSAC-Flow: generic two-stageimage alignment [[code]](https://github.com/XiSHEN0220/RANSAC-Flow)
 * `arxiv2020` Learning the Loss Functions in a Discriminative Space for Video Restoration
 * `ECCV2018` GANimorph: Improving Shape Deformation in Unsupervised Image to Image Translation [[link]](http://arxiv.org/abs/1808.04325)[[code]](https://github.com/brownvc/ganimorph/)

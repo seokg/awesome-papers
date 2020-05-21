@@ -2,9 +2,16 @@
 Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Graphics
 
 
-
-
-## SIGGRAPH 
+## SIGGRAPH
+* `SIGGRAPH2020` Skeleton-Aware Networks for Deep Motion Retargeting [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
+* `SIGGRAPH2020` Unpaired Motion Style Transfer from Video to Animation [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
+* `SIGGRAPH2020` CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion [[link]](https://inventec-ai-center.github.io/projects/CARL/index.html)
+* `SIGGRAPH2020` Human-in-the-Loop Differential Subspace Search in High-Dimensional Latent Space [[link]](http://www.cg.it.aoyama.ac.jp/yonghao/sig20/abstsig20.html)
+* `SIGGRAPH2020` MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing [[link]](https://mlchai.com/files/tan2020michigan.pdf)
+* `SIGGRAPH2020` Interactive Video Stylization Using Few-Shot Patch-Based Training [[link]](https://ondrejtexler.github.io/patch-based_training/)
+* `SIGGRAPH2020` Manipulating Attributes of Natural Scenes via Hallucination [[link]](https://hucvl.github.io/attribute_hallucination/)[[code]](https://github.com/hucvl/attribute_hallucination)
+* `SIGGRAPH2020` XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera [[link]](http://gvv.mpi-inf.mpg.de/projects/XNect/)
+* `SIGGRAPH2020` Consistent Video Depth Estimation [[link]](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 * `SIGGRAPH2020` RigNet: Neural Rigging for Articulated Characters [[link]](https://people.cs.umass.edu/~zhanxu/projects/RigNet/)
 * `SIGGRAPH2019` VR Facial Animation via Multiview Image Translation [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 * `SIGGRAPH2019` Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies [[link]](https://www.cs.princeton.edu/~fheide/proxyopt)

@@ -21,7 +21,7 @@ LOSS-CONDITIONAL TRAINING OF DEEP NETWORKS
 * `arxiv2019` Interactive Subspace Exploration on Generative Image Modelling [[link]](https://arxiv.org/pdf/1906.09840v2.pdf)
 * `arxiv2019` Image2StyleGAN++: How to Edit the Embedded Images? [[link]](https://arxiv.org/pdf/1911.11544.pdf)
 * `arxiv2019` Neural Puppet: Generative Layered Cartoon Characters [[link]](https://arxiv.org/pdf/1910.02060.pdf)
-* SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters [[link]](https://arxiv.org/abs/1805.09313)
+* `arxiv2019` SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters [[link]](https://arxiv.org/abs/1805.09313)
 * FSGAN: Subject Agnostic Face Swapping and Reenactment [[link]](https://nirkin.com/fsgan/)
 * LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup
 * Fast Deep Matting for Portrait Animation on Mobile Phone [[link]](https://arxiv.org/pdf/1707.08289.pdf)[[code]](https://github.com/ofirlevy/FastMattingPortrait)

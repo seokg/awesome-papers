@@ -197,6 +197,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ETC
+* `arxiv2020` SIREN: Implicit Neural Representations with Periodic Activation Functions [[code]](https://github.com/vsitzmann/siren)
 * `arxiv2020` NeRF: Neural Radiance Fields [[code]](https://github.com/bmild/nerf)
 * `arxiv2020` High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images
 * `arxiv2020` Structural-analogy from a Single Image Pair [[code]](https://github.com/rmokady/structural-analogy)

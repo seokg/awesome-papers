@@ -10,7 +10,6 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `CVPR2020` Intuitive, Interactive Beard and Hair Synthesis with Generative Models [[link]](https://junxnui.github.io/)
 * `CVPR2020` Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images [[link]](http://cseweb.ucsd.edu/~ravir/saibi_cvpr20.pdf)
 * `CVPR2020` DeepStrip: High Resolution Boundary Refinement [[link]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Deepstrip_High-Resolution_Boundary_Refinement_CVPR_2020_paper.pdf)
-* `CVPRW2020` Sky Optimization: Semantically aware image processing of skies in low-light photography [[code]](https://github.com/google/sky-optimization)
 * `CVPR2020` Prior Guided GAN Based Semantic Inpainting [[link]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.pdf)
 * `CVPR2020` Diverse Image Generation via Self-Conditioned GANs [[link]](http://selfcondgan.csail.mit.edu/)
 * `CVPR2020` Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [[link]](https://128.84.21.199/abs/2005.09704)[[code]](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
@@ -199,6 +198,8 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ETC
+* `CVPRW2020` The “Vertigo Effect” on Your Smartphone:Dolly Zoom via Single Shot View Synthesis [[link]](http://openaccess.thecvf.com/content_CVPRW_2020/supplemental/Liang_The_Vertigo_Effect_CVPRW_2020_supplemental.pdf)
+* `CVPRW2020` Sky Optimization: Semantically aware image processing of skies in low-light photography [[code]](https://github.com/google/sky-optimization)
 * `ICRA2020` DREAM: Camera Calibration without Fiducial Markers through Sim2Real Keypoint Detection [[code]](https://sim2realai.github.io/dream-camera-calibration-sim2real/)
 * `arxiv2020` SIREN: Implicit Neural Representations with Periodic Activation Functions [[code]](https://github.com/vsitzmann/siren)
 * `arxiv2020` NeRF: Neural Radiance Fields [[code]](https://github.com/bmild/nerf)

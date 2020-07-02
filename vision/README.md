@@ -4,6 +4,8 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 ## CVPR
 <!-- * `CVPR2020` [[link]]
 * `CVPR2020` [[link]] -->
+* `CVPR2020` “Learning to Cartoonize Using White-box Cartoon Representations [[code]](https://github.com/SystemErrorWang/White-box-Cartoonization)
+* `CVPR2020` Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion [[code]](https://github.com/NVlabs/DeepInversion)[[link]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf)
 * `CVPR2020` Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination [[code]](https://github.com/pratulsrinivasan/lighthouse)
 * `CVPR2020` StegaStamp: Invisible Hyperlinks in Physical Photographs [[code]](https://github.com/tancik/StegaStamp)
 * `CVPR2020` Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image [[link]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Inverse_Rendering_for_Complex_Indoor_Scenes_Shape_Spatially-Varying_Lighting_and_CVPR_2020_paper.pdf)
@@ -94,9 +96,9 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `ICCV2019` Everybody Dance Now [[link]](https://carolineec.github.io/everybody_dance_now/)
 * `ICCV2019` Extreme View Synthesis [[code]](https://github.com/NVlabs/extreme-view-synth)
 * `ICCV2019` Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture From Images “In the Wild” [[code]](https://github.com/silviazuffi/smalst)
+* `ICCV2019` Unsupervised Video Interpolation Using Cycle Consistency [[code]](https://nv-adlr.github.io/publication/2019-UnsupervisedVideoInterpolation)
 
-<!-- * `ICCV2019` Unsupervised Video Interpolation Using Cycle Consistency [[link]]()
-* `ICCV2019` Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation [[link]]()
+<!-- * `ICCV2019` Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation [[link]]()
 * `ICCV2019` Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation	[[link]]()
 * `ICCV2019` Image Aesthetic Assessment Based on Pairwise Comparison A Unified Approach to Score Regression, Binary Classification, and Personalization [[link]]()
 * `ICCV2019` Exploring Randomly Wired Neural Networks for Image Recognition[[link]]()

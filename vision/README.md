@@ -197,8 +197,12 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ECCV
+* `ECCV2020` COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder [[link]](https://nvlabs.github.io/COCO-FUNIT/)
+* `ECCV2020` JWorld-Consistent Video-to-Video Synthesis [[link]](https://nvlabs.github.io/wc-vid2vid/)
 * `ECCV2020` JNR: Joint-based Neural Rig Representation for Compact 3D Face Modeling
 * `ECCV2020` Personalized Face Modeling for Improved Face Reconstruction and Motion Retargeting
+* `ECCV2020` Neural Point-Based Graphics [[code]](https://saic-violet.github.io/npbg/)
+* `ECCV2020` NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[code]](https://github.com/bmild/nerf)
 * `ECCV2018` GANimorph: Improving Shape Deformation in Unsupervised Image to Image Translation [[link]](http://arxiv.org/abs/1808.04325)[[code]](https://github.com/brownvc/ganimorph/)
 * `ECCV2018` CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering [[link]](http://www.cs.cornell.edu/projects/cgintrinsics/)[[code]](https://github.com/zhengqili/CGIntrinsics)
 
@@ -208,7 +212,6 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `CVPRW2020` Sky Optimization: Semantically aware image processing of skies in low-light photography [[code]](https://github.com/google/sky-optimization)
 * `ICRA2020` DREAM: Camera Calibration without Fiducial Markers through Sim2Real Keypoint Detection [[code]](https://sim2realai.github.io/dream-camera-calibration-sim2real/)
 * `arxiv2020` SIREN: Implicit Neural Representations with Periodic Activation Functions [[code]](https://github.com/vsitzmann/siren)
-* `arxiv2020` NeRF: Neural Radiance Fields [[code]](https://github.com/bmild/nerf)
 * `arxiv2020` High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images
 * `arxiv2020` Structural-analogy from a Single Image Pair [[code]](https://github.com/rmokady/structural-analogy)
 * `arxiv2020` RANSAC-Flow: generic two-stageimage alignment [[code]](https://github.com/XiSHEN0220/RANSAC-Flow)

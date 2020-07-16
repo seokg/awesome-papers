@@ -1,5 +1,12 @@
 # Neural Rendering
-* `EG-STAR2020`
+* `MIT6.S191` Lecture 9: Neural Rendering [[video]](https://youtu.be/BCZ56MU-KhQ)
+* `ECCV2020` Neural Point-Based Graphics [[code]](https://saic-violet.github.io/npbg/)
+* `ECCV2020` NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[code]](https://github.com/bmild/nerf)
+* `ICML2020` DRWR: A Differentiable Renderer without Rendering for Unsupervised 3D Structure Learning from Silhouette Images [[link]](https://arxiv.org/abs/2007.06127)
+* `ICML2020` Equivariant Neural Rendering [[link]](https://arxiv.org/abs/2006.07630)
+* `EG-STAR2020` State of the Art on Neural Rendering [[link]](https://arxiv.org/pdf/2004.03805.pdf)[[video tutorial]](https://www.youtube.com/watch?v=LCTYRqW-ne8)
+* `arxiv2020` Unsupervised object-centric video generation and decomposition in 3D [[link]](https://www.pmh47.net/o3v/)
+* `arxiv2020` Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition [[link]](https://arxiv.org/pdf/2006.16011.pdf)
 * `arxiv2020` BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images [[link]](https://www.monkeyoverflow.com/#/blockgan/)
 * `arxiv2020` Neural Human Video Rendering:Joint Learning of Dynamic Textures and Rendering-to-Video Translation [[link]](https://arxiv.org/pdf/2001.04947v1.pdf)
 * `arxiv` SynSin: End-to-end View Synthesis from a Single Image [[link]](https://arxiv.org/pdf/1912.08804.pdf)
@@ -20,7 +27,7 @@
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[link]](http://cseweb.ucsd.edu/~ravir/MPI_pratul.pdf)
 * `CVPR2019` DeepVoxels: Learning Persistent 3D Feature Embeddings [[link]](https://www.niessnerlab.org/projects/sitzmann2019deepvoxels.html)
 * `CVPR2018` DeepMVS: Learning Multi-view Stereopsis [[link]](https://phuang17.github.io/DeepMVS/index.html)[[code]](https://github.com/phuang17/DeepMVS)
-* Context-aware Synthesis for Video Frame Interpolation [[link]](https://arxiv.org/pdf/1803.10967.pdf)
+* `CVPR2018` Context-aware Synthesis for Video Frame Interpolation [[link]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Niklaus_Context-Aware_Synthesis_for_CVPR_2018_paper.pdf)
 * `ECCV2018` Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [[link]](https://shaohua0116.github.io/Multiview2Novelview/)[[code]](https://github.com/shaohua0116/Multiview2Novelview)
 * `SIGGRAPHASIA2018` LookinGood: Enhancing performance capture with real-time neural re-rendering [[link]]
 * `SIGGRAPH2018` Deep Blending for Free-Viewpoint Image-Based Rendering [[link]](https://www-sop.inria.fr/reves/Basilic/2018/HPPFDB18/)

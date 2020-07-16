@@ -15,6 +15,8 @@
 * `EG2019` Deep Video-Based Performance Cloning [[link]](https://arxiv.org/abs/1808.06847)
 
 ## Head Performance
+* Head2Head: Video-based Neural Head Synthesis [[code]](https://github.com/michaildoukas/head2head)
+* Head2Head++: Deep Facial Attributes Re-Targeting [[code]](https://github.com/michaildoukas/head2head)
 * MakeItTalk: Speaker-Aware Talking Head Animation [[link]](https://people.umass.edu/~yangzhou/)
 * Audio-driven Talking Face Video Generation with Natural Head Pose [[link]](https://arxiv.org/pdf/2002.10137v1.pdf)
 * `arxiv2020` Everybody’s Talkin’: Let Me Talk as You Want [[link]](https://wywu.github.io/projects/EBT/EBT.html)

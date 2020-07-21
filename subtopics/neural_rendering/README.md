@@ -1,12 +1,14 @@
 # Neural Rendering
-*`arxiv2020` Multiview Neural Surface Reconstruction
+* `arxiv2020` Multiview Neural Surface Reconstruction
 with Implicit Lighting and Material [[link]](https://lioryariv.github.io/idr/)
+
 * `arxiv2020` BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images [[link]](https://www.monkeyoverflow.com/blockgan/)
 * `MIT6.S191` Lecture 9: Neural Rendering [[video]](https://youtu.be/BCZ56MU-KhQ) [[note]](https://chuanli11.github.io/2020/02/03/neural-rendering.html)
 * `ECCV2020` Neural Point-Based Graphics [[code]](https://saic-violet.github.io/npbg/)
 * `ECCV2020` NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[code]](https://github.com/bmild/nerf)
 * `ICML2020` DRWR: A Differentiable Renderer without Rendering for Unsupervised 3D Structure Learning from Silhouette Images [[link]](https://arxiv.org/abs/2007.06127)
 * `ICML2020` Equivariant Neural Rendering [[link]](https://arxiv.org/abs/2006.07630)
+* `ICML2020` Implicit Geometric Regularization for Learning Shapes [[link]]
 * `EG-STAR2020` State of the Art on Neural Rendering [[link]](https://arxiv.org/pdf/2004.03805.pdf)[[video tutorial]](https://www.youtube.com/watch?v=LCTYRqW-ne8)
 * `arxiv2020` Unsupervised object-centric video generation and decomposition in 3D [[link]](https://www.pmh47.net/o3v/)
 * `arxiv2020` Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition [[link]](https://arxiv.org/pdf/2006.16011.pdf)
@@ -17,6 +19,7 @@ with Implicit Lighting and Material [[link]](https://lioryariv.github.io/idr/)
 * `arxiv2019` Neural Point-Based Graphics [[link]](https://arxiv.org/pdf/1906.08240.pdf)
 * `arxiv2019` A Neural Rendering Framework for Free-Viewpoint Relighting [[link]](https://128.84.21.199/pdf/1911.11530.pdf)
 * `NeurIPS2019` Geometry-Aware Neural Rendering [[link]](https://arxiv.org/abs/1911.04554)
+* `NeurIPS2019` Scene Representation Networks [[code]](https://github.com/vsitzmann/scene-representation-networks)
 * `ICCV2019` HoloGAN: Unsupervised learning of 3D representations from natural images [[link]](https://arxiv.org/abs/1904.01326)[[code]](https://github.com/thunguyenphuoc/HoloGAN)
 * `ICCV2019` Monocular Neural Image Based Rendering with Continuous View Control [[link]](https://arxiv.org/pdf/1901.01880.pdf)
 * `SIGASIA2019` 3D Ken Burns Effect from a Single Image [[link]](https://github.com/sniklaus/3d-ken-burns)

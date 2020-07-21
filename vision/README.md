@@ -44,7 +44,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `CVPR2020` Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths [[link]](https://www-users.cs.umn.edu/~jsyoon/dynamic_synth/)
 * `CVPR2020` Deep Image Spatial Transformation for Person Image Generation
 * `CVPR2020` Learning to Shadow Hand-drawn Sketches [[link]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)
-* Joint Face Detection and Facial Motion Retargeting for Multiple Faces  [[link]](https://homes.cs.washington.edu/~bindita/multifaceretargeting.html)
+* `CVPR2019` Joint Face Detection and Facial Motion Retargeting for Multiple Faces  [[link]](https://homes.cs.washington.edu/~bindita/multifaceretargeting.html)
 * `CVPR2019` Texture Mixer: A Network for Controllable Synthesis and Interpolation of Texture [[code]](https://github.com/ningyu1991/TextureMixer)
 * `CVPR2019` Pushing the Boundaries of View Extrapolation with Multiplane Images [[code]](https://github.com/google-research/google-research/tree/master/mpi_extrapolation)
 * `CVPR2019` Spatial Fusion GAN for Image Synthesis [[link]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf)
@@ -197,6 +197,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ECCV
+* `ECCV2020` People as Scene Probes [[link]](https://grail.cs.washington.edu/projects/shadow/)
 * `ECCV2020` COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder [[link]](https://nvlabs.github.io/COCO-FUNIT/)
 * `ECCV2020` JWorld-Consistent Video-to-Video Synthesis [[link]](https://nvlabs.github.io/wc-vid2vid/)
 * `ECCV2020` JNR: Joint-based Neural Rig Representation for Compact 3D Face Modeling

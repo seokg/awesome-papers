@@ -1,4 +1,6 @@
 # Neural Rendering
+*`arxiv2020` Multiview Neural Surface Reconstruction
+with Implicit Lighting and Material [[link]](https://lioryariv.github.io/idr/)
 * `arxiv2020` BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images [[link]](https://www.monkeyoverflow.com/blockgan/)
 * `MIT6.S191` Lecture 9: Neural Rendering [[video]](https://youtu.be/BCZ56MU-KhQ) [[note]](https://chuanli11.github.io/2020/02/03/neural-rendering.html)
 * `ECCV2020` Neural Point-Based Graphics [[code]](https://saic-violet.github.io/npbg/)
@@ -10,7 +12,7 @@
 * `arxiv2020` Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition [[link]](https://arxiv.org/pdf/2006.16011.pdf)
 * `arxiv2020` BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images [[link]](https://www.monkeyoverflow.com/#/blockgan/)
 * `arxiv2020` Neural Human Video Rendering:Joint Learning of Dynamic Textures and Rendering-to-Video Translation [[link]](https://arxiv.org/pdf/2001.04947v1.pdf)
-* `arxiv` SynSin: End-to-end View Synthesis from a Single Image [[link]](https://arxiv.org/pdf/1912.08804.pdf)
+* `CVPR2020` SynSin: End-to-end View Synthesis from a Single Image [[link]](https://arxiv.org/pdf/1912.08804.pdf)
 * `arxiv2019` Neural Voxel Renderer [[code]](http://www.krematas.com/nvr/index.html)
 * `arxiv2019` Neural Point-Based Graphics [[link]](https://arxiv.org/pdf/1906.08240.pdf)
 * `arxiv2019` A Neural Rendering Framework for Free-Viewpoint Relighting [[link]](https://128.84.21.199/pdf/1911.11530.pdf)

@@ -16,3 +16,6 @@ Papers from HCI conferences such as CHI and UIST
 * `UIST2019` MeCap: Whole-Body Digitization for Low-Cost VR/AR Headsets [[link]](https://karan-ahuja.com/mecap.html)
 * `UIST2018` MoSculp: Interactive Visualization of Shape and Time [[link]](http://mosculp.csail.mit.edu)
 * `UIST2010` Cosaliency: where people look when comparing images [[link]](http://graphics.stanford.edu/papers/cosaliency/)
+
+## Etc
+* `Interact. Mob. Wearable Ubiquitous Technol. 2020` FingerTrak: Continuous 3D Hand Pose Tracking by Deep Learning Hand Silhouettes Captured by Miniature Thermal Cameras on Wrist [[video]](https://www.youtube.com/watch?v=OO1iwrx3OLI)

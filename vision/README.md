@@ -197,6 +197,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ECCV
+* `ECCV2020` NASA: Neural Articulated Shape Approximation [[link]](https://arxiv.org/abs/1912.03207)
 * `ECCV2020` People as Scene Probes [[link]](https://grail.cs.washington.edu/projects/shadow/)
 * `ECCV2020` COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder [[link]](https://nvlabs.github.io/COCO-FUNIT/)
 * `ECCV2020` JWorld-Consistent Video-to-Video Synthesis [[link]](https://nvlabs.github.io/wc-vid2vid/)

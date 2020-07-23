@@ -1,5 +1,6 @@
 # ETC
-* `ICML2020` YOU ONLY TRAIN ONCE:
+* DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation
+* `ICML2020` YOU ONLY TRAIN ONCE
 LOSS-CONDITIONAL TRAINING OF DEEP NETWORKS
 * `ICML2020` ADJUSTABLE REAL-TIME STYLE TRANSFER
 * Deformable Style Transfer [[link]](https://arxiv.org/pdf/2003.11038v1.pdf)

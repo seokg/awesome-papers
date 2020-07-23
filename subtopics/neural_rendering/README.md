@@ -1,7 +1,7 @@
 # Neural Rendering
+* `arxiv2020` Neural Sparse Voxel Fields [[link]](https://arxiv.org/abs/2007.11571)
 * `arxiv2020` Multiview Neural Surface Reconstruction
 with Implicit Lighting and Material [[link]](https://lioryariv.github.io/idr/)
-
 * `arxiv2020` BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images [[link]](https://www.monkeyoverflow.com/blockgan/)
 * `MIT6.S191` Lecture 9: Neural Rendering [[video]](https://youtu.be/BCZ56MU-KhQ) [[note]](https://chuanli11.github.io/2020/02/03/neural-rendering.html)
 * `ECCV2020` Neural Point-Based Graphics [[code]](https://saic-violet.github.io/npbg/)

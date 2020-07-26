@@ -2,6 +2,7 @@
 Papers of image and video inpainting
 
 ## Image
+* `CVPR2020` Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [[link]](https://128.84.21.199/abs/2005.09704)[[code]](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
 * `arxiv2020` Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches [[link]](https://arxiv.org/pdf/2001.02890.pdf)
 * `ICCV2019` Coherent Semantic Attention for Image Inpainting [[link]]()
 * `ICCV2019` Free-Form Image Inpainting With Gated Convolution [[code]](https://github.com/JiahuiYu/generative_inpainting)
@@ -46,6 +47,10 @@ Papers of image and video inpainting
 
 
 ## Outpainting
+* `arxiv2020` Controllable and Progressive Image Extrapolation
+* `arxiv2020` Sketch-Guided Scenery Image Outpainting
+* `arxiv2020` SiENet: Siamese Expansion Network for Image Extrapolation
+* `arxiv2020` Enhanced Residual Networks for Context-based Image Outpainting
 * `arxiv2020` 180-degree Outpainting from a Single Image [[link]](https://arxiv.org/pdf/2001.04568v1.pdf)
 * `WACV2020` Multimodal Image Outpainting With Regularized Normalized Diversification [[link]](https://arxiv.org/pdf/1910.11481.pdf)[[code]](https://github.com/owenzlz/DiverseOutpaint)
 * `SATB2019` Structure-Aware Image Expansion with Global Attention [[link]](https://dl.acm.org/citation.cfm?id=3365161)

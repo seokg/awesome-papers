@@ -3,16 +3,22 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 
 
 ## SIGGRAPH
+* `SIGGRAPH2020` Learning Temporal Coherence via Self-Supervision for GAN-Based Video Generation [[code]](https://github.com/thunil/TecoGAN)
+* `SIGGRAPH2020` One Shot 3D Photography
+* `SIGGRAPH2020` DeepMag: Source Specific Motion Magnification Using Gradient Ascent 
+* `SIGGRAPH2020` Portrait Shadow Manipulation [[code]](https://github.com/google/portrait-shadow-manipulation)
+* `SIGGRAPH2020` Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss [[link]](http://faculty.cs.tamu.edu/nimak/Papers/SIGGRAPH2020_HDR/)
+* `SIGGRAPH2020` Consistent Video Depth Estimation [[link]](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
+* `SIGGRAPH2020` Human-in-the-Loop Differential Subspace Search in High-Dimensional Latent Space [[link]](http://www.cg.it.aoyama.ac.jp/yonghao/sig20/abstsig20.html)
+* `SIGGRAPH2020` MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing [[link]](https://mlchai.com/files/tan2020michigan.pdf)
 * `SIGGRAPH2020` Skeleton-Aware Networks for Deep Motion Retargeting [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
 * `SIGGRAPH2020` Unpaired Motion Style Transfer from Video to Animation [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
 * `SIGGRAPH2020` CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion [[link]](https://inventec-ai-center.github.io/projects/CARL/index.html)
-* `SIGGRAPH2020` Human-in-the-Loop Differential Subspace Search in High-Dimensional Latent Space [[link]](http://www.cg.it.aoyama.ac.jp/yonghao/sig20/abstsig20.html)
-* `SIGGRAPH2020` MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing [[link]](https://mlchai.com/files/tan2020michigan.pdf)
 * `SIGGRAPH2020` Interactive Video Stylization Using Few-Shot Patch-Based Training [[link]](https://ondrejtexler.github.io/patch-based_training/)
 * `SIGGRAPH2020` Manipulating Attributes of Natural Scenes via Hallucination [[link]](https://hucvl.github.io/attribute_hallucination/)[[code]](https://github.com/hucvl/attribute_hallucination)
 * `SIGGRAPH2020` XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera [[link]](http://gvv.mpi-inf.mpg.de/projects/XNect/)
-* `SIGGRAPH2020` Consistent Video Depth Estimation [[link]](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 * `SIGGRAPH2020` RigNet: Neural Rigging for Articulated Characters [[link]](https://people.cs.umass.edu/~zhanxu/projects/RigNet/)
+* `SIGGRAPH2020` Example-driven Virtual Cinematography by Learning Camera Behavior [[link]](https://jianghd1996.github.io/publication/sig_2020/)
 * `SIGGRAPH2019` VR Facial Animation via Multiview Image Translation [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 * `SIGGRAPH2019` Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies [[link]](https://www.cs.princeton.edu/~fheide/proxyopt)
 * `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prior [[link]](http://ganpaint.io/)
@@ -111,7 +117,6 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 * `SATB2019` A Decomposition Method of Object Transfiguration [[link]](https://dl.acm.org/citation.cfm?id=3365151)
 * `SATB2019` Structure-Aware Image Expansion with Global Attention [[link]]()
 
-
 ## START REPORT [[link]](https://sites.google.com/site/drminchen/cgf-info/cgf-stars)
 * A Survey on Data-Driven Video Completion
 * State of the Art Report on Video-Based Graphics and Video Visualization
@@ -120,3 +125,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 * The State of the Art in Integrating Machine Learning into Visual Analytics
 * A Comprehensive Survey on Sampling-Based Image Matting
 
+
+## ETC
+* `EGSR2020` High-Resolution Neural Face Swapping for Visual Effects [[link]](http://studios.disneyresearch.com/2020/06/29/high-resolution-neural-face-swapping-for-visual-effects/)
+* `EGSR2018` Deep Painterly Harmonization [[code]](https://github.com/luanfujun/deep-painterly-harmonization)

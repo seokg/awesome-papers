@@ -1,4 +1,8 @@
 # ETC
+* DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation
+* `ICML2020` YOU ONLY TRAIN ONCE
+LOSS-CONDITIONAL TRAINING OF DEEP NETWORKS
+* `ICML2020` ADJUSTABLE REAL-TIME STYLE TRANSFER
 * Deformable Style Transfer [[link]](https://arxiv.org/pdf/2003.11038v1.pdf)
 * Learning Physics-guided Face Relighting under Directional Light 
 * Learning to Shade Hand-drawn Sketches [[link]](https://arxiv.org/pdf/2002.11812.pdf)

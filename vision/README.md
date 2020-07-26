@@ -5,7 +5,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `CVPR2020` Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision [[code]](https://github.com/autonomousvision/differentiable_volumetric_rendering)
 * `CVPR2020` StegaStamp: Invisible Hyperlinks in Physical Photographs [[code]](https://github.com/tancik/StegaStamp)
 * `CVPR2020` Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination [[code]](https://github.com/pratulsrinivasan/lighthouse)
-* `CVPR2020` CNN-generated images are surprisingly easy to spot... for now [[link]](CNN-generated images are surprisingly easy to spot... for now)
+* `CVPR2020` CNN-generated images are surprisingly easy to spot... for now [[code]](https://github.com/peterwang512/CNNDetection)
 * `CVPR2020` End-to-End Time-Lapse Video Synthesis from a Single Outdoor Image
 * `CVPR2020` Learning to Cartoonize Using White-box Cartoon Representations [[code]](https://github.com/SystemErrorWang/White-box-Cartoonization)
 * `CVPR2020` Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion [[code]](https://github.com/NVlabs/DeepInversion)[[link]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf)

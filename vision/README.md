@@ -205,6 +205,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ECCV
+* `ECCV2020` RANSAC-Flow: generic two-stageimage alignment [[code]](https://github.com/XiSHEN0220/RANSAC-Flow)
 * `ECCV2020` Contact and Human Dynamics from Monocular Video [[link]](https://t.co/0ez3bjGunw?amp=1)
 * `ECCV2020` Learning to Factorize and Relight a City [[link]](https://factorize-a-city.github.io)
 * `ECCV2020` NASA: Neural Articulated Shape Approximation [[link]](https://arxiv.org/abs/1912.03207)
@@ -220,12 +221,11 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ETC
-* `arxiv2020` NeRF: Neural Radiance Fields [[code]](https://github.com/bmild/nerf)
+<!-- * `arxiv2020` NeRF: Neural Radiance Fields [[code]](https://github.com/bmild/nerf) -->
 * `CVPRW2020` The “Vertigo Effect” on Your Smartphone:Dolly Zoom via Single Shot View Synthesis [[link]](http://openaccess.thecvf.com/content_CVPRW_2020/supplemental/Liang_The_Vertigo_Effect_CVPRW_2020_supplemental.pdf)
 * `CVPRW2020` Sky Optimization: Semantically aware image processing of skies in low-light photography [[code]](https://github.com/google/sky-optimization)
 * `ICRA2020` DREAM: Camera Calibration without Fiducial Markers through Sim2Real Keypoint Detection [[code]](https://sim2realai.github.io/dream-camera-calibration-sim2real/)
 * `arxiv2020` SIREN: Implicit Neural Representations with Periodic Activation Functions [[code]](https://github.com/vsitzmann/siren)
 * `arxiv2020` High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images
 * `arxiv2020` Structural-analogy from a Single Image Pair [[code]](https://github.com/rmokady/structural-analogy)
-* `arxiv2020` RANSAC-Flow: generic two-stageimage alignment [[code]](https://github.com/XiSHEN0220/RANSAC-Flow)
 * `arxiv2020` Learning the Loss Functions in a Discriminative Space for Video Restoration

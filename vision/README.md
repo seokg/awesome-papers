@@ -192,7 +192,6 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `ICCV2019` Ego-Pose Estimation and Forecasting As Real-Time PD Control	 [[link]]()
 * `ICCV2019` Physics-Based Rendering for Improving Robustness to Rain [[link]]()
 * `ICCV2019` ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal [[link]]()
-<<<<<<< HEAD
 * `ICCV2019` Underexposed Photo Enhancement using Deep Illumination Estimation [[link]]()
 * `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]]()
 * `ICCV2019` Few-Shot Unsupervised Image-to-Image Translation [[link]]()
@@ -201,12 +200,13 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ECCV
-=======
 * `ICCV2019` Underexposed Photo Enhancement using Deep Illumination Estimation [[link]]() -->
 
 
 
 ## ECCV
+* `ECCV2020` Contact and Human Dynamics from Monocular Video [[link]](https://t.co/0ez3bjGunw?amp=1)
+* `ECCV2020` Learning to Factorize and Relight a City [[link]](https://factorize-a-city.github.io)
 * `ECCV2020` NASA: Neural Articulated Shape Approximation [[link]](https://arxiv.org/abs/1912.03207)
 * `ECCV2020` People as Scene Probes [[link]](https://grail.cs.washington.edu/projects/shadow/)
 * `ECCV2020` COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder [[link]](https://nvlabs.github.io/COCO-FUNIT/)
@@ -215,21 +215,17 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 * `ECCV2020` Personalized Face Modeling for Improved Face Reconstruction and Motion Retargeting
 * `ECCV2020` Neural Point-Based Graphics [[code]](https://saic-violet.github.io/npbg/)
 * `ECCV2020` NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[code]](https://github.com/bmild/nerf)
->>>>>>> dacfe12e63baafc5dce78a0fffa967faaad86e84
 * `ECCV2018` GANimorph: Improving Shape Deformation in Unsupervised Image to Image Translation [[link]](http://arxiv.org/abs/1808.04325)[[code]](https://github.com/brownvc/ganimorph/)
 * `ECCV2018` CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering [[link]](http://www.cs.cornell.edu/projects/cgintrinsics/)[[code]](https://github.com/zhengqili/CGIntrinsics)
 
 
 ## ETC
-<<<<<<< HEAD
 * `arxiv2020` NeRF: Neural Radiance Fields [[code]](https://github.com/bmild/nerf)
-=======
 * `CVPRW2020` The “Vertigo Effect” on Your Smartphone:Dolly Zoom via Single Shot View Synthesis [[link]](http://openaccess.thecvf.com/content_CVPRW_2020/supplemental/Liang_The_Vertigo_Effect_CVPRW_2020_supplemental.pdf)
 * `CVPRW2020` Sky Optimization: Semantically aware image processing of skies in low-light photography [[code]](https://github.com/google/sky-optimization)
 * `ICRA2020` DREAM: Camera Calibration without Fiducial Markers through Sim2Real Keypoint Detection [[code]](https://sim2realai.github.io/dream-camera-calibration-sim2real/)
 * `arxiv2020` SIREN: Implicit Neural Representations with Periodic Activation Functions [[code]](https://github.com/vsitzmann/siren)
 * `arxiv2020` High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images
->>>>>>> dacfe12e63baafc5dce78a0fffa967faaad86e84
 * `arxiv2020` Structural-analogy from a Single Image Pair [[code]](https://github.com/rmokady/structural-analogy)
 * `arxiv2020` RANSAC-Flow: generic two-stageimage alignment [[code]](https://github.com/XiSHEN0220/RANSAC-Flow)
 * `arxiv2020` Learning the Loss Functions in a Discriminative Space for Video Restoration

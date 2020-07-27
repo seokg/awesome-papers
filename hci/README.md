@@ -11,6 +11,7 @@ Papers from HCI conferences such as CHI and UIST
 
 
 ## UIST
+* `UIST2020` DEPTHLAB: REAL-TIME 3D INTERACTION WITH DEPTH MAPS FOR MOBILE AUGMENTED REALITY [[link]](https://augmentedperception.github.io/depthlab/?fbclid=IwAR20BMR2jbxMl4SX6eRtsUoR5zDihxFKYxo_W_MD6EVUYllTcj0dDYbScSc)
 * `UIST2019` View-Dependent Video Textures for 360° Video [[link]](https://lseancs.github.io/viewdepvrtextures/)
 * `UIST2019` Optimizing Portrait Lighting at Capture-Time Using a 360 Camera as a Light Probe [[link]](http://graphics.stanford.edu/projects/portraitlighting/)
 * `UIST2019` MeCap: Whole-Body Digitization for Low-Cost VR/AR Headsets [[link]](https://karan-ahuja.com/mecap.html)

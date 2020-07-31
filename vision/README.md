@@ -205,6 +205,7 @@ A list of papers from vision conferences such as CVPR, ECCV, and ICCV
 
 
 ## ECCV
+* `ECCV2020` Contrastive Learning for Unpaired Image-to-Image Translation [[link]](http://taesung.me/ContrastiveUnpairedTranslation/)[[https://github.com/taesungp/contrastive-unpaired-translation]]
 * `ECCV2020` Learning Joint Spatial-Temporal Transformations for Video Inpainting [[link]](https://github.com/researchmm/STTN)
 * `ECCV2020` Lifespan Age Transformation Synthesis [[link]](https://grail.cs.washington.edu/projects/lifespan_age_transformation_synthesis/)
 * `ECCV2020` RANSAC-Flow: generic two-stageimage alignment [[code]](https://github.com/XiSHEN0220/RANSAC-Flow)

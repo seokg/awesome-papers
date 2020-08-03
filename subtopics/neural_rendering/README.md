@@ -1,5 +1,11 @@
 # Neural Rendering
+## Survey papers
+* `EG-STAR2020` State of the Art on Neural Rendering [[link]](https://arxiv.org/pdf/2004.03805.pdf)[[video tutorial]](https://www.youtube.com/watch?v=LCTYRqW-ne8)
+* `arxiv2020` Differentiable Rendering: A Survey [[link]](https://arxiv.org/pdf/2006.12057.pdf))
+* `arxiv2020` Accelerating 3D Deep Learning with PyTorch3D [[link]](https://arxiv.org/abs/2007.08501)
 * `arxiv2020` Neural Sparse Voxel Fields [[link]](https://arxiv.org/abs/2007.11571)
+
+## Neural Rendering papers
 * `arxiv2020` Multiview Neural Surface Reconstruction
 with Implicit Lighting and Material [[link]](https://lioryariv.github.io/idr/)
 * `arxiv2020` BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images [[link]](https://www.monkeyoverflow.com/blockgan/)
@@ -9,7 +15,6 @@ with Implicit Lighting and Material [[link]](https://lioryariv.github.io/idr/)
 * `ICML2020` DRWR: A Differentiable Renderer without Rendering for Unsupervised 3D Structure Learning from Silhouette Images [[link]](https://arxiv.org/abs/2007.06127)
 * `ICML2020` Equivariant Neural Rendering [[link]](https://arxiv.org/abs/2006.07630)
 * `ICML2020` Implicit Geometric Regularization for Learning Shapes [[link]]
-* `EG-STAR2020` State of the Art on Neural Rendering [[link]](https://arxiv.org/pdf/2004.03805.pdf)[[video tutorial]](https://www.youtube.com/watch?v=LCTYRqW-ne8)
 * `arxiv2020` Unsupervised object-centric video generation and decomposition in 3D [[link]](https://www.pmh47.net/o3v/)
 * `arxiv2020` Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition [[link]](https://arxiv.org/pdf/2006.16011.pdf)
 * `arxiv2020` BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images [[link]](https://www.monkeyoverflow.com/#/blockgan/)
@@ -43,7 +48,7 @@ with Implicit Lighting and Material [[link]](https://lioryariv.github.io/idr/)
 * `NeurIPS2018` RenderNet: A deep convolutional network for differentiable rendering from 3D shapes [[link]](https://github.com/thunguyenphuoc/RenderNet)
 * `CGI2018` Point Based Rendering Enhancement via Deep Learning [[link]](http://faculty.missouri.edu/duanye/CGI_2018-low-res.pdf)
 
-## Image-Based Rendering
+## Image-Based Rendering papers
 * `SIGGRAPH2019Course` Capture4VR: From VR Photography to VR Video [[link]](https://richardt.name/publications/capture4vr/)
 * `VR2019` MegaParallax: Casual 360° Panoramas with Motion Parallax [[link]](https://richardt.name/publications/megaparallax/) 
 * `SIGGRAPH2018` Instant 3D Photography [[link]](http://visual.cs.ucl.ac.uk/pubs/instant3d/)

@@ -1,4 +1,5 @@
 # Lightweight Models
+* LiteFlowNet3: Resolving Correspondence Ambiguity for More Accurate Optical Flow Estimation [[link]](https://github.com/twhui/LiteFlowNet3)
 * LIDIA: Lightweight Learned Image Denoising with Instance Adaptation [[link]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Vaksman_LIDIA_Lightweight_Learned_Image_Denoising_With_Instance_Adaptation_CVPRW_2020_paper.pdf)
 * A Lightweight Neural Network for Monocular View Generation with Occlusion Handling [[link]](http://clim.inria.fr/research/MonocularSynthesis/monocular.html)
 * Real-time Universal Style Transfer on High-resolution Images via Zero-channel Pruning [[link]](https://arxiv.org/pdf/2006.09029.pdf)

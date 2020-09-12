@@ -4,7 +4,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 
 ## SIGGRAPH
 * `SIGGRAPH2020` Learning Temporal Coherence via Self-Supervision for GAN-Based Video Generation [[code]](https://github.com/thunil/TecoGAN)
-* `SIGGRAPH2020` One Shot 3D Photography
+* `SIGGRAPH2020` One Shot 3D Photography [[code]](https://github.com/facebookresearch/one_shot_3d_photography))
 * `SIGGRAPH2020` DeepMag: Source Specific Motion Magnification Using Gradient Ascent 
 * `SIGGRAPH2020` Portrait Shadow Manipulation [[code]](https://github.com/google/portrait-shadow-manipulation)
 * `SIGGRAPH2020` Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss [[link]](http://faculty.cs.tamu.edu/nimak/Papers/SIGGRAPH2020_HDR/)
@@ -14,11 +14,11 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 * `SIGGRAPH2020` Skeleton-Aware Networks for Deep Motion Retargeting [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
 * `SIGGRAPH2020` Unpaired Motion Style Transfer from Video to Animation [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
 * `SIGGRAPH2020` CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion [[link]](https://inventec-ai-center.github.io/projects/CARL/index.html)
-* `SIGGRAPH2020` Interactive Video Stylization Using Few-Shot Patch-Based Training [[link]](https://ondrejtexler.github.io/patch-based_training/)
+* `SIGGRAPH2020` Interactive Video Stylization Using Few-Shot Patch-Based Training [[link]](https://ondrejtexler.github.io/patch-based_training/)[[code]](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)
 * `SIGGRAPH2020` Manipulating Attributes of Natural Scenes via Hallucination [[link]](https://hucvl.github.io/attribute_hallucination/)[[code]](https://github.com/hucvl/attribute_hallucination)
 * `SIGGRAPH2020` XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera [[link]](http://gvv.mpi-inf.mpg.de/projects/XNect/)
-* `SIGGRAPH2020` RigNet: Neural Rigging for Articulated Characters [[link]](https://people.cs.umass.edu/~zhanxu/projects/RigNet/)
-* `SIGGRAPH2020` Example-driven Virtual Cinematography by Learning Camera Behavior [[link]](https://jianghd1996.github.io/publication/sig_2020/)
+* `SIGGRAPH2020` RigNet: Neural Rigging for Articulated Characters [[link]](https://zhan-xu.github.io/rig-net/)[[code]](https://github.com/zhan-xu/RigNet)
+* `SIGGRAPH2020` Example-driven Virtual Cinematography by Learning Camera Behavior [[link]](https://jianghd1996.github.io/publication/sig_2020/)[[code]](https://github.com/jianghd1996/Camera-control/tree/master/SIGGRAPH_2020)
 * `SIGGRAPH2019` VR Facial Animation via Multiview Image Translation [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 * `SIGGRAPH2019` Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies [[link]](https://www.cs.princeton.edu/~fheide/proxyopt)
 * `SIGGRAPH2019` Semantic Photo Manipulation With a Generative Image Prior [[link]](http://ganpaint.io/)
@@ -61,6 +61,15 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 
 
 ## SIGGRAPH ASIA
+* `SIGASIA2020` Neural Crossbreed: Neural Based Image Metamorphosis [[link]](https://arxiv.org/abs/2009.00905)
+* `SIGASIA2020` MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency [[link]](https://rubbly.cn/publications/motioNet/)[[code]](https://github.com/Shimingyi/MotioNet)
+* `SIGASIA2020` Dynamic Facial Asset and Rig Generation from a Single Scan [[link]]()
+* `SIGASIA2020` Mononizing Binocular Videos [[link]](https://wbhu.github.io/projects/Mono3D/)
+* `SIGASIA2020` MakeItTalk: Speaker-Aware Talking Head Animation [[link]](https://arxiv.org/abs/2004.12992)
+* `SIGASIA2020` Pixelor: A Competitive Sketching AI Agent. So you think you can beat me? [[code]](https://github.com/AyanKumarBhunia/sketch-transformerMMD) 
+* `SIGASIA2020` Manga Filling with ScreenVAE [[link]](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html)
+* `SIGASIA2020` Light Stage Super-Resolution: Continuous High-Frequency Relighting [[link]](https://cseweb.ucsd.edu/~ravir/tianchengsiga.pdf)
+* `SIGASIA2020` Complementary Dynamics [[link]](https://www.dgp.toronto.edu/projects/complementary-dynamics/)
 * `SIGASIA2019` Handheld Mobile Photography in Very Low Light [[link]](https://github.com/google/night-sight)
 * `SIGASIA2019` Learning Efficient Illumination Multiplexing for Joint Capture of Reflectance and Shape [[link]](http://cad.zju.edu.cn/home/hwu/publications/jointcap/project.html)
 * `SIGASIA2019` Blind Image Super-Resolution with Spatially Variant Degradations [[link]](https://igl.ethz.ch/projects/variational-blind-sr/) [[code]](https://github.com/sunreef/BlindSR)

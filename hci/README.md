@@ -19,4 +19,5 @@ Papers from HCI conferences such as CHI and UIST
 * `UIST2010` Cosaliency: where people look when comparing images [[link]](http://graphics.stanford.edu/papers/cosaliency/)
 
 ## Etc
+* `IUI2020` Pose2Pose: Pose Selection and Transfer for 2D Character Animation [[link]](https://gfx.cs.princeton.edu/pubs/Willett_2020_PPS/index.php)
 * `Interact. Mob. Wearable Ubiquitous Technol. 2020` FingerTrak: Continuous 3D Hand Pose Tracking by Deep Learning Hand Silhouettes Captured by Miniature Thermal Cameras on Wrist [[video]](https://www.youtube.com/watch?v=OO1iwrx3OLI)

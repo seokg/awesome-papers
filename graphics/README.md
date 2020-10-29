@@ -61,15 +61,34 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 
 
 ## SIGGRAPH ASIA
+* `SIGASIA2020` Layered Neural Rendering for Retiming People in Video [[link]](https://retiming.github.io/)[[code]]()
 * `SIGASIA2020` Neural Crossbreed: Neural Based Image Metamorphosis [[link]](https://arxiv.org/abs/2009.00905)
-* `SIGASIA2020` MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency [[link]](https://rubbly.cn/publications/motioNet/)[[code]](https://github.com/Shimingyi/MotioNet)
-* `SIGASIA2020` Dynamic Facial Asset and Rig Generation from a Single Scan [[link]]()
 * `SIGASIA2020` Mononizing Binocular Videos [[link]](https://wbhu.github.io/projects/Mono3D/)
 * `SIGASIA2020` MakeItTalk: Speaker-Aware Talking Head Animation [[link]](https://arxiv.org/abs/2004.12992)
 * `SIGASIA2020` Pixelor: A Competitive Sketching AI Agent. So you think you can beat me? [[code]](https://github.com/AyanKumarBhunia/sketch-transformerMMD) 
 * `SIGASIA2020` Manga Filling with ScreenVAE [[link]](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html)
 * `SIGASIA2020` Light Stage Super-Resolution: Continuous High-Frequency Relighting [[link]](https://cseweb.ucsd.edu/~ravir/tianchengsiga.pdf)
+* `SIGASIA2020` Egocentric Videoconferencing [[lnik]](http://gvv.mpi-inf.mpg.de/projects/EgoChat/)
+* `SIGASIA2020` OmniPhotos: Casual 360° VR Photography [[link]](https://richardt.name/publications/omniphotos/)[[code]](https://richardt.name/publications/omniphotos/)
+* `SIGASIA2020` Deep Relightable Textures: Volumetric Performance Capture With Neural Rendering [[link]](http://gvv.mpi-inf.mpg.de/projects/DeepRelightableTextures/)
+* `SIGASIA2020` X-Fields: Implicit Neural View-, Light- And Time-Image Interpolation [[]](https://xfields.mpi-inf.mpg.de/)[[code]](https://github.com/m-bemana/xfields)
+* `SIGASIA2020` Face Disentanglement Via Latent Space Mapping
+* `SIGASIA2020` PIE: Portrait Image Embedding For Semantic Control [[link]](http://gvv.mpi-inf.mpg.de/projects/PIE/)
+* `SIGASIA2020` Single Image Portrait Relighting Via Explicit Multiple Reflectance Channel Modeling
+* `SIGASIA2020` MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency [[link]](https://rubbly.cn/publications/motioNet/)[[code]](https://github.com/Shimingyi/MotioNet)
+* `SIGASIA2020` MoGlow: Probabilistic And Controllable Motion Synthesis Using Normalising Flows
+* `SIGASIA2020` PhysCap: Physically Plausible Monocular 3D Motion Capture In Real Time [[link]](http://gvv.mpi-inf.mpg.de/projects/PhysCap/)
+* `SIGASIA2020` Speech Gesture Generation From The Trimodal Context Of Text, Audio, And Speaker Identity [[code]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
+* `SIGASIA2020` Dynamic Facial Asset and Rig Generation from a Single Scan [[link]]()
+* `SIGASIA2020` A Reduced-Precision Network For Image Reconstruction [[link]](https://creativecoding.soe.ucsc.edu/QW-Net/)[[code]](https://creativecoding.soe.ucsc.edu/QW-Net/)
+* `SIGASIA2020` SketchPatch: Sketch Stylization Via Seamless Patch-Level Synthesis
+* `SIGASIA2020` Differentiable Vector Graphics Rasterization For Editing And Learning [[link]](https://people.csail.mit.edu/tzumao/diffvg/)[[code]](https://github.com/BachiLi/diffvg)
 * `SIGASIA2020` Complementary Dynamics [[link]](https://www.dgp.toronto.edu/projects/complementary-dynamics/)
+* `SIGASIA2020` Monster Mash: A Single-View Approach To Casual 3D Modeling And Animation [[link]](https://dcgi.fel.cvut.cz/home/sykorad/)
+* `SIGASIA2020` MaterialGAN: Reflectance Capture Using A Generative SVBRDF Model [[link]](https://shuangz.com/projects/materialgan-sa20/)[[code]](https://shuangz.com/projects/materialgan-sa20/)
+* `SIGASIA2020` Deferred Neural Lighting: Free-Viewpoint Relighting From Unstructured Photographs [[link]](https://gao-duan.github.io/)[[code]](https://gao-duan.github.io/)
+* `SIGASIA2020` Continuous Curve Textures [[link]](https://www.youtube.com/watch?v=gfogZ7BphvE)
+* `SIGASIA2020` A Benchmark For Rough Sketch Cleanup [[link]](https://cragl.cs.gmu.edu/sketchbench/)
 * `SIGASIA2019` Handheld Mobile Photography in Very Low Light [[link]](https://github.com/google/night-sight)
 * `SIGASIA2019` Learning Efficient Illumination Multiplexing for Joint Capture of Reflectance and Shape [[link]](http://cad.zju.edu.cn/home/hwu/publications/jointcap/project.html)
 * `SIGASIA2019` Blind Image Super-Resolution with Spatially Variant Degradations [[link]](https://igl.ethz.ch/projects/variational-blind-sr/) [[code]](https://github.com/sunreef/BlindSR)

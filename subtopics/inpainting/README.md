@@ -47,6 +47,7 @@ Papers of image and video inpainting
 
 
 ## Outpainting
+* `Access2020` Image Outpainting: Hallucinating Beyond the Image [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200510)
 * `arxiv2020` Controllable and Progressive Image Extrapolation
 * `arxiv2020` Sketch-Guided Scenery Image Outpainting
 * `arxiv2020` SiENet: Siamese Expansion Network for Image Extrapolation

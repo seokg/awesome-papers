@@ -10,7 +10,7 @@ Papers from graphics conferences such as SIGGRAPH, Eurographics, and Pacific Gra
 * `SIGGRAPH2020` Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss [[link]](http://faculty.cs.tamu.edu/nimak/Papers/SIGGRAPH2020_HDR/)
 * `SIGGRAPH2020` Consistent Video Depth Estimation [[link]](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 * `SIGGRAPH2020` Human-in-the-Loop Differential Subspace Search in High-Dimensional Latent Space [[link]](http://www.cg.it.aoyama.ac.jp/yonghao/sig20/abstsig20.html)
-* `SIGGRAPH2020` MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing [[link]](https://mlchai.com/files/tan2020michigan.pdf)
+* `SIGGRAPH2020` MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing [[link]](https://mlchai.com/files/tan2020michigan.pdf)[[code]](https://github.com/tzt101/MichiGAN)
 * `SIGGRAPH2020` Skeleton-Aware Networks for Deep Motion Retargeting [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
 * `SIGGRAPH2020` Unpaired Motion Style Transfer from Video to Animation [[code]](https://github.com/DeepMotionEditing/deep-motion-editing)
 * `SIGGRAPH2020` CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion [[link]](https://inventec-ai-center.github.io/projects/CARL/index.html)

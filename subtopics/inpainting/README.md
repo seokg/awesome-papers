@@ -53,6 +53,7 @@ Papers of image and video inpainting
 * `arxiv2020` SiENet: Siamese Expansion Network for Image Extrapolation
 * `arxiv2020` Enhanced Residual Networks for Context-based Image Outpainting
 * `arxiv2020` 180-degree Outpainting from a Single Image [[link]](https://arxiv.org/pdf/2001.04568v1.pdf)
+* `WACV2020` 360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View [[link]](https://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf)
 * `WACV2020` Multimodal Image Outpainting With Regularized Normalized Diversification [[link]](https://arxiv.org/pdf/1910.11481.pdf)[[code]](https://github.com/owenzlz/DiverseOutpaint)
 * `SATB2019` Structure-Aware Image Expansion with Global Attention [[link]](https://dl.acm.org/citation.cfm?id=3365161)
 * `ICCV2019` Boundless: Generative Adversarial Networks for Image Extension [[link]](https://sites.google.com/view/boundless-iccv/home)

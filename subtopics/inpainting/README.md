@@ -47,6 +47,7 @@ Papers of image and video inpainting
 
 
 ## Outpainting
+* `2020` Spiral Generative Network for Image Extrapolation [[link]](http://scholar.google.com/scholar_url?url=https://link.springer.com/content/pdf/10.1007/978-3-030-58529-7_41.pdf&hl=en&sa=X&d=5683724918286196408&ei=GM2zX5H4NoydmwGTqJf4Cw&scisig=AAGBfm3x1d1VQ38NbogUPH16jhVrsw0fVA&nossl=1&oi=scholaralrt&hist=AQt43oYAAAAJ:17513068027668667011:AAGBfm214EzRm1eD6dU3BEzmkZH9Spn7Uw&html=)[[code]](https://github.com/zhenglab/spiralnet)
 * `Access2020` Image Outpainting: Hallucinating Beyond the Image [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200510)
 * `arxiv2020` Controllable and Progressive Image Extrapolation
 * `arxiv2020` Sketch-Guided Scenery Image Outpainting
